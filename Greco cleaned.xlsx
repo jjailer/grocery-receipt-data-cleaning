@@ -1,0 +1,2662 @@
+,ID,TP-Date,RecNum,RecDate,Item (modifier),NumPurchased,FoodCategory,Item
+0,121,1,1.0,2020-06-04,Cereal (cheerios),1,Breakfast,Cereal 
+2,121,1,1.0,2020-06-04,Mozzarella cheese,1,Dairy,Mozzarella cheese
+3,121,1,1.0,2020-06-04,Apple pie,2,Dessert,Apple pie
+4,121,1,1.0,2020-06-04,Ice cream,2,Dessert,Ice cream
+5,121,1,1.0,2020-06-04,Layer cake,2,Dessert,Layer cake
+6,121,1,1.0,2020-06-04,Clam chowder,1,Dish,Clam chowder
+7,121,1,1.0,2020-06-04,Pot pie,2,Dish,Pot pie
+8,121,1,1.0,2020-06-04,Almond milk,1,Drink,Almond milk
+9,121,1,1.0,2020-06-04,Orange juice,1,Drink,Orange juice
+10,121,1,1.0,2020-06-04,Sparkling drink,1,Drink,Sparkling drink
+12,121,1,1.0,2020-06-04,Avocado,3,Fruit,Avocado
+13,121,1,1.0,2020-06-04,Strawberries,1,Fruit,Strawberries
+14,121,1,1.0,2020-06-04,Shrimp,3,Seafood,Shrimp
+15,121,1,1.0,2020-06-04,Wonton strips,1,Seasoning,Wonton strips
+19,121,1,1.0,2020-06-05,Cake (coconut),1,Dessert,Cake 
+20,121,1,1.0,2020-06-05,Sugar cookie,1,Dessert,Sugar cookie
+21,121,1,1.0,2020-06-05,Bacon,1,Meat,Bacon
+22,121,1,1.0,2020-06-05,BLT salad,1,Salad,BLT salad
+23,121,1,1.0,2020-06-05,Cheetos,1,Snack,Cheetos
+26,113,1,1.0,2020-06-07,Butter,1,Dairy,Butter
+27,113,1,1.0,2020-06-07,Cheddar cheese,2,Dairy,Cheddar cheese
+28,113,1,1.0,2020-06-07,Milk (whole),1,Dairy,Milk 
+29,113,1,1.0,2020-06-07,Parmesan cheese (shredded),1,Dairy,Parmesan cheese 
+30,113,1,1.0,2020-06-07,Whipping cream,1,Dairy,Whipping cream
+31,113,1,1.0,2020-06-07,Bacon,1,Meat,Bacon
+32,113,1,1.0,2020-06-07,Ground beef,1,Meat,Ground beef
+34,113,1,1.0,2020-06-07,Pasta?,3,Pasta,Pasta?
+36,113,1,1.0,2020-06-07,Asparagus?,1,Vegetable,Asparagus?
+38,114,1,2.0,2020-06-11,"Pasta sauce (garlic, herb)",1,Condiment,Pasta sauce 
+39,114,1,2.0,2020-06-11,"Pasta Sauce (sausage, garlic)",1,Condiment,Pasta Sauce 
+40,114,1,2.0,2020-06-11,Almond milk chocolate,1,Drink,Almond milk chocolate
+41,114,1,2.0,2020-06-11,Fettuccine pasta,1,Pasta,Fettuccine pasta
+44,113,1,2.0,2020-06-12,Cheddar cheese,2,Dairy,Cheddar cheese
+45,113,1,2.0,2020-06-12,Whipping cream,1,Dairy,Whipping cream
+46,113,1,2.0,2020-06-12,Sausage stick,1,Meat,Sausage stick
+47,113,1,2.0,2020-06-12,Pasta?,3,Pasta,Pasta?
+49,113,1,2.0,2020-06-12,Broccoli,1,Vegetable,Broccoli
+50,113,1,2.0,2020-06-12,Brussel sprouts,1,Vegetable,Brussel sprouts
+52,114,1,1.0,2020-06-13,Colby jack cheese,1,Dairy,Colby jack cheese
+53,114,1,1.0,2020-06-13,Cheesecake,1,Dessert,Cheesecake
+54,114,1,1.0,2020-06-13,Tea bags,1,Drink,Tea bags
+55,114,1,1.0,2020-06-13,Bananas,1,Fruit,Bananas
+56,114,1,1.0,2020-06-13,Turkey bacon,1,Meat,Turkey bacon
+58,114,1,1.0,2020-06-13,Asian salad,1,Salad,Asian salad
+59,114,1,1.0,2020-06-13,Tapioca pudding cups,1,Snack,Tapioca pudding cups
+60,114,1,1.0,2020-06-13,Enchilada (chicken),1,Spanishfood,Enchilada 
+62,126,1,1.0,2020-06-16,Eggs,1,Breakfast,Eggs
+63,126,1,1.0,2020-06-16,Mayonnaise dressing (with olive oil),1,Condiment,Mayonnaise dressing 
+64,126,1,1.0,2020-06-16,Milk (1%),1,Dairy,Milk 
+65,126,1,1.0,2020-06-16,Yogurt (vanilla),3,Dairy,Yogurt 
+66,126,1,1.0,2020-06-16,Cookies (oatmeal raisin),1,Dessert,Cookies 
+67,126,1,1.0,2020-06-16,Chicken Parmesan,3,Dish,Chicken Parmesan
+68,126,1,1.0,2020-06-16,Macaroni and Cheese with Broccoli,11,Dish,Macaroni and Cheese with Broccoli
+69,126,1,1.0,2020-06-16,Bananas,1,Fruit,Bananas
+70,126,1,1.0,2020-06-16,Nectarines,1,Fruit,Nectarines
+71,126,1,1.0,2020-06-16,Crackers,1,Snack,Crackers
+72,126,1,1.0,2020-06-16,Crackers (multigrain),1,Snack,Crackers 
+73,126,1,1.0,2020-06-16,Broccoli,1,Vegetable,Broccoli
+74,126,1,1.0,2020-06-16,Onions,1,Vegetable,Onions
+75,126,1,1.0,2020-06-16,Orange peppers,2,Vegetable,Orange peppers
+76,126,1,1.0,2020-06-16,Yellow peppers,2,Vegetable,Yellow peppers
+77,113,2,1.0,2020-06-19,White vinegar,1,Baking,White vinegar
+78,118,1,1.0,2020-06-19,Cereal (Honey Bunches of Oats),1,Breakfast,Cereal 
+79,118,1,1.0,2020-06-19,Chocolate chips,1,Candy,Chocolate chips
+80,118,1,1.0,2020-06-19,Chili sauce,1,Condiment,Chili sauce
+81,118,1,1.0,2020-06-19,Chocolate syrup,1,Condiment,Chocolate syrup
+82,113,2,1.0,2020-06-19,Butter,1,Dairy,Butter
+83,113,2,1.0,2020-06-19,Cheddar cheese,2,Dairy,Cheddar cheese
+84,118,1,1.0,2020-06-19,Milk (low fat),1,Dairy,Milk 
+85,113,2,1.0,2020-06-19,Milk (whole),1,Dairy,Milk 
+86,113,2,1.0,2020-06-19,Parmesan cheese (shredded),1,Dairy,Parmesan cheese 
+87,113,2,1.0,2020-06-19,Whipping cream,2,Dairy,Whipping cream
+88,113,2,1.0,2020-06-19,Coffee (beans),1,Drink,Coffee 
+89,118,1,1.0,2020-06-19,Coffee drink,1,Drink,Coffee drink
+90,118,1,1.0,2020-06-19,Soda (lemon-lime),3,Drink,Soda 
+91,118,1,1.0,2020-06-19,Avocado,1,Fruit,Avocado
+92,118,1,1.0,2020-06-19,Bananas,1,Fruit,Bananas
+93,118,1,1.0,2020-06-19,Lemon,2,Fruit,Lemon
+94,118,1,1.0,2020-06-19,Raspberries,1,Fruit,Raspberries
+95,118,1,1.0,2020-06-19,Watermelon,1,Fruit,Watermelon
+96,113,2,1.0,2020-06-19,Sausage stick,1,Meat,Sausage stick
+103,118,1,1.0,2020-06-19,Refried beans,1,Side,Refried beans
+104,118,1,1.0,2020-06-19,Cashews,1,Snack,Cashews
+107,118,1,1.0,2020-06-19,Celery,1,Vegetable,Celery
+108,118,1,1.0,2020-06-19,Romaine lettuce,1,Vegetable,Romaine lettuce
+109,113,2,1.0,2020-06-19,Spinach,1,Vegetable,Spinach
+113,121,1,1.0,2020-06-20,Egg drop soup (mix),1,Asianfood,Egg drop soup 
+114,121,1,1.0,2020-06-20,Ramen,1,Asianfood,Ramen
+115,121,1,1.0,2020-06-20,Sushi,1,Asianfood,Sushi
+116,121,1,1.0,2020-06-20,Water chestnuts,1,Asianfood,Water chestnuts
+117,121,1,1.0,2020-06-20,Cereal (raisin bran),1,Breakfast,Cereal 
+119,121,1,1.0,2020-06-20,Enchilada sauce,1,Condiment,Enchilada sauce
+120,114,2,1.0,2020-06-20,Ketchup,1,Condiment,Ketchup
+121,121,1,1.0,2020-06-20,Mustard,1,Condiment,Mustard
+122,114,2,1.0,2020-06-20,Milk (1%),1,Dairy,Milk 
+123,121,1,1.0,2020-06-20,Mozzarella cheese (sticks),1,Dairy,Mozzarella cheese 
+124,121,1,1.0,2020-06-20,Ice cream,1,Dessert,Ice cream
+125,114,2,1.0,2020-06-20,Popsicles (orange cherry grape),1,Dessert,Popsicles 
+126,121,1,1.0,2020-06-20,Sherbet,1,Dessert,Sherbet
+127,121,1,1.0,2020-06-20,Guacamole,1,Dip,Guacamole
+128,114,2,1.0,2020-06-20,Queso dip,1,Dip,Queso dip
+129,121,1,1.0,2020-06-20,Pot pie,1,Dish,Pot pie
+130,121,1,1.0,2020-06-20,Almond milk,1,Drink,Almond milk
+131,114,2,1.0,2020-06-20,Sparkling water (lemon),3,Drink,Sparkling water 
+132,121,1,1.0,2020-06-20,Pizza (frozen),1,Fastfood,Pizza 
+133,114,2,1.0,2020-06-20,Bananas,1,Fruit,Bananas
+134,121,1,1.0,2020-06-20,Strawberries,1,Fruit,Strawberries
+135,121,1,1.0,2020-06-20,Bread,1,Grain,Bread
+136,114,2,1.0,2020-06-20,Bread (walnut multigrain),1,Grain,Bread 
+137,121,1,1.0,2020-06-20,Garlic bread,1,Grain,Garlic bread
+139,121,1,1.0,2020-06-20,Ground beef,1,Meat,Ground beef
+140,114,2,1.0,2020-06-20,Hard salami,1,Meat,Hard salami
+141,121,1,1.0,2020-06-20,Salad bowl,3,Salad,Salad bowl
+142,114,2,1.0,2020-06-20,Thai salad,1,Salad,Thai salad
+143,121,1,1.0,2020-06-20,Shrimp,1,Seafood,Shrimp
+144,114,2,1.0,2020-06-20,Tortilla chips,1,Spanishfood,Tortilla chips
+145,114,2,1.0,2020-06-20,Country spread,1,Spread,Country spread
+149,114,2,1.0,2020-06-20,Corn,1,Vegetable,Corn
+150,114,2,1.0,2020-06-20,"Iceberg, romaine lettuce blend",1,Vegetable,"Iceberg, romaine lettuce blend"
+151,121,1,1.0,2020-06-20,Jalapeno peppers,1,Vegetable,Jalapeno peppers
+152,127,1,3.0,2020-06-22,Greek yogurt frozen bars (mint),1,Dessert,Greek yogurt frozen bars 
+153,127,1,3.0,2020-06-22,Greek yogurt frozen bars (peanut butter),1,Dessert,Greek yogurt frozen bars 
+154,127,1,3.0,2020-06-22,Decaf coffee (beans),1,Drink,Decaf coffee 
+155,127,1,3.0,2020-06-22,Hamburger buns,1,Grain,Hamburger buns
+156,127,1,3.0,2020-06-22,Chicken sausage,1,Meat,Chicken sausage
+157,127,1,3.0,2020-06-22,Frankfurt Sausages,1,Meat,Frankfurt Sausages
+158,127,1,3.0,2020-06-22,Ground beef,2,Meat,Ground beef
+160,127,1,3.0,2020-06-22,Lettuce,1,Vegetables,Lettuce
+162,121,2,1.0,2020-06-23,Cookies (chocolate chip),1,Dessert,Cookies 
+170,126,1,2.0,2020-06-25,Milk (1%),1,Dairy,Milk 
+171,126,1,2.0,2020-06-25,Yogurt (vanilla),2,Dairy,Yogurt 
+172,126,1,2.0,2020-06-25,Chicken Parmesan,3,Dish,Chicken Parmesan
+173,126,1,2.0,2020-06-25,Macaroni and Cheese with Broccoli,5,Dish,Macaroni and Cheese with Broccoli
+174,126,1,2.0,2020-06-25,Orange juice,2,Drink,Orange juice
+175,126,1,2.0,2020-06-25,Bananas,1,Fruit,Bananas
+176,126,1,2.0,2020-06-25,Nectarines,1,Fruit,Nectarines
+177,126,1,2.0,2020-06-25,Crackers (rosemary and olive),1,Snack,Crackers 
+178,126,1,2.0,2020-06-25,Crackers (salt and olive),1,Snack,Crackers 
+179,126,1,2.0,2020-06-25,Broccoli,1,Vegetable,Broccoli
+180,126,1,2.0,2020-06-25,Corn,1,Vegetable,Corn
+181,113,2,2.0,2020-06-26,Cheddar cheese,2,Dairy,Cheddar cheese
+182,113,2,2.0,2020-06-26,Milk (whole),1,Dairy,Milk 
+183,113,2,2.0,2020-06-26,Parmesan cheese (shredded),1,Dairy,Parmesan cheese 
+184,113,2,2.0,2020-06-26,Whipping cream,1,Dairy,Whipping cream
+185,113,2,2.0,2020-06-26,Broccoli stir fry,1,Dish,Broccoli stir fry
+186,113,2,2.0,2020-06-26,Stir fry vegetables,1,Dish,Stir fry vegetables
+187,113,2,2.0,2020-06-26,Mixed berries (frozen),1,Fruit,Mixed berries 
+188,113,2,2.0,2020-06-26,Sausage stick,1,Meat,Sausage stick
+189,113,2,2.0,2020-06-26,Sliced deli meat,1,Meat,Sliced deli meat
+190,113,2,2.0,2020-06-26,Turkey breast cutlets,1,Meat,Turkey breast cutlets
+191,113,2,2.0,2020-06-26,Pasta?,2,Pasta,Pasta?
+192,113,2,2.0,2020-06-26,Almond butter,1,Spread,Almond butter
+193,114,2,2.0,2020-06-27,"Cereal (oats, honey)",1,Breakfast,Cereal 
+194,118,1,2.0,2020-06-27,Eggs,1,Breakfast,Eggs
+195,114,2,2.0,2020-06-27,Eggs,1,Breakfast,Eggs
+196,114,2,2.0,2020-06-27,"Granola (vanilla, pecan)",1,Breakfast,Granola 
+197,118,1,2.0,2020-06-27,Hash browns,1,Breakfast,Hash browns
+198,118,1,2.0,2020-06-27,Assorted candy,1,Candy,Assorted candy
+199,118,1,2.0,2020-06-27,Pasta sauce,1,Condiment,Pasta sauce
+200,118,1,2.0,2020-06-27,Salad dressing,1,Condiment,Salad dressing
+201,118,1,2.0,2020-06-27,Spicy mustard,1,Condiment,Spicy mustard
+202,114,2,2.0,2020-06-27,Syrup,1,Condiment,Syrup
+203,118,1,2.0,2020-06-27,Tomato paste,1,Condiment,Tomato paste
+204,127,1,2.0,2020-06-27,Milk (2%),1,Dairy,Milk 
+205,118,1,2.0,2020-06-27,Milk (low fat),1,Dairy,Milk 
+206,118,1,2.0,2020-06-27,Mozzarella cheese,1,Dairy,Mozzarella cheese
+207,114,2,2.0,2020-06-27,Assorted candy bars,1,Dessert,Assorted candy bars
+208,114,2,2.0,2020-06-27,Chocolate,1,Dessert,Chocolate
+209,127,1,2.0,2020-06-27,Greek yogurt frozen bars (butter pecan),1,Dessert,Greek yogurt frozen bars 
+210,114,2,2.0,2020-06-27,Popsicles,1,Dessert,Popsicles
+211,127,1,2.0,2020-06-27,Popsicles (no sugar),1,Dessert,Popsicles 
+212,127,1,2.0,2020-06-27,Hummus (lemon),1,Dip,Hummus 
+213,118,1,2.0,2020-06-27,Salsa,1,Dip,Salsa
+214,118,1,2.0,2020-06-27,Baked beans,1,Dish,Baked beans
+215,118,1,2.0,2020-06-27,Ham (prepared),1,Dish,Ham 
+216,118,1,2.0,2020-06-27,Pinwheel pastries,1,Dish,Pinwheel pastries
+217,114,2,2.0,2020-06-27,Lemonade mix,1,Drink,Lemonade mix
+218,118,1,2.0,2020-06-27,Orange juice,1,Drink,Orange juice
+219,127,1,2.0,2020-06-27,Water,3,Drink,Water
+220,127,1,2.0,2020-06-27,Apples (honeycrisp),1,Fruit,Apples 
+221,114,2,2.0,2020-06-27,Bananas,1,Fruit,Bananas
+222,127,1,2.0,2020-06-27,Bananas,1,Fruit,Bananas
+223,127,1,2.0,2020-06-27,Blueberries,2,Fruit,Blueberries
+224,118,1,2.0,2020-06-27,Lime,2,Fruit,Lime
+225,127,1,2.0,2020-06-27,Mixed fruit cup,2,Fruit,Mixed fruit cup
+226,127,1,2.0,2020-06-27,Mixed fruits,1,Fruit,Mixed fruits
+227,127,1,2.0,2020-06-27,Oranges,1,Fruit,Oranges
+228,127,1,2.0,2020-06-27,Pears,1,Fruit,Pears
+229,118,1,2.0,2020-06-27,Tomatoes,1,Fruit,Tomatoes
+230,114,2,2.0,2020-06-27,Bread (walnut multigrain),1,Grain,Bread 
+231,118,1,2.0,2020-06-27,French bread,1,Grain,French bread
+232,118,1,2.0,2020-06-27,Pizza crust,1,Grain,Pizza crust
+233,127,1,2.0,2020-06-27,Beef,1,Meat,Beef
+234,127,1,2.0,2020-06-27,Chicken breast,1,Meat,Chicken breast
+235,127,1,2.0,2020-06-27,Pork chop,1,Meat,Pork chop
+236,127,1,2.0,2020-06-27,Ribeye steak,1,Meat,Ribeye steak
+237,127,1,2.0,2020-06-27,Pita bread,1,Middleeasternfood,Pita bread
+239,114,2,2.0,2020-06-27,Spinach dijon salad,1,Salad,Spinach dijon salad
+240,114,2,2.0,2020-06-27,Spinach salad,1,Salad,Spinach salad
+241,114,2,2.0,2020-06-27,Applesauce,2,Snack,Applesauce
+242,114,2,2.0,2020-06-27,Popcorn (microwave),1,Snack,Popcorn 
+243,118,1,2.0,2020-06-27,Potato chips,1,Snack,Potato chips
+244,114,2,2.0,2020-06-27,Pretzels,1,Snack,Pretzels
+245,118,1,2.0,2020-06-27,Peanut butter,1,Spread,Peanut butter
+246,118,1,2.0,2020-06-27,Bell peppers,2,Vegetable,Bell peppers
+247,118,1,2.0,2020-06-27,Chilis (green),1,Vegetable,Chilis 
+248,118,1,2.0,2020-06-27,Peppers (mezzetta),1,Vegetable,Peppers 
+249,118,1,2.0,2020-06-27,Red onions,1,Vegetable,Red onions
+250,127,1,2.0,2020-06-27,Onions (yellow),1,Vegetables,Onions 
+253,121,2,1.0,2020-07-01,Avocado oil,1,Baking,Avocado oil
+254,127,1,1.0,2020-07-01,Baking soda/powder,2,Baking,Baking soda/powder
+256,121,2,1.0,2020-07-01,Tomato paste,1,Condiment,Tomato paste
+257,121,2,1.0,2020-07-01,Butter,1,Dairy,Butter
+258,121,2,1.0,2020-07-01,Butter (unsalted),1,Dairy,Butter 
+259,121,2,1.0,2020-07-01,Cheddar cheese,1,Dairy,Cheddar cheese
+260,121,2,1.0,2020-07-01,Cheese,1,Dairy,Cheese
+261,121,2,1.0,2020-07-01,Half and half,1,Dairy,Half and half
+262,121,2,1.0,2020-07-01,Heavy cream,1,Dairy,Heavy cream
+263,127,1,1.0,2020-07-01,Almond cookies,1,Dessert,Almond cookies
+264,121,2,1.0,2020-07-01,Gelato (butter pecan),1,Dessert,Gelato 
+265,127,1,1.0,2020-07-01,Guacamole,1,Dip,Guacamole
+266,127,1,1.0,2020-07-01,Hummus,1,Dip,Hummus
+267,121,2,1.0,2020-07-01,Almond milk,1,Drink,Almond milk
+268,127,1,1.0,2020-07-01,Water,1,Drink,Water
+269,127,1,1.0,2020-07-01,Blueberries,2,Fruit,Blueberries
+270,121,2,1.0,2020-07-01,Lemons,1,Fruit,Lemons
+271,127,1,1.0,2020-07-01,Mixed fruits,1,Fruit,Mixed fruits
+272,127,1,1.0,2020-07-01,Strawberries,1,Fruit,Strawberries
+273,121,2,1.0,2020-07-01,Tomatoes,1,Fruit,Tomatoes
+274,121,2,1.0,2020-07-01,Chicken breast,1,Meat,Chicken breast
+275,121,2,1.0,2020-07-01,Chicken thigh,1,Meat,Chicken thigh
+278,121,2,1.0,2020-07-01,Cole slaw,1,Salad,Cole slaw
+279,121,2,1.0,2020-07-01,Crackers (ritz),1,Snack,Crackers 
+280,127,1,1.0,2020-07-01,Rice cakes (caramel),1,Snack,Rice cakes 
+281,121,2,1.0,2020-07-01,Tortilla chips,1,Snack,Tortilla chips
+282,121,2,1.0,2020-07-01,Almond butter,1,Spread,Almond butter
+283,121,2,1.0,2020-07-01,Bell peppers (red),1,Vegetable,Bell peppers 
+284,121,2,1.0,2020-07-01,Bell peppers (yellow),1,Vegetable,Bell peppers 
+285,121,2,1.0,2020-07-01,Bok choy,1,Vegetable,Bok choy
+286,121,2,1.0,2020-07-01,Cabbage,1,Vegetable,Cabbage
+287,121,2,1.0,2020-07-01,Ginger root,1,Vegetable,Ginger root
+288,121,2,1.0,2020-07-01,Green onions,1,Vegetable,Green onions
+289,121,2,1.0,2020-07-01,Onions (red),1,Vegetable,Onions 
+290,121,2,1.0,2020-07-01,Onions (white),1,Vegetable,Onions 
+291,121,2,1.0,2020-07-01,Peppers,1,Vegetable,Peppers
+292,121,2,1.0,2020-07-01,Peppers (mixed),1,Vegetable,Peppers 
+293,127,1,1.0,2020-07-01,Cucumber?,1,Vegetables,Cucumber?
+294,121,2,1.0,2020-07-03,Sherbet,1,Dessert,Sherbet
+295,121,2,1.0,2020-07-03,Watermelon?,1,Fruit,Watermelon?
+296,114,3,2.0,2020-07-04,Milk (fat free),1,Dairy,Milk 
+297,114,3,2.0,2020-07-04,Ice cream (brownie),1,Dessert,Ice cream 
+298,114,3,2.0,2020-07-04,Potato salad,1,Dish,Potato salad
+299,114,3,2.0,2020-07-04,Seasoned Chicken Breast,1,Dish,Seasoned Chicken Breast
+300,114,3,2.0,2020-07-04,Texas Ranch Chicken,1,Dish,Texas Ranch Chicken
+301,114,3,2.0,2020-07-04,Lemonade mix,1,Drink,Lemonade mix
+302,114,3,2.0,2020-07-04,Bananas,1,Fruit,Bananas
+303,114,3,2.0,2020-07-04,Bread (walnut multigrain),1,Grain,Bread 
+304,114,3,2.0,2020-07-04,Stuffed chicken breasts,1,Meat,Stuffed chicken breasts
+305,114,3,2.0,2020-07-04,Bistro bowl salad,1,Salad,Bistro bowl salad
+306,114,3,2.0,2020-07-04,Santa Fe style salad,1,Salad,Santa Fe style salad
+307,113,3,1.0,2020-07-07,Butter,1,Dairy,Butter
+308,113,3,1.0,2020-07-07,Cheddar cheese,3,Dairy,Cheddar cheese
+309,113,3,1.0,2020-07-07,Milk (whole),1,Dairy,Milk 
+310,121,3,1.0,2020-07-07,Sour cream,1,Dairy,Sour cream
+311,113,3,1.0,2020-07-07,Whipping cream,2,Dairy,Whipping cream
+312,113,3,1.0,2020-07-07,Coffee (beans),1,Drink,Coffee 
+313,113,3,1.0,2020-07-07,Mixed berries (frozen),1,Fruit,Mixed berries 
+314,121,3,1.0,2020-07-07,Watermelon,1,Fruit,Watermelon
+315,113,3,1.0,2020-07-07,Bacon,1,Meat,Bacon
+316,113,3,1.0,2020-07-07,Bratwurst,1,Meat,Bratwurst
+317,113,3,1.0,2020-07-07,Ground beef,1,Meat,Ground beef
+318,113,3,1.0,2020-07-07,Sausage stick,1,Meat,Sausage stick
+319,113,3,1.0,2020-07-07,Pasta?,3,Pasta,Pasta?
+320,121,3,1.0,2020-07-07,Cobb salad kit,1,Salad,Cobb salad kit
+321,121,3,1.0,2020-07-07,Wonton strips,1,Seasoning,Wonton strips
+323,113,3,1.0,2020-07-07,Asparagus?,1,Vegetable,Asparagus?
+324,113,3,1.0,2020-07-07,Broccoli Cauliflower medley,1,Vegetable,Broccoli Cauliflower medley
+325,121,3,1.0,2020-07-07,Lettuce,1,Vegetable,Lettuce
+326,113,3,1.0,2020-07-07,Spinach,1,Vegetable,Spinach
+328,118,1,3.0,2020-07-09,Miracle whip,1,Condiment,Miracle whip
+329,118,1,3.0,2020-07-09,Butter,1,Dairy,Butter
+330,118,1,3.0,2020-07-09,Cheese,2,Dairy,Cheese
+331,118,1,3.0,2020-07-09,Orange juice,1,Drink,Orange juice
+332,118,1,3.0,2020-07-09,Lemons,1,Fruit,Lemons
+333,118,1,3.0,2020-07-09,mangos,1,Fruit,mangos
+334,118,1,3.0,2020-07-09,Pineapple,1,Fruit,Pineapple
+335,118,1,3.0,2020-07-09,Raspberries,1,Fruit,Raspberries
+336,118,1,3.0,2020-07-09,Strawberries,2,Fruit,Strawberries
+337,118,1,3.0,2020-07-09,Tomatoes,1,Fruit,Tomatoes
+338,118,1,3.0,2020-07-09,Bread (asiago focaccia),1,Grain,Bread 
+339,118,1,3.0,2020-07-09,Bread (baguette),1,Grain,Bread 
+341,118,1,3.0,2020-07-09,Ginger root,1,Seasoning,Ginger root
+342,118,1,3.0,2020-07-09,Tortilla chips,1,Spanishfood,Tortilla chips
+343,118,1,3.0,2020-07-09,Bell peppers,2,Vegetable,Bell peppers
+344,118,1,3.0,2020-07-09,Bell peppers (red),1,Vegetable,Bell peppers 
+345,118,1,3.0,2020-07-09,Celery,1,Vegetable,Celery
+346,118,1,3.0,2020-07-09,Cilantro,1,Vegetable,Cilantro
+347,118,1,3.0,2020-07-09,Cucumber,1,Vegetable,Cucumber
+348,118,1,3.0,2020-07-09,Onions (yellow),1,Vegetable,Onions 
+349,114,3,1.0,2020-07-12,Cereal (oat squares),1,Breakfast,Cereal 
+350,114,4,1.0,2020-07-12,Cereal (oat squares),1,Breakfast,Cereal 
+351,114,3,1.0,2020-07-12,Syrup,1,Condiment,Syrup
+352,114,4,1.0,2020-07-12,Syrup,1,Condiment,Syrup
+353,126,2,1.0,2020-07-12,Milk (1%),1,Dairy,Milk 
+354,126,2,1.0,2020-07-12,Yogurt (vanilla),3,Dairy,Yogurt 
+355,114,3,1.0,2020-07-12,Popsicles,1,Dessert,Popsicles
+356,114,4,1.0,2020-07-12,Popsicles,1,Dessert,Popsicles
+357,126,2,1.0,2020-07-12,Chicken Parmesan,3,Dish,Chicken Parmesan
+358,126,2,1.0,2020-07-12,Macaroni and Cheese with Broccoli,6,Dish,Macaroni and Cheese with Broccoli
+359,114,3,1.0,2020-07-12,"Soda (cola, diet)",3,Drink,Soda 
+360,114,4,1.0,2020-07-12,"Soda (cola, diet)",3,Drink,Soda 
+361,126,2,1.0,2020-07-12,Apples (gala),1,Fruit,Apples 
+362,126,2,1.0,2020-07-12,Bananas,1,Fruit,Bananas
+363,114,3,1.0,2020-07-12,Bananas,1,Fruit,Bananas
+364,114,4,1.0,2020-07-12,Bananas,1,Fruit,Bananas
+365,126,2,1.0,2020-07-12,Blackberries,1,Fruit,Blackberries
+366,126,2,1.0,2020-07-12,Nectarines,1,Fruit,Nectarines
+367,126,2,1.0,2020-07-12,Raspberries,1,Fruit,Raspberries
+368,126,2,1.0,2020-07-12,Strawberries,1,Fruit,Strawberries
+369,126,2,1.0,2020-07-12,English muffins,1,Grain,English muffins
+370,114,3,1.0,2020-07-12,Beef burger,1,Meat,Beef burger
+371,114,4,1.0,2020-07-12,Beef burger,1,Meat,Beef burger
+372,114,3,1.0,2020-07-12,Franks,1,Meat,Franks
+373,114,4,1.0,2020-07-12,Franks,1,Meat,Franks
+374,114,3,1.0,2020-07-12,Turkey bologna,1,Meat,Turkey bologna
+375,114,4,1.0,2020-07-12,Turkey bologna,1,Meat,Turkey bologna
+376,114,3,1.0,2020-07-12,Rotini pasta,1,Pasta,Rotini pasta
+377,114,4,1.0,2020-07-12,Rotini pasta,1,Pasta,Rotini pasta
+378,114,3,1.0,2020-07-12,Chicken caesar salad,1,Salad,Chicken caesar salad
+379,114,4,1.0,2020-07-12,Chicken caesar salad,1,Salad,Chicken caesar salad
+380,114,3,1.0,2020-07-12,Spinach salad,1,Salad,Spinach salad
+381,114,4,1.0,2020-07-12,Spinach salad,1,Salad,Spinach salad
+382,114,3,1.0,2020-07-12,Enchilada (chicken),1,Spanishfood,Enchilada 
+383,114,4,1.0,2020-07-12,Enchilada (chicken),1,Spanishfood,Enchilada 
+384,126,2,1.0,2020-07-12,Broccoli,2,Vegetable,Broccoli
+385,126,2,1.0,2020-07-12,Peppers (rainbow),1,Vegetable,Peppers 
+388,121,3,1.0,2020-07-13,Ice cream,1,Dessert,Ice cream
+389,121,3,1.0,2020-07-13,Almond milk,1,Drink,Almond milk
+390,121,3,1.0,2020-07-13,Orange juice,1,Drink,Orange juice
+391,121,3,1.0,2020-07-13,Avocado,2,Fruit,Avocado
+392,121,3,1.0,2020-07-13,Watermelon,1,Fruit,Watermelon
+393,121,3,1.0,2020-07-13,Rice,1,Grain,Rice
+394,121,3,1.0,2020-07-13,Salad kit (santa fe),1,Salad,Salad kit 
+395,121,3,1.0,2020-07-13,Wonton strips,1,Seasoning,Wonton strips
+396,121,3,1.0,2020-07-13,Bell peppers (green),1,Vegetable,Bell peppers 
+397,121,3,1.0,2020-07-13,Onions,1,Vegetable,Onions
+399,121,3,1.0,2020-07-17,Mayonnaise,1,Condiment,Mayonnaise
+400,145,1,1.0,2020-07-17,Mustard,3,Condiment,Mustard
+401,145,1,3.0,2020-07-17,Yogurt (blueberry),4,Dairy,Yogurt 
+402,145,1,3.0,2020-07-17,Apple crumble?,1,Dessert,Apple crumble?
+403,145,1,3.0,2020-07-17,Cherry crumble?,1,Dessert,Cherry crumble?
+404,121,3,1.0,2020-07-17,Cherry strudel bites,1,Dessert,Cherry strudel bites
+405,145,1,1.0,2020-07-17,Dark chocolate,1,Dessert,Dark chocolate
+406,145,1,3.0,2020-07-17,Dark chocolate,1,Dessert,Dark chocolate
+407,121,3,1.0,2020-07-17,Ice cream,1,Dessert,Ice cream
+408,145,1,3.0,2020-07-17,Green tea (bags),1,Drink,Green tea 
+409,121,3,1.0,2020-07-17,Grenadine,1,Drink,Grenadine
+410,145,1,3.0,2020-07-17,Unsweetened vanilla plant milk?,1,Drink,Unsweetened vanilla plant milk?
+411,145,1,1.0,2020-07-17,Wine (merlot),1,Drink,Wine 
+412,145,1,1.0,2020-07-17,Wine (red),1,Drink,Wine 
+413,145,1,1.0,2020-07-17,Wine (shiraz),1,Drink,Wine 
+414,145,1,3.0,2020-07-17,Olives (sliced),1,Fruit,Olives 
+415,145,1,3.0,2020-07-17,Olives (stuffed),1,Fruit,Olives 
+416,145,1,3.0,2020-07-17,Tomatoes (plum),1,Fruit,Tomatoes 
+417,145,1,1.0,2020-07-17,English muffins (whole wheat),2,Grain,English muffins 
+418,145,1,1.0,2020-07-17,Sourdough bread,2,Grain,Sourdough bread
+420,121,3,1.0,2020-07-17,Chicken thigh,1,Meat,Chicken thigh
+421,145,1,1.0,2020-07-17,Pasta (elbow),2,Pasta,Pasta 
+422,121,3,1.0,2020-07-17,Salad kit (santa fe),1,Salad,Salad kit 
+423,121,3,1.0,2020-07-17,Bay leaves,1,Seasoning,Bay leaves
+424,145,1,3.0,2020-07-17,Chia seeds,1,Seasoning,Chia seeds
+425,145,1,3.0,2020-07-17,Garlic powder,1,Seasoning,Garlic powder
+426,121,3,1.0,2020-07-17,Ground cinnamon,1,Seasoning,Ground cinnamon
+427,121,3,1.0,2020-07-17,Salt (himalayan),1,Seasoning,Salt 
+428,121,3,1.0,2020-07-17,Seasoning,1,Seasoning,Seasoning
+429,121,3,1.0,2020-07-17,Wonton strips,1,Seasoning,Wonton strips
+430,145,1,1.0,2020-07-17,Granola bars (chocolate chip),1,Snack,Granola bars 
+431,145,1,1.0,2020-07-17,Granola bars (fig and date),1,Snack,Granola bars 
+432,145,1,1.0,2020-07-17,"Granola bars (peanut, dates)",1,Snack,Granola bars 
+433,145,1,1.0,2020-07-17,"Beets (sliced, canned)",3,Vegetable,Beets 
+434,145,1,1.0,2020-07-17,Black beans,4,Vegetable,Black beans
+435,121,3,1.0,2020-07-17,Broccoli,1,Vegetable,Broccoli
+436,145,1,3.0,2020-07-17,Mixed vegetables (frozen),1,Vegetable,Mixed vegetables 
+437,145,1,3.0,2020-07-17,Onions,1,Vegetable,Onions
+438,145,1,3.0,2020-07-17,Peppers (tabasco),1,Vegetable,Peppers 
+439,121,3,1.0,2020-07-17,Zucchini,1,Vegetable,Zucchini
+441,114,5,1.0,2020-07-18,Eggs,1,Breakfast,Eggs
+442,118,2,1.0,2020-07-18,Candy (m&m),1,Candy,Candy 
+444,114,5,1.0,2020-07-18,Cheddar cheese,1,Dairy,Cheddar cheese
+445,118,2,1.0,2020-07-18,Cheddar cheese (sticks),1,Dairy,Cheddar cheese 
+446,114,5,1.0,2020-07-18,Milk (fat free),1,Dairy,Milk 
+447,118,2,1.0,2020-07-18,Milk (whole),1,Dairy,Milk 
+448,118,2,1.0,2020-07-18,Sour cream,1,Dairy,Sour cream
+449,114,5,1.0,2020-07-18,Queso dip,1,Dip,Queso dip
+450,114,5,1.0,2020-07-18,Breaded chicken breast,1,Dish,Breaded chicken breast
+451,118,2,1.0,2020-07-18,Ham (prepared),1,Dish,Ham 
+452,114,5,1.0,2020-07-18,Lemonade iced tea mix,2,Drink,Lemonade iced tea mix
+453,118,2,1.0,2020-07-18,Orange juice,1,Drink,Orange juice
+454,114,5,1.0,2020-07-18,"Soda (cola, diet)",1,Drink,Soda 
+455,114,5,1.0,2020-07-18,Sparkling water (lime),1,Drink,Sparkling water 
+456,114,5,1.0,2020-07-18,Tea bags,1,Drink,Tea bags
+457,118,2,1.0,2020-07-18,Bananas,1,Fruit,Bananas
+458,114,5,1.0,2020-07-18,Bananas,1,Fruit,Bananas
+459,118,2,1.0,2020-07-18,Lemon,2,Fruit,Lemon
+460,118,2,1.0,2020-07-18,Pineapple,1,Fruit,Pineapple
+461,118,2,1.0,2020-07-18,Strawberries,1,Fruit,Strawberries
+462,118,2,1.0,2020-07-18,Tomatoes,1,Fruit,Tomatoes
+463,114,5,1.0,2020-07-18,Bread (walnut multigrain),1,Grain,Bread 
+464,118,2,1.0,2020-07-18,Naan,1,Grain,Naan
+467,118,2,1.0,2020-07-18,Asian chicken salad,1,Salad,Asian chicken salad
+468,114,5,1.0,2020-07-18,Garden salad,1,Salad,Garden salad
+469,114,5,1.0,2020-07-18,Santa fe style salad,1,Salad,Santa fe style salad
+470,118,2,1.0,2020-07-18,Herb blend,1,Seasoning,Herb blend
+471,114,5,1.0,2020-07-18,Baked beans,1,Side,Baked beans
+472,114,5,1.0,2020-07-18,Cheese puffs,1,Snack,Cheese puffs
+473,114,5,1.0,2020-07-18,Tortilla chips,1,Spanishfood,Tortilla chips
+474,118,2,1.0,2020-07-18,Marmalade,1,Spread,Marmalade
+475,118,2,1.0,2020-07-18,Cucumber,1,Vegetable,Cucumber
+476,118,2,1.0,2020-07-18,Garlic,1,Vegetable,Garlic
+477,118,2,1.0,2020-07-18,Mushrooms (sliced),1,Vegetable,Mushrooms 
+480,113,4,2.0,2020-07-19,Cheddar cheese,2,Dairy,Cheddar cheese
+481,113,4,2.0,2020-07-19,Milk (whole),1,Dairy,Milk 
+482,113,4,2.0,2020-07-19,Whipping cream,2,Dairy,Whipping cream
+483,113,4,2.0,2020-07-19,Sugar Snap Pea Stir Fry,1,Dish,Sugar Snap Pea Stir Fry
+484,113,4,2.0,2020-07-19,Coffee (beans),1,Drink,Coffee 
+485,113,4,2.0,2020-07-19,Sausage stick,1,Meat,Sausage stick
+486,113,4,2.0,2020-07-19,Steak (cubed),1,Meat,Steak 
+487,113,4,2.0,2020-07-19,Steak (shaved),1,Meat,Steak 
+489,113,4,2.0,2020-07-19,Pasta?,2,Pasta,Pasta?
+490,113,4,2.0,2020-07-19,Garlic powder,1,Seasoning,Garlic powder
+491,113,4,2.0,2020-07-19,Onion powder,1,Seasoning,Onion powder
+492,113,4,2.0,2020-07-19,Almond butter?,1,Spread,Almond butter?
+493,113,4,2.0,2020-07-19,Cashew butter,1,Spread,Cashew butter
+496,113,4,2.0,2020-07-19,Asparagus?,1,Vegetable,Asparagus?
+497,113,4,2.0,2020-07-19,Brussel sprouts,1,Vegetable,Brussel sprouts
+500,121,4,1.0,2020-07-21,Eggs,1,Breakfast,Eggs
+501,131,1,1.0,2020-07-21,Apple Cider Vinegar,4,Condiment,Apple Cider Vinegar
+502,131,1,1.0,2020-07-21,Cheddar Cheese (Sticks),1,Dairy,Cheddar Cheese 
+503,139,1,2.0,2020-07-21,Greek yogurt (nonfat),1,Dairy,Greek yogurt 
+504,139,1,2.0,2020-07-21,Greek yogurt (plain),1,Dairy,Greek yogurt 
+505,139,1,2.0,2020-07-21,Greek yogurt (vanilla),1,Dairy,Greek yogurt 
+506,121,4,1.0,2020-07-21,Apple pie,1,Dessert,Apple pie
+507,121,4,1.0,2020-07-21,Cherry pie,2,Dessert,Cherry pie
+508,121,4,1.0,2020-07-21,Gelato (butter pecan),1,Dessert,Gelato 
+509,121,4,1.0,2020-07-21,Ice cream (pistachio almond),1,Dessert,Ice cream 
+510,121,4,1.0,2020-07-21,Chicken pot pie,1,Dish,Chicken pot pie
+511,121,4,1.0,2020-07-21,"Soda (cream soda, diet)",1,Drink,Soda 
+512,121,4,1.0,2020-07-21,Grape tomatoes,1,Fruit,Grape tomatoes
+513,121,4,1.0,2020-07-21,Grapes,1,Fruit,Grapes
+514,139,1,2.0,2020-07-21,Nectarine,2,Fruit,Nectarine
+515,139,1,2.0,2020-07-21,Peaches,1,Fruit,Peaches
+516,139,1,2.0,2020-07-21,Pears,1,Fruit,Pears
+517,131,1,1.0,2020-07-21,Strawberries,1,Fruit,Strawberries
+518,139,1,2.0,2020-07-21,English muffins,1,Grain,English muffins
+519,139,1,2.0,2020-07-21,Granola (triple berry),1,Grain,Granola 
+520,121,4,1.0,2020-07-21,Bacon,1,Meat,Bacon
+521,121,4,1.0,2020-07-21,Bacon,1,Meat,Bacon
+522,121,4,1.0,2020-07-21,Smoked ham,1,Meat,Smoked ham
+523,121,4,1.0,2020-07-21,Broccoli slaw,1,Salad,Broccoli slaw
+524,121,4,1.0,2020-07-21,Romaine lettuce mix,1,Salad,Romaine lettuce mix
+525,139,1,2.0,2020-07-21,Basil,1,Seasoning,Basil
+526,139,1,2.0,2020-07-21,Cilantro,1,Seasoning,Cilantro
+527,139,1,2.0,2020-07-21,Ground ginger,1,Seasoning,Ground ginger
+528,139,1,2.0,2020-07-21,Baby Arugula,1,Vegetable,Baby Arugula
+529,139,1,2.0,2020-07-21,Baby Spinach,1,Vegetable,Baby Spinach
+530,121,4,1.0,2020-07-21,Baby spinach,1,Vegetable,Baby spinach
+531,121,4,1.0,2020-07-21,Bell peppers (green),1,Vegetable,Bell peppers 
+532,121,4,1.0,2020-07-21,Bell peppers (red),1,Vegetable,Bell peppers 
+533,139,1,2.0,2020-07-21,Cabbage Slaw,1,Vegetable,Cabbage Slaw
+534,139,1,2.0,2020-07-21,Carrots,1,Vegetable,Carrots
+535,139,1,2.0,2020-07-21,Cucumber,1,Vegetable,Cucumber
+536,139,1,2.0,2020-07-21,Green onion,1,Vegetable,Green onion
+537,121,4,1.0,2020-07-21,Mushrooms (sliced),1,Vegetable,Mushrooms 
+538,121,4,1.0,2020-07-21,Peas,1,Vegetable,Peas
+540,131,1,3.0,2020-07-22,Cheesecake (strawberry),2,Dessert,Cheesecake 
+541,131,1,3.0,2020-07-22,Cookies (Coconut and caramel),1,Dessert,Cookies 
+542,121,4,1.0,2020-07-23,Ramen,1,Asianfood,Ramen
+543,145,1,2.0,2020-07-23,Olive oil,1,Baking,Olive oil
+545,121,4,1.0,2020-07-23,BBQ sauce,1,Condiment,BBQ sauce
+546,121,4,1.0,2020-07-23,Ranch dressing,1,Condiment,Ranch dressing
+547,131,1,4.0,2020-07-23,Cheese,4,Dairy,Cheese
+548,145,1,2.0,2020-07-23,Swiss cheese,1,Dairy,Swiss cheese
+549,145,1,2.0,2020-07-23,Yogurt (cherry),4,Dairy,Yogurt 
+550,145,1,2.0,2020-07-23,Apple crumble?,1,Dessert,Apple crumble?
+551,145,1,2.0,2020-07-23,Cherry crumble?,1,Dessert,Cherry crumble?
+552,131,1,4.0,2020-07-23,Crackers (whole wheat),4,Dessert,Crackers 
+553,114,4,2.0,2020-07-23,Ice cream,1,Dessert,Ice cream
+554,114,5,2.0,2020-07-23,Ice cream,1,Dessert,Ice cream
+555,145,1,2.0,2020-07-23,Coffee (ground),1,Drink,Coffee 
+556,131,1,4.0,2020-07-23,Soda (lemon-lime),3,Drink,Soda 
+557,145,1,2.0,2020-07-23,Unsweetened vanilla plant milk?,1,Drink,Unsweetened vanilla plant milk?
+558,145,1,2.0,2020-07-23,Bananas,1,Fruit,Bananas
+559,145,1,2.0,2020-07-23,Blueberries,2,Fruit,Blueberries
+560,145,1,2.0,2020-07-23,Olives (sliced),1,Fruit,Olives 
+561,145,1,2.0,2020-07-23,Olives (stuffed),1,Fruit,Olives 
+562,145,1,2.0,2020-07-23,Tomatoes (plum),1,Fruit,Tomatoes 
+563,121,4,1.0,2020-07-23,Watermelon,1,Fruit,Watermelon
+564,131,1,4.0,2020-07-23,Salame,2,Meat,Salame
+566,145,1,2.0,2020-07-23,"Pasta (angel hair, whole wheat)",1,Pasta,Pasta 
+567,114,4,2.0,2020-07-23,Apple Bleu Pecan salad,1,Salad,Apple Bleu Pecan salad
+568,114,5,2.0,2020-07-23,Apple Bleu Pecan salad,1,Salad,Apple Bleu Pecan salad
+569,121,4,1.0,2020-07-23,Salad bowl,1,Salad,Salad bowl
+570,114,4,2.0,2020-07-23,Santa fe style salad ,1,Salad,Santa fe style salad 
+571,114,5,2.0,2020-07-23,Santa fe style salad ,1,Salad,Santa fe style salad 
+572,121,4,1.0,2020-07-23,Crispy onions,1,Seasoning,Crispy onions
+573,121,4,1.0,2020-07-23,Wonton strips,3,Seasoning,Wonton strips
+574,145,1,2.0,2020-07-23,"Crackers (garlic, whole wheat)",1,Snack,Crackers 
+575,145,1,2.0,2020-07-23,Nuts (unsalted),1,Snack,Nuts 
+576,114,4,2.0,2020-07-23,Sunchips (harvest cheddar),1,Snack,Sunchips 
+577,114,5,2.0,2020-07-23,Sunchips (harvest cheddar),1,Snack,Sunchips 
+578,145,1,2.0,2020-07-23,Cucumbers,1,Vegetable,Cucumbers
+579,145,1,2.0,2020-07-23,Garlic,1,Vegetable,Garlic
+580,121,4,1.0,2020-07-23,Green chilies (diced),1,Vegetable,Green chilies 
+581,145,1,2.0,2020-07-23,Green onions,1,Vegetable,Green onions
+582,145,1,2.0,2020-07-23,Onions,1,Vegetable,Onions
+583,145,1,2.0,2020-07-23,Peppers (tabasco),1,Vegetable,Peppers 
+589,121,4,1.0,2020-07-24,Cheese,2,Dairy,Cheese
+590,121,4,1.0,2020-07-24,Ricotta cheese,1,Dairy,Ricotta cheese
+591,127,2,2.0,2020-07-24,Pecan caramel cookies,1,Dessert,Pecan caramel cookies
+592,127,2,2.0,2020-07-24,Water,1,Drink,Water
+593,137,1,2.0,2020-07-24,Grapes,1,Fruit,Grapes
+594,137,1,2.0,2020-07-24,Bread (italian),1,Grain,Bread 
+595,137,1,2.0,2020-07-24,Bread (whole wheat),1,Grain,Bread 
+596,121,4,1.0,2020-07-24,Steak (cubed),1,Meat,Steak 
+597,121,4,1.0,2020-07-24,Steak (ribeye),1,Meat,Steak 
+598,127,2,2.0,2020-07-24,Rice crackers,1,Snack,Rice crackers
+599,121,4,1.0,2020-07-24,Potatoes,1,Vegetable,Potatoes
+600,127,2,2.0,2020-07-24,Pickles (kosher),1,Vegetables,Pickles 
+603,118,2,1.0,2020-07-25,Popsicles,1,Dessert,Popsicles
+604,118,2,1.0,2020-07-25,Lemonade,1,Drink,Lemonade
+605,118,2,1.0,2020-07-25,"Soda (lemon-lime, zero)",3,Drink,Soda 
+606,118,2,1.0,2020-07-25,Mangos,1,Fruit,Mangos
+607,118,2,1.0,2020-07-25,Pineapple cups,1,Fruit,Pineapple cups
+608,118,2,1.0,2020-07-25,Tomatoes,1,Fruit,Tomatoes
+609,118,2,1.0,2020-07-25,French bread,1,Grain,French bread
+612,118,2,1.0,2020-07-25,Cole Slaw,1,Salad,Cole Slaw
+613,118,2,1.0,2020-07-25,Potato chips,1,Snack,Potato chips
+614,118,2,1.0,2020-07-25,Pomodoro Bruschetta topping,1,Spread,Pomodoro Bruschetta topping
+615,118,2,1.0,2020-07-25,Cucumber,1,Vegetable,Cucumber
+616,118,2,1.0,2020-07-25,Radishes,1,Vegetable,Radishes
+617,113,4,1.0,2020-07-26,Cheddar cheese,2,Dairy,Cheddar cheese
+618,113,4,1.0,2020-07-26,Milk (whole),1,Dairy,Milk 
+619,113,4,1.0,2020-07-26,Whipping cream,1,Dairy,Whipping cream
+620,113,4,1.0,2020-07-26,Broccoli stir fry,1,Dish,Broccoli stir fry
+621,113,4,1.0,2020-07-26,Coffee (beans),1,Drink,Coffee 
+622,127,2,2.0,2020-07-26,Sparkling water (strawberry),1,Drink,Sparkling water 
+623,127,2,2.0,2020-07-26,Stuffed grape leaves,1,Europeanfood,Stuffed grape leaves
+624,127,2,2.0,2020-07-26,Chicken strips ,1,Meat,Chicken strips 
+626,113,4,1.0,2020-07-26,Pasta?,1,Pasta,Pasta?
+627,113,4,1.0,2020-07-26,Garlic salt,1,Seasoning,Garlic salt
+628,113,4,1.0,2020-07-26,Salt (himalyan pink)?,1,Seasoning,Salt ?
+629,113,4,1.0,2020-07-26,Steamable beans?,1,Vegetable,Steamable beans?
+632,139,1,1.0,2020-07-27,Blueberries,1,Fruit,Blueberries
+633,139,1,1.0,2020-07-27,Olives (green),1,Fruit,Olives 
+634,139,1,1.0,2020-07-27,Strawberries,1,Fruit,Strawberries
+635,139,1,1.0,2020-07-27,Bacon (pre-sliced),1,Meat,Bacon 
+636,139,1,1.0,2020-07-27,Ham ,1,Meat,Ham 
+637,139,1,1.0,2020-07-27,Ham steaks,1,Meat,Ham steaks
+638,139,1,1.0,2020-07-27,Turkey Breast (pre-sliced),1,Meat,Turkey Breast 
+640,139,1,1.0,2020-07-27,Salsa,1,Sauce,Salsa
+641,139,1,1.0,2020-07-27,Artichoke hearts,1,Vegetable,Artichoke hearts
+643,127,2,1.0,2020-07-28,Milk (2%),1,Dairy,Milk 
+644,127,2,1.0,2020-07-28,Greek yogurt frozen bars,1,Dessert,Greek yogurt frozen bars
+645,127,2,1.0,2020-07-28,Greek yogurt frozen bars (brownie),1,Dessert,Greek yogurt frozen bars 
+646,127,2,1.0,2020-07-28,Green yogurt frozen bars (peanut butter chocolate),1,Dessert,Green yogurt frozen bars 
+647,127,2,1.0,2020-07-28,Green yogurt frozen bars (peanut butter),1,Dessert,Green yogurt frozen bars 
+648,127,2,1.0,2020-07-28,Popsicles,1,Dessert,Popsicles
+649,139,1,1.0,2020-07-28,Pound cake (mini),1,Dessert,Pound cake 
+650,127,2,1.0,2020-07-28,Potato salad,1,Dish,Potato salad
+651,139,1,1.0,2020-07-28,Beer (IPA),1,Drink,Beer 
+652,127,2,1.0,2020-07-28,Ginger ale (diet),1,Drink,Ginger ale 
+653,139,1,1.0,2020-07-28,Iced Tea Lemonade (Zero sugar),1,Drink,Iced Tea Lemonade 
+654,127,2,3.0,2020-07-28,Mango Snapple,1,Drink,Mango Snapple
+655,127,2,1.0,2020-07-28,"Soda (cola, diet)",2,Drink,Soda 
+656,127,2,3.0,2020-07-28,"Soda (cola, diet)",4,Drink,Soda 
+657,127,2,1.0,2020-07-28,"Soda (sprite, zero)",1,Drink,Soda 
+658,127,2,1.0,2020-07-28,Soda?,1,Drink,Soda?
+659,127,2,1.0,2020-07-28,Water,1,Drink,Water
+660,139,1,1.0,2020-07-28,Wine (Zinfandel),1,Drink,Wine 
+661,127,2,3.0,2020-07-28,Berries cup,2,Fruit,Berries cup
+662,139,1,1.0,2020-07-28,Bread (whole wheat),1,Grain,Bread 
+663,127,2,3.0,2020-07-28,Breadsticks,1,Grain,Breadsticks
+665,139,1,1.0,2020-07-28,Beans,1,Side,Beans
+666,139,1,1.0,2020-07-28,Crackers (saltine),1,Snack,Crackers 
+667,127,2,1.0,2020-07-28,Riced cauliflower (lemon garlic),1,Vegetables,Riced cauliflower 
+668,127,2,1.0,2020-07-28,Riced cauliflower/broccoli,1,Vegetables,Riced cauliflower/broccoli
+671,137,1,2.0,2020-07-29,Salsa,1,Dip,Salsa
+672,137,1,1.0,2020-07-29,Coffee (beans),1,Drink,Coffee 
+674,137,1,2.0,2020-07-29,Blueberries,1,Fruit,Blueberries
+675,137,1,2.0,2020-07-29,Bagels (everything),1,Grain,Bagels 
+676,137,1,2.0,2020-07-29,English muffins,1,Grain,English muffins
+677,137,1,2.0,2020-07-29,Hamburger buns,1,Grain,Hamburger buns
+680,137,1,1.0,2020-07-29,Penne pasta,1,Pasta,Penne pasta
+681,137,1,1.0,2020-07-29,Apple chips,1,Snack,Apple chips
+682,137,1,2.0,2020-07-29,Corn chips,1,Snack,Corn chips
+683,137,1,1.0,2020-07-29,Peanuts,1,Snack,Peanuts
+684,137,1,2.0,2020-07-29,Brussel sprouts,1,Vegetable,Brussel sprouts
+685,137,1,1.0,2020-07-29,Carrots,1,Vegetable,Carrots
+686,137,1,1.0,2020-07-29,Pickles (dill),1,Vegetable,Pickles 
+692,149,1,2.0,2020-07-30,Chinese noodles and veggies (frozen),1,Asianfood,Chinese noodles and veggies 
+694,131,1,5.0,2020-07-30,Cheese (snack size),4,Dairy,Cheese 
+695,149,1,2.0,2020-07-30,Skyr,1,Dairy,Skyr
+696,149,1,2.0,2020-07-30,Chocolate,3,Dessert,Chocolate
+697,131,1,5.0,2020-07-30,Cookies,2,Dessert,Cookies
+698,131,1,5.0,2020-07-30,Cookies (butter),2,Dessert,Cookies 
+699,149,1,2.0,2020-07-30,Meal bowl (frozen),4,Dish,Meal bowl 
+700,149,1,2.0,2020-07-30,Kombucha (blood orange),1,Drink,Kombucha 
+701,149,1,2.0,2020-07-30,Vegetable juice,1,Drink,Vegetable juice
+702,149,1,2.0,2020-07-30,Pepperoni pizza (frozen),1,Fastfood,Pepperoni pizza 
+703,149,1,2.0,2020-07-30,Bananas,1,Fruit,Bananas
+704,149,1,2.0,2020-07-30,Blackberries,1,Fruit,Blackberries
+705,149,1,2.0,2020-07-30,Strawberries,1,Fruit,Strawberries
+713,141,1,1.0,2020-07-30,Salad,1,Salad,Salad
+714,141,1,1.0,2020-07-30,Salmon,1,Seafood,Salmon
+715,149,1,1.0,2020-07-30,"Tuna (canned, 8-pack)",2,Seafood,Tuna 
+716,149,1,2.0,2020-07-30,Banana chips?,1,Snack,Banana chips?
+717,149,1,1.0,2020-07-30,Pecans (halves),1,Snack,Pecans 
+718,149,1,2.0,2020-07-30,Plantain chips?,8,Snack,Plantain chips?
+719,149,1,2.0,2020-07-30,Tomato bisque (canned),1,Soup,Tomato bisque 
+720,149,1,2.0,2020-07-30,Tortillas,1,Spanishfood,Tortillas
+723,141,1,1.0,2020-07-30,Asparagus,1,Vegetables,Asparagus
+724,141,1,1.0,2020-07-30,Onions (chopped),3,Vegetables,Onions 
+727,137,1,1.0,2020-07-31,Italian salad dressing,1,Condiment,Italian salad dressing
+728,137,1,1.0,2020-07-31,Ranch dressing,1,Condiment,Ranch dressing
+729,137,1,1.0,2020-07-31,Popsicles (mango),1,Dessert,Popsicles 
+730,137,1,1.0,2020-07-31,Coffee (beans),5,Drink,Coffee 
+731,137,1,1.0,2020-07-31,Bread (wheat),1,Grain,Bread 
+732,145,2,2.0,2020-08-01,Eggs,1,Breakfast,Eggs
+733,145,2,2.0,2020-08-01,Cheese blend (parmesan and romano),1,Dairy,Cheese blend 
+734,145,2,2.0,2020-08-01,Cream cheese,1,Dairy,Cream cheese
+735,145,2,2.0,2020-08-01,Swiss cheese,1,Dairy,Swiss cheese
+736,145,2,2.0,2020-08-01,Yogurt (blueberry),4,Dairy,Yogurt 
+737,145,2,2.0,2020-08-01,Dark chocolate bar,3,Dessert,Dark chocolate bar
+738,145,2,2.0,2020-08-01,Hummus,1,Dip,Hummus
+739,145,2,2.0,2020-08-01,Tzatziki dip,1,Dip,Tzatziki dip
+740,145,2,2.0,2020-08-01,Macaroni and Cheese,4,Dish,Macaroni and Cheese
+741,145,2,2.0,2020-08-01,Green tea (bags),1,Drink,Green tea 
+742,145,2,2.0,2020-08-01,"Green tea (with mint, bags)",1,Drink,Green tea 
+743,145,2,2.0,2020-08-01,Unsweetened vanilla plant milk?,1,Drink,Unsweetened vanilla plant milk?
+744,145,2,2.0,2020-08-01,Blueberries,2,Fruit,Blueberries
+745,145,2,2.0,2020-08-01,Raisins,1,Fruit,Raisins
+746,145,2,2.0,2020-08-01,Sliced olives,1,Fruit,Sliced olives
+747,145,2,2.0,2020-08-01,Tomatoes (plum),1,Fruit,Tomatoes 
+748,145,2,2.0,2020-08-01,Oats (steel cut),1,Grain,Oats 
+749,145,2,2.0,2020-08-01,Rye bread,1,Grain,Rye bread
+752,145,2,2.0,2020-08-01,Seasoning blend,1,Seasoning,Seasoning blend
+753,145,2,2.0,2020-08-01,Walnuts (shelled),1,Snack,Walnuts 
+754,145,2,2.0,2020-08-01,Olive spread,1,Spread,Olive spread
+756,145,2,2.0,2020-08-01,Onions,1,Vegetable,Onions
+757,145,2,2.0,2020-08-01,Peppers (tabasco),1,Vegetable,Peppers 
+758,145,2,2.0,2020-08-01,Vegetable and beans blend (canned),2,Vegetable,Vegetable and beans blend 
+761,131,1,2.0,2020-08-02,Candy Bar (Baby Ruth),3,Candy,Candy Bar 
+762,131,1,2.0,2020-08-02,Flavored Water,1,Drink,Flavored Water
+763,131,1,2.0,2020-08-02,Hard Seltzer ,1,Drink,Hard Seltzer 
+764,131,1,2.0,2020-08-02,Blackberries,1,Fruit,Blackberries
+765,131,1,2.0,2020-08-02,Raspberries,1,Fruit,Raspberries
+766,121,5,1.0,2020-08-03,Ramen,1,Asianfood,Ramen
+767,127,4,1.0,2020-08-03,Eggs,1,Breakfast,Eggs
+768,130,2,1.0,2020-08-03,Eggs,1,Breakfast,Eggs
+769,127,4,1.0,2020-08-03,Oatmeal,1,Breakfast,Oatmeal
+772,121,5,1.0,2020-08-03,Cream cheese,1,Dairy,Cream cheese
+773,121,5,1.0,2020-08-03,Cream cheese,2,Dairy,Cream cheese
+774,127,4,1.0,2020-08-03,Goat cheese (crumble),1,Dairy,Goat cheese 
+775,127,4,1.0,2020-08-03,Half and half (dairy free),1,Dairy,Half and half 
+776,130,2,1.0,2020-08-03,"Milk (2%, lactose free)",1,Dairy,Milk 
+777,127,4,1.0,2020-08-03,Milk (2%),3,Dairy,Milk 
+778,121,5,1.0,2020-08-03,Whipping cream,1,Dairy,Whipping cream
+779,121,5,1.0,2020-08-03,Yogurt (vanilla),1,Dairy,Yogurt 
+780,127,4,1.0,2020-08-03,Cookies (almond),1,Dessert,Cookies 
+781,127,4,1.0,2020-08-03,Cookies (ginger thins)?,1,Dessert,Cookies ?
+782,127,4,1.0,2020-08-03,Ice cream,1,Dessert,Ice cream
+783,127,4,1.0,2020-08-03,Hummus (chocolate),1,Dip,Hummus 
+784,149,1,3.0,2020-08-03,Chicken pilaf,1,Dish,Chicken pilaf
+785,149,1,3.0,2020-08-03,Chicken risotto,1,Dish,Chicken risotto
+786,149,1,3.0,2020-08-03,Pork chop,1,Dish,Pork chop
+787,139,1,3.0,2020-08-03,Potstickers (chicken),1,Dish,Potstickers 
+788,149,1,3.0,2020-08-03,Summer steak,1,Dish,Summer steak
+789,149,1,3.0,2020-08-03,Turkey meatloaf,1,Dish,Turkey meatloaf
+790,121,5,1.0,2020-08-03,"Veggie tots (Broccoli, cheese)",1,Dish,Veggie tots 
+791,121,5,1.0,2020-08-03,"Veggie tots (cauliflower, cheese, bacon)",1,Dish,Veggie tots 
+792,149,1,3.0,2020-08-03,Zucchini noodles and meatballs,1,Dish,Zucchini noodles and meatballs
+793,121,5,1.0,2020-08-03,Apricot nectar?,1,Drink,Apricot nectar?
+794,139,1,3.0,2020-08-03,Bourbon whiskey,1,Drink,Bourbon whiskey
+795,139,1,3.0,2020-08-03,Gin,1,Drink,Gin
+796,127,4,1.0,2020-08-03,Raspberry drink mix,1,Drink,Raspberry drink mix
+797,127,4,1.0,2020-08-03,Tea bags,2,Drink,Tea bags
+798,139,1,3.0,2020-08-03,Vodka,1,Drink,Vodka
+799,139,1,3.0,2020-08-03,Wine (Zinfandel),2,Drink,Wine 
+800,127,4,1.0,2020-08-03,Apples (empire),1,Fruit,Apples 
+801,121,5,1.0,2020-08-03,Avocado,3,Fruit,Avocado
+802,139,1,3.0,2020-08-03,Avocados,1,Fruit,Avocados
+803,130,2,1.0,2020-08-03,Bananas,1,Fruit,Bananas
+804,130,2,1.0,2020-08-03,Blueberries,1,Fruit,Blueberries
+805,130,2,1.0,2020-08-03,Grapes,1,Fruit,Grapes
+806,127,4,1.0,2020-08-03,Melons,1,Fruit,Melons
+807,130,2,1.0,2020-08-03,Oranges,1,Fruit,Oranges
+808,130,2,1.0,2020-08-03,Peaches,1,Fruit,Peaches
+809,121,5,1.0,2020-08-03,Strawberries,1,Fruit,Strawberries
+810,130,2,1.0,2020-08-03,Strawberries,1,Fruit,Strawberries
+814,130,2,1.0,2020-08-03,Chicken breasts,1,Meat,Chicken breasts
+815,121,5,1.0,2020-08-03,Chicken strips,1,Meat,Chicken strips
+816,121,5,1.0,2020-08-03,Deli meat,1,Meat,Deli meat
+817,127,4,1.0,2020-08-03,Deli meat,1,Meat,Deli meat
+818,130,2,1.0,2020-08-03,Ham,1,Meat,Ham
+819,121,5,1.0,2020-08-03,Pepperoni,1,Meat,Pepperoni
+820,121,5,1.0,2020-08-03,Roast beef,1,Meat,Roast beef
+821,121,5,1.0,2020-08-03,Salad bowl,1,Salad,Salad bowl
+822,130,2,1.0,2020-08-03,Corvina,1,Seafood,Corvina
+823,121,5,1.0,2020-08-03,Crispy onions,1,Seasoning,Crispy onions
+824,130,2,1.0,2020-08-03,Ginger,1,Seasoning,Ginger
+825,121,5,1.0,2020-08-03,Wonton strips,2,Seasoning,Wonton strips
+826,127,4,1.0,2020-08-03,Applesauce,1,Snack,Applesauce
+827,127,4,1.0,2020-08-03,Graham crackers,1,Snack,Graham crackers
+828,121,5,1.0,2020-08-03,Sliced almonds,1,Snack,Sliced almonds
+829,121,5,1.0,2020-08-03,Tortilla strips,1,Spanishfood,Tortilla strips
+830,121,5,1.0,2020-08-03,Tortillas,1,Spanishfood,Tortillas
+832,121,5,1.0,2020-08-03,Horseradish,1,Vegetable,Horseradish
+833,121,5,1.0,2020-08-03,Riced cauliflower,1,Vegetable,Riced cauliflower
+834,130,2,1.0,2020-08-03,Cabbage,1,Vegetables,Cabbage
+835,130,2,1.0,2020-08-03,Carrots,1,Vegetables,Carrots
+836,130,2,1.0,2020-08-03,Cucumbers,3,Vegetables,Cucumbers
+837,127,4,1.0,2020-08-03,Squash,1,Vegetables,Squash
+852,139,1,3.0,2020-08-04,Olive oil,1,Baking,Olive oil
+853,139,1,3.0,2020-08-04,Sweet relish,1,Condiment,Sweet relish
+854,139,1,3.0,2020-08-04,Coffee creamer,1,Dairy,Coffee creamer
+855,130,2,1.0,2020-08-04,Apple fritter,1,Dessert,Apple fritter
+856,130,2,1.0,2020-08-04,"Cookies (fudge, caramel, peanut)",1,Dessert,Cookies 
+857,130,2,1.0,2020-08-04,Ice cream,1,Dessert,Ice cream
+858,130,2,1.0,2020-08-04,Grilled cheese,1,Fastfood,Grilled cheese
+859,139,1,3.0,2020-08-04,Cherry Tomatoes,1,Fruit,Cherry Tomatoes
+860,139,1,3.0,2020-08-04,Bread (rye),1,Grain,Bread 
+861,139,1,3.0,2020-08-04,Bread (whole wheat),1,Grain,Bread 
+862,130,2,1.0,2020-08-04,Italian bread,1,Grain,Italian bread
+863,130,2,1.0,2020-08-04,Maggi seasoning,1,Seasoning,Maggi seasoning
+864,139,1,3.0,2020-08-04,Salt,1,Seasoning,Salt
+865,139,1,3.0,2020-08-04,Chips,1,Snack,Chips
+866,130,2,1.0,2020-08-04,Barley soup,1,Soup,Barley soup
+867,130,2,1.0,2020-08-04,Chicken broth,1,Soup,Chicken broth
+868,139,1,3.0,2020-08-04,Mayo,1,Spread,Mayo
+869,139,1,3.0,2020-08-04,Mayo (light),1,Spread,Mayo 
+870,130,2,1.0,2020-08-04,Strawberry preserves,1,Spread,Strawberry preserves
+872,139,1,3.0,2020-08-04,Baby Spinach,1,Vegetable,Baby Spinach
+873,139,1,3.0,2020-08-04,Pepperoncini ,1,Vegetable,Pepperoncini 
+874,139,1,3.0,2020-08-04,Pickles (dill),1,Vegetable,Pickles 
+875,139,1,3.0,2020-08-04,Pickles (Sweet Gherkin),1,Vegetable,Pickles 
+876,139,1,3.0,2020-08-04,White Mushrooms,1,Vegetable,White Mushrooms
+877,118,3,1.0,2020-08-05,Cocoa powder,1,Baking,Cocoa powder
+878,118,3,1.0,2020-08-05,Powdered sugar,1,Baking,Powdered sugar
+879,141,1,1.0,2020-08-05,Eggs,2,Breakfast,Eggs
+882,141,1,1.0,2020-08-05,Brie cheese,1,Dairy,Brie cheese
+883,118,3,1.0,2020-08-05,Butter,2,Dairy,Butter
+884,141,1,1.0,2020-08-05,Cheddar pepper jack cheese,2,Dairy,Cheddar pepper jack cheese
+885,141,1,1.0,2020-08-05,Cheese curds,1,Dairy,Cheese curds
+886,141,1,1.0,2020-08-05,Cream cheese,2,Dairy,Cream cheese
+887,141,1,1.0,2020-08-05,Monterey Pepper jack cheese,3,Dairy,Monterey Pepper jack cheese
+888,141,1,1.0,2020-08-05,White Cheddar cheese,1,Dairy,White Cheddar cheese
+889,141,1,1.0,2020-08-05,Whole and skim milk (lactose free),1,Dairy,Whole and skim milk 
+890,118,3,1.0,2020-08-05,Pinwheel pastries,1,Dish,Pinwheel pastries
+891,141,1,1.0,2020-08-05,Coffee (cups),1,Drink,Coffee 
+892,141,1,1.0,2020-08-05,Coffee (instant),1,Drink,Coffee 
+893,118,3,1.0,2020-08-05,Orange juice,1,Drink,Orange juice
+894,141,1,1.0,2020-08-05,Red wine,1,Drink,Red wine
+895,118,3,1.0,2020-08-05,"Soda (lemon-lime, diet)",1,Drink,Soda 
+897,141,1,1.0,2020-08-05,Cherries,1,Fruit,Cherries
+898,118,3,1.0,2020-08-05,Lemon,2,Fruit,Lemon
+899,118,3,1.0,2020-08-05,Mangos,1,Fruit,Mangos
+900,141,1,1.0,2020-08-05,Pineapple spears,1,Fruit,Pineapple spears
+901,118,3,1.0,2020-08-05,Oats,1,Grain,Oats
+902,118,3,1.0,2020-08-05,Rolls,1,Grain,Rolls
+903,118,3,1.0,2020-08-05,Ground turkey,1,Meat,Ground turkey
+905,118,3,1.0,2020-08-05,Caesar salad,1,Salad,Caesar salad
+906,118,3,1.0,2020-08-05,Cole slaw,1,Salad,Cole slaw
+907,141,1,1.0,2020-08-05,Garden salad,1,Salad,Garden salad
+908,141,1,1.0,2020-08-05,Trout,1,Seafood,Trout
+909,118,3,1.0,2020-08-05,Ginger root,1,Seasoning,Ginger root
+910,118,3,1.0,2020-08-05,Peanut butter,1,Spread,Peanut butter
+911,118,3,1.0,2020-08-05,Mushrooms (sliced),1,Vegetable,Mushrooms 
+912,141,1,1.0,2020-08-05,Broccoli (crowns),1,Vegetables,Broccoli 
+913,141,1,1.0,2020-08-05,Mushrooms (portabella),1,Vegetables,Mushrooms 
+914,126,4,1.0,2020-08-06,Olive oil,1,Baking,Olive oil
+915,126,4,1.0,2020-08-06,Milk (1%),1,Dairy,Milk 
+916,126,4,1.0,2020-08-06,Yogurt (vanilla),4,Dairy,Yogurt 
+917,126,4,1.0,2020-08-06,Chicken Parmesan,5,Dish,Chicken Parmesan
+918,126,4,1.0,2020-08-06,Macaroni and Cheese with Broccoli,4,Dish,Macaroni and Cheese with Broccoli
+919,126,4,1.0,2020-08-06,Bananas,1,Fruit,Bananas
+920,126,4,1.0,2020-08-06,Nectarines,1,Fruit,Nectarines
+921,126,4,1.0,2020-08-06,Broccoli,1,Vegetable,Broccoli
+922,126,4,1.0,2020-08-06,Corn,1,Vegetable,Corn
+923,126,4,1.0,2020-08-06,Corn?,2,Vegetable,Corn?
+924,126,4,1.0,2020-08-06,Onions (yellow),1,Vegetable,Onions 
+925,149,1,4.0,2020-08-07,Chinese noodles and veggies (frozen),1,Asianfood,Chinese noodles and veggies 
+926,121,5,1.0,2020-08-07,Sushi,1,Asianfood,Sushi
+927,113,5,1.0,2020-08-07,Baking soda,1,Baking,Baking soda
+929,113,5,1.0,2020-08-07,Cheddar cheese,2,Dairy,Cheddar cheese
+930,113,5,1.0,2020-08-07,Milk (whole),1,Dairy,Milk 
+931,113,5,1.0,2020-08-07,Parmesan cheese ,1,Dairy,Parmesan cheese 
+932,149,1,4.0,2020-08-07,Skyr,3,Dairy,Skyr
+933,113,5,1.0,2020-08-07,Whipping cream,1,Dairy,Whipping cream
+934,121,5,1.0,2020-08-07,Apple pie,1,Dessert,Apple pie
+935,149,1,4.0,2020-08-07,Dairy-free Ice cream (vanilla),1,Dessert,Dairy-free Ice cream 
+936,121,5,1.0,2020-08-07,Gelato,1,Dessert,Gelato
+937,121,5,1.0,2020-08-07,Gelato,1,Dessert,Gelato
+938,121,5,1.0,2020-08-07,Ice cream,2,Dessert,Ice cream
+939,121,5,1.0,2020-08-07,Pot pie,1,Dessert,Pot pie
+940,149,1,4.0,2020-08-07,Broccoli and cheddar bowl (frozen),2,Dish,Broccoli and cheddar bowl 
+941,121,5,1.0,2020-08-07,Potato salad,1,Dish,Potato salad
+942,113,5,1.0,2020-08-07,Coffee (beans),1,Drink,Coffee 
+943,149,1,4.0,2020-08-07,Kombucha (blood orange),1,Drink,Kombucha 
+944,121,5,1.0,2020-08-07,Sparkling drink,2,Drink,Sparkling drink
+945,149,1,4.0,2020-08-07,Vegetable juice,3,Drink,Vegetable juice
+946,149,1,4.0,2020-08-07,Water,1,Drink,Water
+947,149,1,4.0,2020-08-07,Bananas,1,Fruit,Bananas
+948,149,1,4.0,2020-08-07,Blueberries,1,Fruit,Blueberries
+949,113,5,1.0,2020-08-07,Mixed berries (frozen),1,Fruit,Mixed berries 
+950,149,1,4.0,2020-08-07,Tomatoes,1,Fruit,Tomatoes
+951,121,5,1.0,2020-08-07,Garlic bread,1,Grain,Garlic bread
+952,121,5,1.0,2020-08-07,Bratwurst,1,Meat,Bratwurst
+953,113,5,1.0,2020-08-07,Pasta?,2,Pasta,Pasta?
+954,149,1,4.0,2020-08-07,Salad greens blend,1,Salad,Salad greens blend
+955,121,5,1.0,2020-08-07,BBQ baked beans,2,Side,BBQ baked beans
+956,121,5,1.0,2020-08-07,Cashews,1,Snack,Cashews
+957,149,1,4.0,2020-08-07,Plantain chips?,2,Snack,Plantain chips?
+958,149,1,4.0,2020-08-07,Snap pea crisps,1,Snack,Snap pea crisps
+959,139,2,1.0,2020-08-07,Tortilla chips,1,Snack,Tortilla chips
+960,149,1,4.0,2020-08-07,Tomato bisque (canned),2,Soup,Tomato bisque 
+961,149,1,4.0,2020-08-07,Enchilada (frozen),1,Spanishfood,Enchilada 
+962,149,1,4.0,2020-08-07,Peanut butter,1,Spread,Peanut butter
+969,113,5,1.0,2020-08-07,Brussel sprouts,1,Vegetable,Brussel sprouts
+970,139,2,1.0,2020-08-07,Iceberg Lettuce,1,Vegetable,Iceberg Lettuce
+971,113,5,1.0,2020-08-07,Steamable beans?,1,Vegetable,Steamable beans?
+973,130,2,2.0,2020-08-08,Apple fritter,1,Dessert,Apple fritter
+974,130,2,2.0,2020-08-08,Sourdough bread,1,Grain,Sourdough bread
+975,139,2,1.0,2020-08-09,Eggs,1,Breakfast,Eggs
+976,127,4,1.0,2020-08-09,Pancake mix,1,Breakfast,Pancake mix
+977,139,2,1.0,2020-08-09,Dijon mustard,1,Condiment,Dijon mustard
+978,139,2,1.0,2020-08-09,Ketchup,1,Condiment,Ketchup
+979,139,2,1.0,2020-08-09,Cheese,1,Dairy,Cheese
+980,139,2,1.0,2020-08-09,Cheese (mexican blend),1,Dairy,Cheese 
+981,139,2,1.0,2020-08-09,Feta Cheese,1,Dairy,Feta Cheese
+982,139,2,1.0,2020-08-09,Greek yogurt,5,Dairy,Greek yogurt
+983,139,2,1.0,2020-08-09,Yogurt,2,Dairy,Yogurt
+984,139,2,1.0,2020-08-09,Yogurt (vanilla),1,Dairy,Yogurt 
+985,127,4,1.0,2020-08-09,Chocolate w/ almonds,1,Dessert,Chocolate w/ almonds
+986,127,4,1.0,2020-08-09,Mango smoothie,1,Drink,Mango smoothie
+987,139,2,1.0,2020-08-09,Orange juice,1,Drink,Orange juice
+988,139,2,1.0,2020-08-09,"Soda (cola, zero)",1,Drink,Soda 
+989,131,2,1.0,2020-08-09,Soda (cola),1,Drink,Soda 
+990,139,2,1.0,2020-08-09,Tomato juice,1,Drink,Tomato juice
+992,139,2,1.0,2020-08-09,Apples (granny smith),1,Fruit,Apples 
+993,139,2,1.0,2020-08-09,Bananas,1,Fruit,Bananas
+994,139,2,1.0,2020-08-09,Lemons,2,Fruit,Lemons
+995,127,4,1.0,2020-08-09,Mixed fruit,1,Fruit,Mixed fruit
+996,139,2,1.0,2020-08-09,Nectarines,1,Fruit,Nectarines
+997,139,2,1.0,2020-08-09,Pears,1,Fruit,Pears
+998,139,2,1.0,2020-08-09,Pineapple chunks,1,Fruit,Pineapple chunks
+999,139,2,1.0,2020-08-09,Tomatoes,1,Fruit,Tomatoes
+1000,139,2,1.0,2020-08-09,Sirloin steak,1,Meat,Sirloin steak
+1001,127,4,1.0,2020-08-09,Couscous (parmesan),1,Middleeasternfood,Couscous 
+1002,127,4,1.0,2020-08-09,Couscous (toasted pine nut),1,Middleeasternfood,Couscous 
+1004,139,2,1.0,2020-08-09,Egg noodles,1,Pasta,Egg noodles
+1005,139,2,1.0,2020-08-09,Spinach Spaghetti,1,Pasta,Spinach Spaghetti
+1006,139,2,1.0,2020-08-09,Tortellini ,1,Pasta,Tortellini 
+1007,139,2,1.0,2020-08-09,Salad greens blend,1,Salad,Salad greens blend
+1008,139,2,1.0,2020-08-09,Applesauce,1,Snack,Applesauce
+1009,139,2,1.0,2020-08-09,Jam (blackberry),1,Spread,Jam 
+1010,139,2,1.0,2020-08-09,Marmalade,1,Spread,Marmalade
+1011,139,2,1.0,2020-08-09,Baby spinach,1,Vegetable,Baby spinach
+1012,139,2,1.0,2020-08-09,Broccoli,1,Vegetable,Broccoli
+1013,139,2,1.0,2020-08-09,Celery,1,Vegetable,Celery
+1014,139,2,1.0,2020-08-09,Corn (canned),2,Vegetable,Corn 
+1015,139,2,1.0,2020-08-09,Cucumbers,2,Vegetable,Cucumbers
+1016,139,2,1.0,2020-08-09,Green onions,1,Vegetable,Green onions
+1017,139,2,1.0,2020-08-09,Mushrooms,1,Vegetable,Mushrooms
+1018,139,2,1.0,2020-08-09,Onion,1,Vegetable,Onion
+1019,139,2,1.0,2020-08-09,Peas,1,Vegetable,Peas
+1020,139,2,1.0,2020-08-09,Pickles (dill),1,Vegetable,Pickles 
+1021,139,2,1.0,2020-08-09,Potatoes (golden),1,Vegetable,Potatoes 
+1022,139,2,1.0,2020-08-09,Romaine lettuce,1,Vegetable,Romaine lettuce
+1023,139,2,1.0,2020-08-09,Sweet peppers,1,Vegetable,Sweet peppers
+1024,139,2,1.0,2020-08-09,Sweet potato,2,Vegetable,Sweet potato
+1025,127,4,1.0,2020-08-09,Baby carrots,1,Vegetables,Baby carrots
+1026,127,4,1.0,2020-08-09,Baby spinach,1,Vegetables,Baby spinach
+1027,127,4,1.0,2020-08-09,Yellow peppers,1,Vegetables,Yellow peppers
+1029,131,2,2.0,2020-08-10,Cheese (snack size),5,Dairy,Cheese 
+1030,131,2,2.0,2020-08-10,Mozzarella Cheese (snack size),1,Dairy,Mozzarella Cheese 
+1031,145,2,3.0,2020-08-10,Yogurt (blueberry),6,Dairy,Yogurt 
+1033,131,2,2.0,2020-08-10,Cookies,1,Dessert,Cookies
+1034,131,2,2.0,2020-08-10,Cookies,1,Dessert,Cookies
+1035,131,2,2.0,2020-08-10,Cookies (butter),3,Dessert,Cookies 
+1036,145,2,3.0,2020-08-10,Dark chocolate,1,Dessert,Dark chocolate
+1037,145,2,1.0,2020-08-10,Dark chocolate bar,1,Dessert,Dark chocolate bar
+1038,145,2,1.0,2020-08-10,Dark chocolate raisins,1,Dessert,Dark chocolate raisins
+1043,145,2,3.0,2020-08-10,Unsweetened vanilla plant milk?,1,Drink,Unsweetened vanilla plant milk?
+1044,145,2,1.0,2020-08-10,Wine (merlot),1,Drink,Wine 
+1045,145,2,1.0,2020-08-10,Wine (red),1,Drink,Wine 
+1046,145,2,1.0,2020-08-10,Wine (shiraz),1,Drink,Wine 
+1048,145,2,1.0,2020-08-10,Bananas,1,Fruit,Bananas
+1049,130,2,3.0,2020-08-10,Bananas,1,Fruit,Bananas
+1050,145,2,3.0,2020-08-10,Blueberries,1,Fruit,Blueberries
+1051,130,2,3.0,2020-08-10,Blueberries,3,Fruit,Blueberries
+1052,130,2,3.0,2020-08-10,Lemons,3,Fruit,Lemons
+1053,130,2,3.0,2020-08-10,Peaches,1,Fruit,Peaches
+1054,130,2,3.0,2020-08-10,Plums,1,Fruit,Plums
+1055,130,2,3.0,2020-08-10,Strawberries,1,Fruit,Strawberries
+1056,145,2,3.0,2020-08-10,Tomatoes (plum),1,Fruit,Tomatoes 
+1057,145,2,1.0,2020-08-10,English muffins (whole wheat),1,Grain,English muffins 
+1058,145,2,1.0,2020-08-10,Sourdough bread,2,Grain,Sourdough bread
+1060,145,2,1.0,2020-08-10,Pasta (elbow),4,Pasta,Pasta 
+1061,145,2,3.0,2020-08-10,Albacore (canned),3,Seafood,Albacore 
+1062,130,2,3.0,2020-08-10,Parsley,1,Seasoning,Parsley
+1064,145,2,1.0,2020-08-10,Crackers (everything),1,Snack,Crackers 
+1065,145,2,1.0,2020-08-10,"Granola bars (dark chocolate, raisin)",1,Snack,Granola bars 
+1066,131,2,2.0,2020-08-10,Snack Pack (almond and cheese),3,Snack,Snack Pack 
+1068,145,2,1.0,2020-08-10,"Beets (sliced, canned)",3,Vegetable,Beets 
+1069,145,2,1.0,2020-08-10,Black beans,1,Vegetable,Black beans
+1070,145,2,1.0,2020-08-10,Carrots (sliced),1,Vegetable,Carrots 
+1071,145,2,3.0,2020-08-10,Green peppers,1,Vegetable,Green peppers
+1072,145,2,3.0,2020-08-10,Kale,1,Vegetable,Kale
+1073,145,2,3.0,2020-08-10,"Kidney beans (red, canned)",4,Vegetable,Kidney beans 
+1074,145,2,3.0,2020-08-10,Onions,1,Vegetable,Onions
+1075,145,2,3.0,2020-08-10,Summer squash,1,Vegetable,Summer squash
+1076,130,2,3.0,2020-08-10,Celery,1,Vegetables,Celery
+1077,130,2,3.0,2020-08-10,Radishes,1,Vegetables,Radishes
+1080,130,2,3.0,2020-08-11,Baking soda,1,Baking,Baking soda
+1081,130,2,3.0,2020-08-11,Corn flakes,1,Breakfast,Corn flakes
+1082,130,2,3.0,2020-08-11,Spaghetti sauce,1,Condiment,Spaghetti sauce
+1083,130,2,3.0,2020-08-11,Butter,1,Dairy,Butter
+1084,127,4,1.0,2020-08-11,Ice cream,1,Dairy,Ice cream
+1085,127,4,1.0,2020-08-11,Icelandic yogurt,1,Dairy,Icelandic yogurt
+1086,130,2,3.0,2020-08-11,"Milk (2%, lactose free)",1,Dairy,Milk 
+1087,130,2,3.0,2020-08-11,"Cookies (fudge, caramel, peanut)",1,Dessert,Cookies 
+1088,130,2,3.0,2020-08-11,Dark chocolate,1,Dessert,Dark chocolate
+1089,130,2,3.0,2020-08-11,York peppermint patties,1,Dessert,York peppermint patties
+1090,127,4,1.0,2020-08-11,Hummus (lemon),1,Dip,Hummus 
+1091,130,2,3.0,2020-08-11,Grapefruit juice,1,Drink,Grapefruit juice
+1092,130,2,3.0,2020-08-11,"Soda (cola, diet)",2,Drink,Soda 
+1093,127,4,1.0,2020-08-11,Bananas,2,Fruit,Bananas
+1094,127,4,1.0,2020-08-11,Mixed berries,2,Fruit,Mixed berries
+1095,127,4,1.0,2020-08-11,Pineapple fruit cup,1,Fruit,Pineapple fruit cup
+1096,130,2,3.0,2020-08-11,Sourdough bread,1,Grain,Sourdough bread
+1098,130,2,3.0,2020-08-11,Angel hair pasta,1,Pasta,Angel hair pasta
+1099,130,2,3.0,2020-08-11,Canola oil spray,1,Seasoning,Canola oil spray
+1100,130,2,3.0,2020-08-11,Baked beans,1,Side,Baked beans
+1101,130,2,3.0,2020-08-11,Pretzel,1,Snack,Pretzel
+1102,130,2,3.0,2020-08-11,Blackberry preserves,1,Spread,Blackberry preserves
+1104,130,2,3.0,2020-08-11,Mixed vegetables,1,Vegetables,Mixed vegetables
+1105,127,4,1.0,2020-08-11,Pickles (dill),1,Vegetables,Pickles 
+1106,113,6,3.0,2020-08-12,Eggs,1,Breakfast,Eggs
+1108,113,6,3.0,2020-08-12,Cheddar cheese,1,Dairy,Cheddar cheese
+1109,113,6,3.0,2020-08-12,Heavy cream,2,Dairy,Heavy cream
+1110,137,2,1.0,2020-08-12,Milk,2,Dairy,Milk
+1111,113,6,3.0,2020-08-12,Milk (whole),1,Dairy,Milk 
+1112,137,2,1.0,2020-08-12,Yogurt (pack),1,Dairy,Yogurt 
+1113,137,2,1.0,2020-08-12,Strawberries,1,Fruit,Strawberries
+1114,113,6,3.0,2020-08-12,Chicken (thighs),1,Meat,Chicken 
+1115,137,2,1.0,2020-08-12,Chicken thighs,1,Meat,Chicken thighs
+1116,113,6,3.0,2020-08-12,Ham (shank),1,Meat,Ham 
+1120,113,6,3.0,2020-08-12,Spinach,1,Vegetable,Spinach
+1132,148,2,2.0,2020-08-13,Brie cheese,1,Dairy,Brie cheese
+1133,127,5,4.0,2020-08-13,Cheese?,1,Dairy,Cheese?
+1134,148,2,2.0,2020-08-13,Feta cheese,1,Dairy,Feta cheese
+1135,127,5,4.0,2020-08-13,Swiss cheese,1,Dairy,Swiss cheese
+1136,130,2,4.0,2020-08-13,Whipped topping,1,Dairy,Whipped topping
+1137,148,2,2.0,2020-08-13,Chocolate cake,1,Dessert,Chocolate cake
+1138,130,2,4.0,2020-08-13,Cinnamon donuts,1,Dessert,Cinnamon donuts
+1139,114,6,1.0,2020-08-13,Key lime pie,1,Dessert,Key lime pie
+1140,127,5,4.0,2020-08-13,Mini muffins,1,Dessert,Mini muffins
+1141,148,2,2.0,2020-08-13,Rice Krispies,1,Dessert,Rice Krispies
+1142,127,5,4.0,2020-08-13,Black bean hummus,1,Dip,Black bean hummus
+1143,127,5,4.0,2020-08-13,Dessert hummus,1,Dip,Dessert hummus
+1144,149,2,2.0,2020-08-13,BBQ Beef,1,Dish,BBQ Beef
+1145,149,2,2.0,2020-08-13,Chicken livorno,1,Dish,Chicken livorno
+1146,149,2,2.0,2020-08-13,Chicken parm,1,Dish,Chicken parm
+1147,149,2,2.0,2020-08-13,Chicken pilaf,1,Dish,Chicken pilaf
+1148,149,2,2.0,2020-08-13,Pork chop,1,Dish,Pork chop
+1149,149,2,2.0,2020-08-13,Steak peppercorn,1,Dish,Steak peppercorn
+1150,148,2,2.0,2020-08-13,Coffee (beans),1,Drink,Coffee 
+1151,148,2,2.0,2020-08-13,Lemonade,1,Drink,Lemonade
+1152,148,2,2.0,2020-08-13,Orange juice,1,Drink,Orange juice
+1153,148,2,2.0,2020-08-13,Soda (lemon lime),1,Drink,Soda 
+1154,127,5,4.0,2020-08-13,Bananas,1,Fruit,Bananas
+1155,148,2,2.0,2020-08-13,Blueberries,1,Fruit,Blueberries
+1156,127,5,4.0,2020-08-13,Angus roast beef,1,Meat,Angus roast beef
+1157,127,5,4.0,2020-08-13,ground beef,1,Meat,ground beef
+1158,127,5,4.0,2020-08-13,Ham,1,Meat,Ham
+1159,148,2,2.0,2020-08-13,Gnocchi,2,Pasta,Gnocchi
+1161,114,6,1.0,2020-08-13,Salad,1,Salad,Salad
+1162,148,2,2.0,2020-08-13,Salad,1,Salad,Salad
+1163,127,5,4.0,2020-08-13,Ham and cheese sub,1,Sandwich,Ham and cheese sub
+1164,148,2,2.0,2020-08-13,Aussie bites,1,Snack,Aussie bites
+1165,130,2,4.0,2020-08-13,Popcorn,1,Snack,Popcorn
+1166,148,2,2.0,2020-08-13,Potato chips,1,Snack,Potato chips
+1170,137,2,1.0,2020-08-14,Eggs,1,Breakfast,Eggs
+1172,131,2,3.0,2020-08-14,Half and Half,1,Dairy,Half and Half
+1174,127,5,3.0,2020-08-14,String cheese,1,Dairy,String cheese
+1182,137,2,1.0,2020-08-14,Crème wafers (assorted),1,Dessert,Crème wafers 
+1183,127,5,3.0,2020-08-14,Dark chocolate almonds,1,Dessert,Dark chocolate almonds
+1184,127,5,3.0,2020-08-14,Gummy candy,1,Dessert,Gummy candy
+1185,127,5,3.0,2020-08-14,Milk chocolate,1,Dessert,Milk chocolate
+1186,131,2,3.0,2020-08-14,Bottled water,1,Drink,Bottled water
+1187,127,5,3.0,2020-08-14,Bottled water,1,Drink,Bottled water
+1188,131,2,3.0,2020-08-14,Ice,1,Drink,Ice
+1189,131,2,3.0,2020-08-14,Soda (ginger ale),1,Drink,Soda 
+1191,131,2,3.0,2020-08-14,Sparkling drink (grapefruit),1,Drink,Sparkling drink 
+1192,131,2,3.0,2020-08-14,"Sparkling drink (pomegrante, orange)",1,Drink,Sparkling drink 
+1193,127,5,3.0,2020-08-14,Dried mango,1,Fruit,Dried mango
+1194,127,5,3.0,2020-08-14,Mango,1,Fruit,Mango
+1195,137,2,1.0,2020-08-14,English muffins,4,Grain,English muffins
+1198,137,2,1.0,2020-08-14,Corn chips,1,Snack,Corn chips
+1200,131,2,3.0,2020-08-14,Crackers (saltine),1,Snack,Crackers 
+1201,127,5,3.0,2020-08-14,Graham crackers,1,Snack,Graham crackers
+1203,137,2,1.0,2020-08-14,Brussel sprouts,1,Vegetable,Brussel sprouts
+1205,130,2,5.0,2020-08-15,Eggs,1,Breakfast,Eggs
+1206,114,6,2.0,2020-08-15,Pancake waffle mix,1,Breakfast,Pancake waffle mix
+1207,114,6,2.0,2020-08-15,Sausage egg and cheese biscuit,1,Breakfast,Sausage egg and cheese biscuit
+1209,114,6,2.0,2020-08-15,Mustard,1,Condiment,Mustard
+1210,113,6,1.0,2020-08-15,Cheddar cheese,2,Dairy,Cheddar cheese
+1211,121,5,1.0,2020-08-15,Cheese,2,Dairy,Cheese
+1212,121,5,1.0,2020-08-15,Cheese (marbled),1,Dairy,Cheese 
+1213,114,6,2.0,2020-08-15,Milk (1%),1,Dairy,Milk 
+1214,113,6,1.0,2020-08-15,Milk (whole),1,Dairy,Milk 
+1215,121,5,1.0,2020-08-15,Whipped cream,1,Dairy,Whipped cream
+1216,113,6,1.0,2020-08-15,Whipping cream,1,Dairy,Whipping cream
+1217,130,2,5.0,2020-08-15,Animal crackers,2,Dessert,Animal crackers
+1218,114,6,2.0,2020-08-15,Ice cream sandwiches (vanilla),1,Dessert,Ice cream sandwiches 
+1219,113,6,1.0,2020-08-15,Broccoli stir fry,1,Dish,Broccoli stir fry
+1220,114,6,2.0,2020-08-15,Chicken florentine,1,Dish,Chicken florentine
+1221,114,6,2.0,2020-08-15,Pepperoni lasagna,1,Dish,Pepperoni lasagna
+1222,114,6,2.0,2020-08-15,Stuffed chicken breasts,1,Dish,Stuffed chicken breasts
+1223,121,5,1.0,2020-08-15,Almond milk,1,Drink,Almond milk
+1224,114,6,2.0,2020-08-15,Lemonade iced tea mix,1,Drink,Lemonade iced tea mix
+1225,131,2,4.0,2020-08-15,Bananas,1,Fruit,Bananas
+1226,114,6,2.0,2020-08-15,Bananas,1,Fruit,Bananas
+1227,131,2,4.0,2020-08-15,Blackberries,1,Fruit,Blackberries
+1228,121,5,1.0,2020-08-15,Blueberries,1,Fruit,Blueberries
+1229,130,2,5.0,2020-08-15,Raisins,2,Fruit,Raisins
+1230,131,2,4.0,2020-08-15,Raspberries,1,Fruit,Raspberries
+1231,121,5,1.0,2020-08-15,Strawberries,1,Fruit,Strawberries
+1232,114,6,2.0,2020-08-15,Bread (walnut multigrain),1,Grain,Bread 
+1233,113,6,1.0,2020-08-15,Sausage stick,2,Meat,Sausage stick
+1234,114,6,2.0,2020-08-15,Whole wheat spaghetti,1,Pasta,Whole wheat spaghetti
+1235,114,6,2.0,2020-08-15,BLT salad,1,Salad,BLT salad
+1236,114,6,2.0,2020-08-15,Spinach salad,1,Salad,Spinach salad
+1237,121,5,1.0,2020-08-15,Wonton strips,2,Seasoning,Wonton strips
+1238,130,2,5.0,2020-08-15,Cashews,1,Snack,Cashews
+1239,131,2,4.0,2020-08-15,Chips (lemon),1,Snack,Chips 
+1240,131,2,4.0,2020-08-15,Chips (salt and vinegar),1,Snack,Chips 
+1241,114,6,2.0,2020-08-15,Tortilla chips,1,Spanishfood,Tortilla chips
+1242,131,2,4.0,2020-08-15,Peanut Butter,1,Spread,Peanut Butter
+1243,114,6,2.0,2020-08-15,Plum jam,1,Spread,Plum jam
+1246,121,5,1.0,2020-08-15,Bell peppers (green),1,Vegetable,Bell peppers 
+1247,121,5,1.0,2020-08-15,Celery,1,Vegetable,Celery
+1248,121,5,1.0,2020-08-15,Lettuce,1,Vegetable,Lettuce
+1249,121,5,1.0,2020-08-15,Mushrooms,1,Vegetable,Mushrooms
+1250,121,5,1.0,2020-08-15,Onions (red),1,Vegetable,Onions 
+1251,121,5,1.0,2020-08-15,Spinach,1,Vegetable,Spinach
+1252,121,5,1.0,2020-08-15,Yellow squash,1,Vegetable,Yellow squash
+1253,121,5,1.0,2020-08-15,Zucchini,1,Vegetable,Zucchini
+1255,121,5,1.0,2020-08-16,Eggs,2,Breakfast,Eggs
+1256,130,3,1.0,2020-08-16,Apple fritters,1,Dessert,Apple fritters
+1257,130,3,1.0,2020-08-16,Sourdough bread,1,Grain,Sourdough bread
+1258,121,5,1.0,2020-08-16,Jerky,1,Meat,Jerky
+1259,121,5,1.0,2020-08-16,Tortillas,1,Spanishfood,Tortillas
+1261,149,2,1.0,2020-08-17,Eggs,1,Breakfast,Eggs
+1267,139,2,1.0,2020-08-17,Coffee creamer,1,Dairy,Coffee creamer
+1270,139,2,1.0,2020-08-17,Cottage cheese (low fat),1,Dairy,Cottage cheese 
+1271,139,2,1.0,2020-08-17,Greek yogurt,1,Dairy,Greek yogurt
+1272,149,2,1.0,2020-08-17,Meal bowl (frozen),4,Dish,Meal bowl 
+1273,149,2,1.0,2020-08-17,Kombucha (blood orange),1,Drink,Kombucha 
+1274,149,2,1.0,2020-08-17,Kombucha (raspberry pomegranate),2,Drink,Kombucha 
+1275,149,2,1.0,2020-08-17,Vegetable juice,3,Drink,Vegetable juice
+1278,149,2,1.0,2020-08-17,Pepperoni pizza (frozen),1,Fastfood,Pepperoni pizza 
+1279,149,2,1.0,2020-08-17,Apples (gala),1,Fruit,Apples 
+1280,149,2,1.0,2020-08-17,Bananas,1,Fruit,Bananas
+1281,130,3,2.0,2020-08-17,Bananas,1,Fruit,Bananas
+1282,139,2,1.0,2020-08-17,Blackberries,1,Fruit,Blackberries
+1283,149,2,1.0,2020-08-17,Blueberries,2,Fruit,Blueberries
+1284,130,3,2.0,2020-08-17,Cantaloupe,1,Fruit,Cantaloupe
+1285,130,3,2.0,2020-08-17,Grapes,1,Fruit,Grapes
+1286,130,3,2.0,2020-08-17,Lemons,3,Fruit,Lemons
+1287,139,2,1.0,2020-08-17,Nectarines,1,Fruit,Nectarines
+1288,139,2,1.0,2020-08-17,Peaches,1,Fruit,Peaches
+1289,130,3,2.0,2020-08-17,Peaches,1,Fruit,Peaches
+1290,130,3,2.0,2020-08-17,Plums,1,Fruit,Plums
+1291,130,3,2.0,2020-08-17,Strawberries,1,Fruit,Strawberries
+1292,139,2,1.0,2020-08-17,Watermelon,1,Fruit,Watermelon
+1294,130,3,2.0,2020-08-17,Hotdog rolls,1,Grain,Hotdog rolls
+1295,130,3,2.0,2020-08-17,Beef franks,1,Meat,Beef franks
+1298,130,3,2.0,2020-08-17,Macaroni salad,1,Pasta,Macaroni salad
+1299,130,3,2.0,2020-08-17,Corvina,1,Seafood,Corvina
+1300,139,2,1.0,2020-08-17,Cole Slaw,1,Side,Cole Slaw
+1302,149,2,1.0,2020-08-17,Plantain chips?,3,Snack,Plantain chips?
+1303,149,2,1.0,2020-08-17,Snap pea crisps,2,Snack,Snap pea crisps
+1305,139,2,1.0,2020-08-17,Red leaf lettuce,1,Vegetable,Red leaf lettuce
+1306,130,3,2.0,2020-08-17,Celery,2,Vegetables,Celery
+1307,130,3,2.0,2020-08-17,Cole slaw,1,Vegetables,Cole slaw
+1308,130,3,2.0,2020-08-17,Cucumbers,2,Vegetables,Cucumbers
+1309,130,3,2.0,2020-08-17,Lettuce,1,Vegetables,Lettuce
+1310,130,3,2.0,2020-08-17,Tomatoes,1,Vegetables,Tomatoes
+1312,130,3,3.0,2020-08-18,Eggs,1,Breakfast,Eggs
+1313,130,3,3.0,2020-08-18,Butter,2,Dairy,Butter
+1314,130,3,3.0,2020-08-18,Dark chocolate,1,Dessert,Dark chocolate
+1315,127,5,4.0,2020-08-18,Ginger snaps,1,Dessert,Ginger snaps
+1316,130,3,3.0,2020-08-18,Ice cream,1,Dessert,Ice cream
+1317,130,3,3.0,2020-08-18,Licorice,1,Dessert,Licorice
+1318,130,3,3.0,2020-08-18,Oreo cookies,1,Dessert,Oreo cookies
+1319,127,5,4.0,2020-08-18,Bottled water,2,Drink,Bottled water
+1320,130,3,3.0,2020-08-18,Bottled water,1,Drink,Bottled water
+1321,130,3,3.0,2020-08-18,Coffee (beans),1,Drink,Coffee 
+1322,127,5,4.0,2020-08-18,Banana,5,Fruit,Banana
+1324,130,3,3.0,2020-08-18,Fruit pectin,2,Fruit,Fruit pectin
+1325,127,5,4.0,2020-08-18,Mango,1,Fruit,Mango
+1326,130,3,3.0,2020-08-18,Rice-a-roni (pilaf),1,Grain,Rice-a-roni 
+1327,130,3,3.0,2020-08-18,Rice-a-roni (rice),1,Grain,Rice-a-roni 
+1328,130,3,3.0,2020-08-18,Meatballs,1,Meat,Meatballs
+1331,127,5,4.0,2020-08-18,Pesto chicken wrap,1,Sandwich,Pesto chicken wrap
+1332,130,3,3.0,2020-08-18,Yeast,2,Seasoning,Yeast
+1333,127,5,4.0,2020-08-18,Beet crackers,1,Snack,Beet crackers
+1336,127,5,4.0,2020-08-18,Meat and cheese snack,1,Snack,Meat and cheese snack
+1337,127,5,4.0,2020-08-18,Fig butter,1,Spread,Fig butter
+1341,148,2,2.0,2020-08-20,Sugar,3,Baking,Sugar
+1348,141,2,1.0,2020-08-20,BBQ sauce,1,Condiment,BBQ sauce
+1350,141,2,1.0,2020-08-20,Cream cheese,1,Dairy,Cream cheese
+1351,141,2,1.0,2020-08-20,Cream cheese?,1,Dairy,Cream cheese?
+1352,141,2,1.0,2020-08-20,Gouda cheese,1,Dairy,Gouda cheese
+1353,148,2,2.0,2020-08-20,Milk (reduced fat),1,Dairy,Milk 
+1354,141,2,1.0,2020-08-20,Pepper jack cheese (shredded),1,Dairy,Pepper jack cheese 
+1360,130,3,4.0,2020-08-20,Apple fritters,1,Dessert,Apple fritters
+1363,148,2,2.0,2020-08-20,Kombucha,6,Drink,Kombucha
+1364,148,2,2.0,2020-08-20,Lemonade,1,Drink,Lemonade
+1365,148,2,2.0,2020-08-20,Orange juice,1,Drink,Orange juice
+1368,148,2,2.0,2020-08-20,Water (bottled),1,Drink,Water 
+1372,148,2,2.0,2020-08-20,Bananas,1,Fruit,Bananas
+1373,141,2,1.0,2020-08-20,Grapes,1,Fruit,Grapes
+1374,141,2,1.0,2020-08-20,Peaches (canned),12,Fruit,Peaches 
+1375,141,2,1.0,2020-08-20,Plums,1,Fruit,Plums
+1376,148,2,2.0,2020-08-20,Bread (rye),1,Grain,Bread 
+1377,130,3,4.0,2020-08-20,Italian bread,1,Grain,Italian bread
+1385,141,2,1.0,2020-08-20,Club crackers?,1,Snack,Club crackers?
+1388,141,2,1.0,2020-08-20,Chipotle aioli,1,Spread,Chipotle aioli
+1389,141,2,1.0,2020-08-20,Olive spread,1,Spread,Olive spread
+1393,148,2,2.0,2020-08-20,Carrots,1,Vegetables,Carrots
+1394,148,2,2.0,2020-08-20,Mushrooms,1,Vegetables,Mushrooms
+1395,141,2,1.0,2020-08-20,Onions (chopped),1,Vegetables,Onions 
+1399,130,4,1.0,2020-08-21,Apricots,1,Fruit,Apricots
+1400,130,4,1.0,2020-08-21,Bananas,1,Fruit,Bananas
+1401,130,4,1.0,2020-08-21,Grapes,1,Fruit,Grapes
+1402,130,4,1.0,2020-08-21,Peaches,1,Fruit,Peaches
+1403,130,4,1.0,2020-08-21,Plums,1,Fruit,Plums
+1404,130,4,1.0,2020-08-21,Strawberries,1,Fruit,Strawberries
+1405,130,4,1.0,2020-08-21,Sourdough bread,1,Grain,Sourdough bread
+1406,130,4,1.0,2020-08-21,Cajun seasoning,1,Seasoning,Cajun seasoning
+1407,130,4,1.0,2020-08-21,Ginger,1,Seasoning,Ginger
+1408,130,4,1.0,2020-08-21,Celery,1,Vegetables,Celery
+1409,130,4,1.0,2020-08-21,Cucumbers,3,Vegetables,Cucumbers
+1410,130,4,1.0,2020-08-21,Iceberg lettuce,1,Vegetables,Iceberg lettuce
+1411,130,4,1.0,2020-08-21,Parsley,1,Vegetables,Parsley
+1412,130,4,1.0,2020-08-21,Radishes,1,Vegetables,Radishes
+1413,130,4,1.0,2020-08-21,Tomatoes,1,Vegetables,Tomatoes
+1415,114,6,3.0,2020-08-22,BBQ sauce,1,Condiment,BBQ sauce
+1416,114,6,3.0,2020-08-22,Mayonnaise,1,Condiment,Mayonnaise
+1417,153,1,2.0,2020-08-22,Ranch dressing,1,Condiment,Ranch dressing
+1418,153,2,2.0,2020-08-22,Ranch dressing,1,Condiment,Ranch dressing
+1419,153,1,2.0,2020-08-22,Havarti Cheese,1,Dairy,Havarti Cheese
+1420,153,2,2.0,2020-08-22,Havarti Cheese,1,Dairy,Havarti Cheese
+1421,114,6,3.0,2020-08-22,Three cheese blend,1,Dairy,Three cheese blend
+1422,114,6,3.0,2020-08-22,Candy bar,1,Dessert,Candy bar
+1423,114,6,3.0,2020-08-22,Chili,1,Dish,Chili
+1424,153,1,2.0,2020-08-22,Apples (jazz),1,Fruit,Apples 
+1425,153,2,2.0,2020-08-22,Apples (jazz),1,Fruit,Apples 
+1426,114,6,3.0,2020-08-22,Bananas,1,Fruit,Bananas
+1427,153,1,2.0,2020-08-22,Bananas,2,Fruit,Bananas
+1428,153,2,2.0,2020-08-22,Bananas,2,Fruit,Bananas
+1429,153,1,2.0,2020-08-22,Oranges,1,Fruit,Oranges
+1430,153,2,2.0,2020-08-22,Oranges,1,Fruit,Oranges
+1431,153,1,2.0,2020-08-22,Peaches,1,Fruit,Peaches
+1432,153,2,2.0,2020-08-22,Peaches,1,Fruit,Peaches
+1433,114,6,3.0,2020-08-22,Bread (walnut multigrain),1,Grain,Bread 
+1434,153,1,2.0,2020-08-22,Bread (wheat sourdough),1,Grain,Bread 
+1435,153,2,2.0,2020-08-22,Bread (wheat sourdough),1,Grain,Bread 
+1436,114,6,3.0,2020-08-22,Italian meatballs,1,Meat,Italian meatballs
+1437,114,6,3.0,2020-08-22,Pork sausage patty,1,Meat,Pork sausage patty
+1438,114,6,3.0,2020-08-22,Ranch chopped salad,1,Salad,Ranch chopped salad
+1439,153,1,2.0,2020-08-22,Salad mix,2,Salad,Salad mix
+1440,153,2,2.0,2020-08-22,Salad mix,2,Salad,Salad mix
+1441,114,6,3.0,2020-08-22,Spanish salad,1,Salad,Spanish salad
+1442,114,6,3.0,2020-08-22,Pretzels,1,Snack,Pretzels
+1443,153,1,2.0,2020-08-22,Arugula,1,Vegetables,Arugula
+1444,153,2,2.0,2020-08-22,Arugula,1,Vegetables,Arugula
+1445,153,1,2.0,2020-08-22,Baby spinach,1,Vegetables,Baby spinach
+1446,153,2,2.0,2020-08-22,Baby spinach,1,Vegetables,Baby spinach
+1447,153,1,2.0,2020-08-22,Broccoli,1,Vegetables,Broccoli
+1448,153,2,2.0,2020-08-22,Broccoli,1,Vegetables,Broccoli
+1449,153,1,2.0,2020-08-22,Kale,2,Vegetables,Kale
+1450,153,2,2.0,2020-08-22,Kale,2,Vegetables,Kale
+1451,153,1,2.0,2020-08-22,Zucchini,1,Vegetables,Zucchini
+1452,153,2,2.0,2020-08-22,Zucchini,1,Vegetables,Zucchini
+1453,131,3,2.0,2020-08-24,Candy Bar (Kit Kat),1,Candy,Candy Bar 
+1454,131,3,2.0,2020-08-24,Candy Bar (Pay Day),1,Candy,Candy Bar 
+1455,131,3,2.0,2020-08-24,Candy Bar (Twix),1,Candy,Candy Bar 
+1456,131,3,2.0,2020-08-24,Cheddar Cheese,1,Dairy,Cheddar Cheese
+1457,131,3,2.0,2020-08-24,Cheddar Cheese (Sliced),1,Dairy,Cheddar Cheese 
+1458,127,5,1.0,2020-08-24,Goat cheese,2,Dairy,Goat cheese
+1459,130,3,5.0,2020-08-24,"Milk (2%, lactose free)",1,Dairy,Milk 
+1460,127,5,1.0,2020-08-24,String cheese,1,Dairy,String cheese
+1461,131,3,2.0,2020-08-24,Cookies,2,Dessert,Cookies
+1462,131,3,2.0,2020-08-24,Cookies (butter),3,Dessert,Cookies 
+1463,127,5,3.0,2020-08-24,Ice cream (butter pecan),1,Dessert,Ice cream 
+1464,127,5,3.0,2020-08-24,Ice cream (mint),1,Dessert,Ice cream 
+1465,127,5,1.0,2020-08-24,Milk chocolate,2,Dessert,Milk chocolate
+1466,127,5,1.0,2020-08-24,Whoopie pie,1,Dessert,Whoopie pie
+1467,127,5,1.0,2020-08-24,Egg/potato salad,1,Dish,Egg/potato salad
+1468,127,5,1.0,2020-08-24,Bottled water,2,Drink,Bottled water
+1469,131,3,2.0,2020-08-24,Sparkling drink (lemon and mint),1,Drink,Sparkling drink 
+1470,131,3,2.0,2020-08-24,"Sparkling drink (pomegrante, orange)",1,Drink,Sparkling drink 
+1471,131,3,2.0,2020-08-24,Tonic Water,2,Drink,Tonic Water
+1472,127,5,1.0,2020-08-24,Bananas,1,Fruit,Bananas
+1473,130,3,5.0,2020-08-24,Bananas,1,Fruit,Bananas
+1474,130,3,5.0,2020-08-24,Blueberries,2,Fruit,Blueberries
+1475,130,3,5.0,2020-08-24,Lemons,3,Fruit,Lemons
+1476,127,5,1.0,2020-08-24,Mangos,1,Fruit,Mangos
+1477,130,3,5.0,2020-08-24,Oranges,1,Fruit,Oranges
+1478,130,3,5.0,2020-08-24,Peaches,1,Fruit,Peaches
+1479,130,3,5.0,2020-08-24,Plums,1,Fruit,Plums
+1480,130,3,5.0,2020-08-24,Strawberries,2,Fruit,Strawberries
+1481,127,5,3.0,2020-08-24,Tangelo,1,Fruit,Tangelo
+1483,127,5,1.0,2020-08-24,Ground beef,1,Meat,Ground beef
+1484,130,3,5.0,2020-08-24,Ham,1,Meat,Ham
+1485,131,3,2.0,2020-08-24,Salame,1,Meat,Salame
+1486,127,5,1.0,2020-08-24,Sausage,1,Meat,Sausage
+1487,127,5,1.0,2020-08-24,Stuffed grape leaves,1,Middleeasternfood,Stuffed grape leaves
+1488,127,5,1.0,2020-08-24,Taboule salad,1,Middleeasternfood,Taboule salad
+1489,127,5,1.0,2020-08-24,Black bean salad,1,Salad,Black bean salad
+1490,131,3,2.0,2020-08-24,Crackers (whole wheat),3,Snack,Crackers 
+1491,127,5,1.0,2020-08-24,Popcorn,1,Snack,Popcorn
+1492,127,5,1.0,2020-08-24,Chicken noodle soup (canned),3,Soup,Chicken noodle soup 
+1493,130,3,5.0,2020-08-24,Carrots,1,Vegetables,Carrots
+1494,130,3,5.0,2020-08-24,Cucumbers,2,Vegetables,Cucumbers
+1495,127,5,3.0,2020-08-24,Lettuce,1,Vegetables,Lettuce
+1496,130,3,5.0,2020-08-24,Lettuce,1,Vegetables,Lettuce
+1497,130,3,5.0,2020-08-24,Potatoes,1,Vegetables,Potatoes
+1499,139,3,1.0,2020-08-25,Eggs,1,Breakfast,Eggs
+1500,148,2,1.0,2020-08-25,Eggs,1,Breakfast,Eggs
+1504,139,3,1.0,2020-08-25,Salad dressing (ranch),2,Condiment,Salad dressing 
+1505,130,3,6.0,2020-08-25,American cheese (slices),1,Dairy,American cheese 
+1506,148,2,1.0,2020-08-25,Cream cheese,1,Dairy,Cream cheese
+1507,139,3,1.0,2020-08-25,Greek yogurt,3,Dairy,Greek yogurt
+1508,139,3,1.0,2020-08-25,Greek yogurt (coffee and cream),1,Dairy,Greek yogurt 
+1509,148,2,1.0,2020-08-25,Milk,1,Dairy,Milk
+1510,130,3,6.0,2020-08-25,"Yogurt (low fat, peach)",1,Dairy,Yogurt 
+1511,139,3,1.0,2020-08-25,Yogurt (vanilla),1,Dairy,Yogurt 
+1512,139,3,1.0,2020-08-25,Yogurt (wholemilk),1,Dairy,Yogurt 
+1513,130,3,6.0,2020-08-25,Apple fritter,1,Dessert,Apple fritter
+1514,121,6,1.0,2020-08-25,Apple pie,1,Dessert,Apple pie
+1515,121,6,1.0,2020-08-25,Cherry pie,2,Dessert,Cherry pie
+1516,121,6,1.0,2020-08-25,Gelato (butter pecan),1,Dessert,Gelato 
+1517,121,6,1.0,2020-08-25,Gelato (pistachio),1,Dessert,Gelato 
+1518,130,3,6.0,2020-08-25,Mint chocolate patties,1,Dessert,Mint chocolate patties
+1519,139,3,1.0,2020-08-25,Salsa (habanero),1,Dip,Salsa 
+1520,121,6,1.0,2020-08-25,Pot pie (Chicken/broccoli),1,Dish,Pot pie 
+1521,121,6,1.0,2020-08-25,Pot pie (Vegetable/turkey),2,Dish,Pot pie 
+1522,139,3,1.0,2020-08-25,Cranberry juice (no sugar),1,Drink,Cranberry juice 
+1523,139,3,1.0,2020-08-25,Orange juice,1,Drink,Orange juice
+1524,121,6,1.0,2020-08-25,"Soda (cream soda, diet)",1,Drink,Soda 
+1525,121,6,1.0,2020-08-25,Sparkling drink,2,Drink,Sparkling drink
+1526,139,3,1.0,2020-08-25,Tomato juice,1,Drink,Tomato juice
+1527,121,6,1.0,2020-08-25,Avocado,8,Fruit,Avocado
+1528,139,3,1.0,2020-08-25,Mandarin orange cups,1,Fruit,Mandarin orange cups
+1529,130,3,6.0,2020-08-25,Bread (whole wheat),1,Grain,Bread 
+1530,130,3,6.0,2020-08-25,Croutons,1,Grain,Croutons
+1531,139,3,1.0,2020-08-25,English muffins,1,Grain,English muffins
+1532,121,6,1.0,2020-08-25,Broccoli slaw,1,Salad,Broccoli slaw
+1533,130,3,6.0,2020-08-25,Salad,2,Salad,Salad
+1534,139,3,1.0,2020-08-25,Salad greens blend (italian),1,Salad,Salad greens blend 
+1535,130,3,6.0,2020-08-25,Pretzels,1,Snack,Pretzels
+1536,139,3,1.0,2020-08-25,Taco shells,1,Spanishfood,Taco shells
+1537,121,6,1.0,2020-08-25,Tortillas,2,Spanishfood,Tortillas
+1538,130,3,6.0,2020-08-25,Blackberry preserves,1,Spread,Blackberry preserves
+1539,130,3,6.0,2020-08-25,Raspberry preserves,1,Spread,Raspberry preserves
+1542,139,3,1.0,2020-08-25,Asparagus,1,Vegetable,Asparagus
+1543,121,6,1.0,2020-08-25,Bell peppers (red),1,Vegetable,Bell peppers 
+1544,139,3,1.0,2020-08-25,Carrots,1,Vegetable,Carrots
+1545,139,3,1.0,2020-08-25,Celery,1,Vegetable,Celery
+1546,139,3,1.0,2020-08-25,Cilantro,1,Vegetable,Cilantro
+1547,139,3,1.0,2020-08-25,Green onions,1,Vegetable,Green onions
+1548,139,3,1.0,2020-08-25,Iceberg lettuce,1,Vegetable,Iceberg lettuce
+1549,139,3,1.0,2020-08-25,Onion,1,Vegetable,Onion
+1550,121,6,1.0,2020-08-25,Onions (white),1,Vegetable,Onions 
+1551,139,3,1.0,2020-08-25,Red leaf lettuce,1,Vegetable,Red leaf lettuce
+1552,148,2,1.0,2020-08-25,Potatos (frozen),2,Vegetables,Potatos 
+1557,153,2,3.0,2020-08-29,Eggs,1,Breakfast,Eggs
+1558,153,2,3.0,2020-08-29,Granola (ginger almond),1,Breakfast,Granola 
+1560,153,2,4.0,2020-08-29,Tomato sauce,1,Condiment,Tomato sauce
+1561,153,2,3.0,2020-08-29,"Milk (2%, 1 gallon)",1,Dairy,Milk 
+1562,153,2,3.0,2020-08-29,"Milk (2%, 1/2 gallon)",1,Dairy,Milk 
+1563,127,6,1.0,2020-08-29,Milk (2%),1,Dairy,Milk 
+1564,153,2,4.0,2020-08-29,Swiss cheese,1,Dairy,Swiss cheese
+1565,127,6,1.0,2020-08-29,Chocolate chip cookies,1,Dessert,Chocolate chip cookies
+1566,149,3,3.0,2020-08-29,Chicken livorno,1,Dish,Chicken livorno
+1567,149,3,3.0,2020-08-29,Citrus chicken,1,Dish,Citrus chicken
+1568,130,3,7.0,2020-08-29,Julienne potatoes,1,Dish,Julienne potatoes
+1569,149,3,3.0,2020-08-29,Pork chop,1,Dish,Pork chop
+1570,149,3,3.0,2020-08-29,Summer steak,1,Dish,Summer steak
+1571,149,3,3.0,2020-08-29,Turkey meatloaf,1,Dish,Turkey meatloaf
+1572,127,6,1.0,2020-08-29,Bottled water,1,Drink,Bottled water
+1573,153,2,3.0,2020-08-29,Gin,1,Drink,Gin
+1574,153,2,3.0,2020-08-29,Sparking water (lime),1,Drink,Sparking water 
+1575,153,2,3.0,2020-08-29,Sparkling water (lemon),1,Drink,Sparkling water 
+1577,149,3,3.0,2020-08-29,Swedish meatballs,1,Europeanfood,Swedish meatballs
+1578,153,2,3.0,2020-08-29,Apple bag (pinata),1,Fruit,Apple bag 
+1579,153,2,3.0,2020-08-29,Bananas,3,Fruit,Bananas
+1580,127,6,1.0,2020-08-29,Bananas,1,Fruit,Bananas
+1581,153,2,4.0,2020-08-29,Nectarines,1,Fruit,Nectarines
+1582,153,2,4.0,2020-08-29,Oranges,1,Fruit,Oranges
+1583,153,2,3.0,2020-08-29,Strawberries,1,Fruit,Strawberries
+1584,153,2,3.0,2020-08-29,Tomatoes,1,Fruit,Tomatoes
+1585,153,2,3.0,2020-08-29,Tomatoes (diced),1,Fruit,Tomatoes 
+1586,153,2,3.0,2020-08-29,Bread (wheat sourdough),1,Grain,Bread 
+1587,153,2,4.0,2020-08-29,Jasmine rice (brown),1,Grain,Jasmine rice 
+1588,153,2,4.0,2020-08-29,Alaskan cod,1,Meat,Alaskan cod
+1589,153,2,4.0,2020-08-29,Chicken strips (grilled),1,Meat,Chicken strips 
+1590,130,3,7.0,2020-08-29,Cornish hen,4,Meat,Cornish hen
+1591,127,6,1.0,2020-08-29,Pita pocket,1,Middleeasternfood,Pita pocket
+1595,153,2,3.0,2020-08-29,Salad mix,2,Salad,Salad mix
+1596,127,6,1.0,2020-08-29,Mini pretzels,1,Snack,Mini pretzels
+1597,153,2,3.0,2020-08-29,Walnuts,1,Snack,Walnuts
+1598,153,2,4.0,2020-08-29,Peanut butter,2,Spread,Peanut butter
+1599,153,2,4.0,2020-08-29,Raspberry preserves,1,Spread,Raspberry preserves
+1600,153,2,3.0,2020-08-29,Arugula,1,Vegetables,Arugula
+1601,153,2,3.0,2020-08-29,Garlic,1,Vegetables,Garlic
+1602,153,2,3.0,2020-08-29,Kale,1,Vegetables,Kale
+1603,153,2,3.0,2020-08-29,Onions (sweet),2,Vegetables,Onions 
+1606,121,6,1.0,2020-08-30,Enchilada sauce,1,Condiment,Enchilada sauce
+1607,139,3,1.0,2020-08-30,Lactose-free Milk (1% fat),1,Dairy,Lactose-free Milk 
+1608,149,3,2.0,2020-08-30,Dairy-free Ice cream (vanilla),1,Dessert,Dairy-free Ice cream 
+1609,121,6,1.0,2020-08-30,Ice cream,1,Dessert,Ice cream
+1610,121,6,1.0,2020-08-30,Popsicles,1,Dessert,Popsicles
+1611,149,3,2.0,2020-08-30,Meal bowl (frozen),4,Dish,Meal bowl 
+1612,149,3,2.0,2020-08-30,Vegetable juice,1,Drink,Vegetable juice
+1613,149,3,2.0,2020-08-30,Water,1,Drink,Water
+1614,149,3,2.0,2020-08-30,Pepperoni pizza (frozen),1,Fastfood,Pepperoni pizza 
+1615,139,3,1.0,2020-08-30,Apples (gold),1,Fruit,Apples 
+1616,139,3,1.0,2020-08-30,Apples (granny smith),1,Fruit,Apples 
+1617,149,3,2.0,2020-08-30,Apples (red delicious),1,Fruit,Apples 
+1618,149,3,2.0,2020-08-30,Bananas,1,Fruit,Bananas
+1619,139,3,1.0,2020-08-30,Lemons,1,Fruit,Lemons
+1620,149,3,2.0,2020-08-30,Strawberries,1,Fruit,Strawberries
+1621,139,3,1.0,2020-08-30,Tangerines,1,Fruit,Tangerines
+1622,149,3,2.0,2020-08-30,Tomatoes,1,Fruit,Tomatoes
+1623,121,6,1.0,2020-08-30,Chicken breast,1,Meat,Chicken breast
+1624,121,6,1.0,2020-08-30,Ground beef,1,Meat,Ground beef
+1625,139,3,1.0,2020-08-30,Spicy Sausage,1,Meat,Spicy Sausage
+1626,149,3,2.0,2020-08-30,Lettuce salad,1,Salad,Lettuce salad
+1627,149,3,2.0,2020-08-30,Plantain chips?,15,Snack,Plantain chips?
+1628,149,3,2.0,2020-08-30,Enchilada (frozen),1,Spanishfood,Enchilada 
+1629,139,3,1.0,2020-08-30,Peas,2,Vegetable,Peas
+1630,121,6,1.0,2020-08-30,Spinach,1,Vegetable,Spinach
+1631,139,3,1.0,2020-08-31,Chow mein stir fry (frozen),1,Asianfood,Chow mein stir fry 
+1632,139,3,1.0,2020-08-31,Granulated sugar,1,Baking,Granulated sugar
+1633,139,3,1.0,2020-08-31,Rice vinegar,1,Baking,Rice vinegar
+1634,137,3,1.0,2020-08-31,Breakfast bar (blueberry),2,Breakfast,Breakfast bar 
+1635,137,3,1.0,2020-08-31,Cereal (multigrain),2,Breakfast,Cereal 
+1636,137,3,1.0,2020-08-31,Instant oatmeal (raisin date walnut),2,Breakfast,Instant oatmeal 
+1638,137,3,1.0,2020-08-31,Italian salad dressing,2,Condiment,Italian salad dressing
+1639,137,3,1.0,2020-08-31,Mayonnaise,1,Condiment,Mayonnaise
+1640,137,3,1.0,2020-08-31,Salad dressing,1,Condiment,Salad dressing
+1641,139,3,1.0,2020-08-31,Vegetable oil,1,Condiment,Vegetable oil
+1642,139,3,1.0,2020-08-31,Butter,1,Dairy,Butter
+1643,137,3,1.0,2020-08-31,Cheddar cheese (extra sharp),1,Dairy,Cheddar cheese 
+1644,137,3,1.0,2020-08-31,Cheddar cheese (mild),1,Dairy,Cheddar cheese 
+1645,139,3,1.0,2020-08-31,Coffee creamer,1,Dairy,Coffee creamer
+1646,139,3,1.0,2020-08-31,Greek yogurt,2,Dairy,Greek yogurt
+1647,137,3,1.0,2020-08-31,Mexican cheese blend,1,Dairy,Mexican cheese blend
+1648,137,3,1.0,2020-08-31,Milk (whole),1,Dairy,Milk 
+1649,137,3,1.0,2020-08-31,Nacho/taco cheese,1,Dairy,Nacho/taco cheese
+1650,139,3,1.0,2020-08-31,Sour cream,1,Dairy,Sour cream
+1651,139,3,1.0,2020-08-31,Yogurt,1,Dairy,Yogurt
+1652,137,3,1.0,2020-08-31,Yogurt (coconut),2,Dairy,Yogurt 
+1653,137,3,1.0,2020-08-31,Yogurt (strawberry banana),1,Dairy,Yogurt 
+1654,139,3,1.0,2020-08-31,Donut/waffle,1,Dessert,Donut/waffle
+1655,137,3,1.0,2020-08-31,Ice cream (chocolate),1,Dessert,Ice cream 
+1656,139,3,1.0,2020-08-31,"Ice cream (light, vanilla)",1,Dessert,Ice cream 
+1657,137,3,1.0,2020-08-31,London broil,1,Dish,London broil
+1658,137,3,1.0,2020-08-31,Pork chops,1,Dish,Pork chops
+1659,137,3,1.0,2020-08-31,Cranberry mango juice,1,Drink,Cranberry mango juice
+1660,137,3,1.0,2020-08-31,"Soda (cola, zero)",5,Drink,Soda 
+1661,139,3,1.0,2020-08-31,Bananas,1,Fruit,Bananas
+1662,139,3,1.0,2020-08-31,Nectarines,1,Fruit,Nectarines
+1663,139,3,1.0,2020-08-31,Peaches,1,Fruit,Peaches
+1664,139,3,1.0,2020-08-31,Tomatoes,1,Fruit,Tomatoes
+1665,137,3,1.0,2020-08-31,Bread (whole wheat),1,Grain,Bread 
+1666,139,3,1.0,2020-08-31,Croutons (Caesar),1,Grain,Croutons 
+1667,139,3,1.0,2020-08-31,Croutons (herb seasoned),1,Grain,Croutons 
+1668,137,3,1.0,2020-08-31,Hot dog buns,1,Grain,Hot dog buns
+1669,137,3,1.0,2020-08-31,Rotini pasta,1,Pasta,Rotini pasta
+1670,139,3,1.0,2020-08-31,Sardines,2,Seafood,Sardines
+1671,137,3,1.0,2020-08-31,Kidney beans,2,Side,Kidney beans
+1672,137,3,1.0,2020-08-31,Pinto beans,1,Side,Pinto beans
+1673,137,3,1.0,2020-08-31,Red beans,1,Side,Red beans
+1674,137,3,1.0,2020-08-31,Corn chips,1,Snack,Corn chips
+1675,137,3,1.0,2020-08-31,Granola bar,2,Snack,Granola bar
+1676,137,3,1.0,2020-08-31,Potato chips,1,Snack,Potato chips
+1677,139,3,1.0,2020-08-31,Broccoli,1,Vegetable,Broccoli
+1678,137,3,1.0,2020-08-31,Broccoli,4,Vegetable,Broccoli
+1679,139,3,1.0,2020-08-31,Carrots,1,Vegetable,Carrots
+1680,137,3,1.0,2020-08-31,Garlic,1,Vegetable,Garlic
+1681,137,3,1.0,2020-08-31,Pickles (dill kosher),1,Vegetable,Pickles 
+1682,137,3,1.0,2020-08-31,Pickles (dill),2,Vegetable,Pickles 
+1683,139,3,1.0,2020-08-31,Potatoes (gold),1,Vegetable,Potatoes 
+1685,148,3,1.0,2020-09-01,Egg noodles,2,Asianfood,Egg noodles
+1686,148,3,1.0,2020-09-01,Cereal,2,Breakfast,Cereal
+1687,148,3,1.0,2020-09-01,Eggs,1,Breakfast,Eggs
+1689,148,3,1.0,2020-09-01,Coconut cream,4,Condiment,Coconut cream
+1690,127,6,1.0,2020-09-01,Butter,1,Dairy,Butter
+1691,148,3,1.0,2020-09-01,Cheese (shredded),1,Dairy,Cheese 
+1692,148,3,1.0,2020-09-01,Half and half,1,Dairy,Half and half
+1693,148,3,1.0,2020-09-01,Heavy cream,1,Dairy,Heavy cream
+1694,148,3,1.0,2020-09-01,Milk (reduced fat),1,Dairy,Milk 
+1695,148,3,1.0,2020-09-01,Yogurt,12,Dairy,Yogurt
+1696,148,3,1.0,2020-09-01,Cookies,1,Dessert,Cookies
+1697,127,6,1.0,2020-09-01,Ice cream (chocolate),1,Dessert,Ice cream 
+1698,148,3,1.0,2020-09-01,Salsa,2,Dip,Salsa
+1699,148,3,1.0,2020-09-01,Chicken nuggets,2,Dish,Chicken nuggets
+1700,148,3,1.0,2020-09-01,Pot pie (frozen),6,Dish,Pot pie 
+1701,127,6,1.0,2020-09-01,Bottled water,1,Drink,Bottled water
+1702,148,3,1.0,2020-09-01,Iced tea,1,Drink,Iced tea
+1703,148,3,1.0,2020-09-01,Kombucha,4,Drink,Kombucha
+1704,148,3,1.0,2020-09-01,Lemonade,3,Drink,Lemonade
+1705,127,6,1.0,2020-09-01,Orange juice,1,Drink,Orange juice
+1706,148,3,1.0,2020-09-01,Orange juice,2,Drink,Orange juice
+1707,148,3,1.0,2020-09-01,Sparkling water,2,Drink,Sparkling water
+1708,127,6,1.0,2020-09-01,Bananas,1,Fruit,Bananas
+1709,148,3,1.0,2020-09-01,Bananas,1,Fruit,Bananas
+1710,148,3,1.0,2020-09-01,Lemons,2,Fruit,Lemons
+1711,127,6,1.0,2020-09-01,Peaches,1,Fruit,Peaches
+1712,148,3,1.0,2020-09-01,Bread (rye),1,Grain,Bread 
+1713,148,3,1.0,2020-09-01,Franks,1,Meat,Franks
+1714,148,3,1.0,2020-09-01,Veggie sausage/ground beef,1,Meat,Veggie sausage/ground beef
+1715,148,3,1.0,2020-09-01,Basil,1,Seasoning,Basil
+1716,127,6,1.0,2020-09-01,Potato chips,2,Snack,Potato chips
+1717,148,3,1.0,2020-09-01,Taco shells,2,Spanishfood,Taco shells
+1718,148,3,1.0,2020-09-01,Tortillas,1,Spanishfood,Tortillas
+1719,148,3,1.0,2020-09-01,Broccoli,1,Vegetables,Broccoli
+1720,148,3,1.0,2020-09-01,Carrots,1,Vegetables,Carrots
+1721,148,3,1.0,2020-09-01,Cauliflower,1,Vegetables,Cauliflower
+1722,148,3,1.0,2020-09-01,Garlic,2,Vegetables,Garlic
+1723,148,3,1.0,2020-09-01,Green beans,12,Vegetables,Green beans
+1724,148,3,1.0,2020-09-01,Leeks,1,Vegetables,Leeks
+1725,148,3,1.0,2020-09-01,Lettuce,1,Vegetables,Lettuce
+1726,148,3,1.0,2020-09-01,Mushrooms,1,Vegetables,Mushrooms
+1727,148,3,1.0,2020-09-01,Onions,1,Vegetables,Onions
+1728,148,3,1.0,2020-09-01,Peas,4,Vegetables,Peas
+1730,148,3,1.0,2020-09-02,Ice cream,2,Dessert,Ice cream
+1731,148,3,1.0,2020-09-02,Ice cream (sea salt caramel),2,Dessert,Ice cream 
+1735,141,3,1.0,2020-09-03,Cheddar pepper jack cheese,1,Dairy,Cheddar pepper jack cheese
+1736,139,4,1.0,2020-09-03,Coffee creamer,1,Dairy,Coffee creamer
+1737,141,3,1.0,2020-09-03,Cream cheese,1,Dairy,Cream cheese
+1738,141,3,1.0,2020-09-03,Dairy topping,1,Dairy,Dairy topping
+1739,139,4,1.0,2020-09-03,Greek yogurt,3,Dairy,Greek yogurt
+1740,139,4,1.0,2020-09-03,Lactose-free Milk (low fat),1,Dairy,Lactose-free Milk 
+1741,141,3,1.0,2020-09-03,Monterey Pepper jack cheese,1,Dairy,Monterey Pepper jack cheese
+1742,139,4,1.0,2020-09-03,Pepper Jack Cheese (sliced),1,Dairy,Pepper Jack Cheese 
+1743,139,4,1.0,2020-09-03,Yogurt,3,Dairy,Yogurt
+1744,139,4,1.0,2020-09-03,Yogurt (coffee and cream),1,Dairy,Yogurt 
+1745,139,4,1.0,2020-09-03,Yogurt (pomegranate),1,Dairy,Yogurt 
+1746,139,4,1.0,2020-09-03,Yogurt (vanilla),1,Dairy,Yogurt 
+1747,139,4,1.0,2020-09-03,Yogurt (wholemilk),1,Dairy,Yogurt 
+1748,127,6,2.0,2020-09-03,Chocolate butterscotch bar,1,Dessert,Chocolate butterscotch bar
+1749,141,3,1.0,2020-09-03,Cookies,1,Dessert,Cookies
+1750,127,6,2.0,2020-09-03,Milk chocolate,1,Dessert,Milk chocolate
+1751,141,3,1.0,2020-09-03,Bacon wrapped shrimp,1,Dish,Bacon wrapped shrimp
+1752,127,6,2.0,2020-09-03,Barley tea,1,Drink,Barley tea
+1753,127,6,2.0,2020-09-03,Bottled water,3,Drink,Bottled water
+1754,141,3,1.0,2020-09-03,Coffee (instant),1,Drink,Coffee 
+1755,139,4,1.0,2020-09-03,Cranberry juice ,1,Drink,Cranberry juice 
+1756,141,3,1.0,2020-09-03,Red wine,1,Drink,Red wine
+1757,139,4,1.0,2020-09-03,Tomato juice,1,Drink,Tomato juice
+1758,139,4,1.0,2020-09-03,Vegetable juice (spicy),1,Drink,Vegetable juice 
+1759,141,3,1.0,2020-09-03,Salmon,1,Fish,Salmon
+1760,127,6,2.0,2020-09-03,Blueberries,1,Fruit,Blueberries
+1761,139,4,1.0,2020-09-03,Mandarin orange cup,3,Fruit,Mandarin orange cup
+1762,141,3,1.0,2020-09-03,Strawberries (frozen),1,Fruit,Strawberries 
+1763,139,4,1.0,2020-09-03,Tomatoes,1,Fruit,Tomatoes
+1764,139,4,1.0,2020-09-03,Croutons (Texas Toast),2,Grain,Croutons 
+1765,141,3,1.0,2020-09-03,Pork rinds,1,Meat,Pork rinds
+1766,141,3,1.0,2020-09-03,Tenderloin,1,Meat,Tenderloin
+1767,141,3,1.0,2020-09-03,Pita melts,1,Middleeasternfood,Pita melts
+1771,141,3,1.0,2020-09-03,Garden salad,1,Salad,Garden salad
+1772,139,4,1.0,2020-09-03,Salad greens blend,1,Salad,Salad greens blend
+1773,141,3,1.0,2020-09-03,Club crackers,1,Snack,Club crackers
+1774,127,6,2.0,2020-09-03,Graham crackers,2,Snack,Graham crackers
+1775,139,4,1.0,2020-09-03,Chicken soup,1,Soup,Chicken soup
+1776,139,4,1.0,2020-09-03,Soup,1,Soup,Soup
+1777,139,4,1.0,2020-09-03,Soup (chunky),1,Soup,Soup 
+1778,139,4,1.0,2020-09-03,Butter beans (frozen),1,Southernfood,Butter beans 
+1779,139,4,1.0,2020-09-03,Green onion,1,Vegetable,Green onion
+1780,139,4,1.0,2020-09-03,Iceberg lettuce,1,Vegetable,Iceberg lettuce
+1781,139,4,1.0,2020-09-03,Peas,2,Vegetable,Peas
+1782,139,4,1.0,2020-09-03,Pepperoncini ,1,Vegetable,Pepperoncini 
+1783,139,4,1.0,2020-09-03,Peppers (mezzetta),1,Vegetable,Peppers 
+1784,139,4,1.0,2020-09-03,Pickles,1,Vegetable,Pickles
+1785,139,4,1.0,2020-09-03,Pickles (dill),1,Vegetable,Pickles 
+1786,139,4,1.0,2020-09-03,Sauerkraut,1,Vegetable,Sauerkraut
+1787,141,3,1.0,2020-09-03,Broccoli (crowns),1,Vegetables,Broccoli 
+1789,145,4,1.0,2020-09-04,Horseradish,1,Condiment,Horseradish
+1790,145,4,1.0,2020-09-04,Mayonnaise,1,Condiment,Mayonnaise
+1791,145,4,1.0,2020-09-04,Bananas,1,Fruit,Bananas
+1792,145,4,2.0,2020-09-04,Tomatoes,1,Fruit,Tomatoes
+1793,145,4,1.0,2020-09-04,Tomatoes (plum),1,Fruit,Tomatoes 
+1794,145,4,1.0,2020-09-04,Salad greens blend,1,Salad,Salad greens blend
+1795,145,4,1.0,2020-09-04,Onion powder,1,Seasoning,Onion powder
+1796,145,4,2.0,2020-09-04,Red pepper flakes,1,Seasoning,Red pepper flakes
+1797,145,4,2.0,2020-09-04,Seasoning blend,3,Seasoning,Seasoning blend
+1798,145,4,2.0,2020-09-04,Cheez-Its,1,Snack,Cheez-Its
+1799,145,4,1.0,2020-09-04,Cucumbers,1,Vegetable,Cucumbers
+1800,145,4,1.0,2020-09-04,Great Northern beans (canned),2,Vegetable,Great Northern beans 
+1801,145,4,1.0,2020-09-04,Green peppers,1,Vegetable,Green peppers
+1802,145,4,1.0,2020-09-04,"Kidney beans (red, canned)",2,Vegetable,Kidney beans 
+1803,145,4,2.0,2020-09-04,Lima beans (frozen),1,Vegetable,Lima beans 
+1804,145,4,1.0,2020-09-04,Onions,1,Vegetable,Onions
+1805,145,4,1.0,2020-09-04,Peppers (tabasco),1,Vegetable,Peppers 
+1807,139,4,1.0,2020-09-05,Olive oil,1,Baking,Olive oil
+1808,139,4,1.0,2020-09-05,Raisin Bran,1,Breakfast,Raisin Bran
+1809,139,4,1.0,2020-09-05,Vodka,1,Drink,Vodka
+1810,139,4,1.0,2020-09-05,Avocados,1,Fruit,Avocados
+1811,139,4,1.0,2020-09-05,Cranberries (dried),1,Fruit,Cranberries 
+1812,139,4,1.0,2020-09-05,Olives (black),2,Fruit,Olives 
+1813,139,4,1.0,2020-09-05,Olives (green),2,Fruit,Olives 
+1814,139,4,1.0,2020-09-05,Bread (whole wheat),1,Grain,Bread 
+1816,139,4,1.0,2020-09-05,Artichokes,1,Vegetable,Artichokes
+1817,149,3,4.0,2020-09-06,BBQ Beef,1,Dish,BBQ Beef
+1818,149,3,4.0,2020-09-06,Pork chop,1,Dish,Pork chop
+1819,149,3,4.0,2020-09-06,Steak peppercorn,1,Dish,Steak peppercorn
+1820,149,3,4.0,2020-09-06,Summer steak,1,Dish,Summer steak
+1821,149,3,4.0,2020-09-06,Zucchini noodles and meatballs,1,Dish,Zucchini noodles and meatballs
+1822,127,6,2.0,2020-09-06,Mixed fruit,1,Fruit,Mixed fruit
+1823,127,6,2.0,2020-09-06,Watermelon,1,Fruit,Watermelon
+1824,149,3,4.0,2020-09-06,Chicken tikka masala,1,Middleeasternfood,Chicken tikka masala
+1825,139,4,1.0,2020-09-07,Eggs,1,Breakfast,Eggs
+1826,137,4,2.0,2020-09-07,Eggs,1,Breakfast,Eggs
+1827,137,4,2.0,2020-09-07,Portuguese roll,1,Dish,Portuguese roll
+1828,137,4,2.0,2020-09-07,Water,1,Drink,Water
+1829,139,4,1.0,2020-09-07,Apples (fuji),1,Fruit,Apples 
+1830,130,4,3.0,2020-09-07,Bananas,1,Fruit,Bananas
+1831,130,4,3.0,2020-09-07,Blueberries,2,Fruit,Blueberries
+1832,130,4,3.0,2020-09-07,Lemons,3,Fruit,Lemons
+1833,130,4,3.0,2020-09-07,Pineapple,2,Fruit,Pineapple
+1834,130,4,3.0,2020-09-07,Raspberries,1,Fruit,Raspberries
+1835,130,4,3.0,2020-09-07,Strawberries,2,Fruit,Strawberries
+1836,130,4,3.0,2020-09-07,Watermelon,1,Fruit,Watermelon
+1837,130,4,3.0,2020-09-07,Pork chops,1,Meat,Pork chops
+1838,139,4,1.0,2020-09-07,Cabbage Slaw,1,Salad,Cabbage Slaw
+1839,130,4,3.0,2020-09-07,Salmon fillets,1,Seafood,Salmon fillets
+1840,139,4,1.0,2020-09-07,Crackers (whole wheat),1,Snack,Crackers 
+1841,139,4,1.0,2020-09-07,Celery,1,Vegetable,Celery
+1842,137,4,2.0,2020-09-07,Corn,2,Vegetable,Corn
+1843,139,4,1.0,2020-09-07,Sweet peppers,1,Vegetable,Sweet peppers
+1844,130,4,3.0,2020-09-07,Celery,1,Vegetables,Celery
+1845,130,4,3.0,2020-09-07,Cucumbers,3,Vegetables,Cucumbers
+1846,130,4,3.0,2020-09-07,Onions,1,Vegetables,Onions
+1848,127,6,2.0,2020-09-08,Ketchup,1,Condiment,Ketchup
+1849,130,4,4.0,2020-09-08,"Milk (2%, lactose free)",1,Dairy,Milk 
+1850,130,4,4.0,2020-09-08,"Cookies (fudge, caramel, peanut)",1,Dessert,Cookies 
+1851,130,4,4.0,2020-09-08,Donuts (cinnamon),1,Dessert,Donuts 
+1852,127,6,2.0,2020-09-08,Popsicles,2,Dessert,Popsicles
+1853,149,3,1.0,2020-09-08,Meal bowl (frozen),4,Dish,Meal bowl 
+1854,149,5,2.0,2020-09-08,Turkey,1,Dish,Turkey
+1855,130,4,4.0,2020-09-08,Club soda,1,Drink,Club soda
+1856,130,4,4.0,2020-09-08,Grapefruit juice,1,Drink,Grapefruit juice
+1857,149,3,1.0,2020-09-08,Kombucha (blood orange),3,Drink,Kombucha 
+1858,149,3,1.0,2020-09-08,Kombucha (raspberry pomegranate),1,Drink,Kombucha 
+1859,130,4,4.0,2020-09-08,"Soda (cola, diet)",2,Drink,Soda 
+1860,127,6,2.0,2020-09-08,Soda (cola),1,Drink,Soda 
+1861,127,6,2.0,2020-09-08,Strawberry banana smoothie,1,Drink,Strawberry banana smoothie
+1862,149,3,1.0,2020-09-08,Vegetable juice,3,Drink,Vegetable juice
+1864,149,3,1.0,2020-09-08,Pepperoni pizza (frozen),1,Fastfood,Pepperoni pizza 
+1865,149,3,1.0,2020-09-08,Apples (red delicious),1,Fruit,Apples 
+1866,149,3,1.0,2020-09-08,Bananas,1,Fruit,Bananas
+1867,127,6,2.0,2020-09-08,Bananas,1,Fruit,Bananas
+1868,149,3,1.0,2020-09-08,Blackberries,1,Fruit,Blackberries
+1869,127,6,2.0,2020-09-08,Mixed fruit,2,Fruit,Mixed fruit
+1870,130,4,4.0,2020-09-08,Raisins,2,Fruit,Raisins
+1871,149,3,1.0,2020-09-08,Tomatoes,1,Fruit,Tomatoes
+1872,130,4,4.0,2020-09-08,Oats,1,Grain,Oats
+1873,130,4,4.0,2020-09-08,Sourdough bread,1,Grain,Sourdough bread
+1875,149,3,1.0,2020-09-08,Banana chips?,7,Snack,Banana chips?
+1876,130,4,4.0,2020-09-08,Pretzels,1,Snack,Pretzels
+1877,149,3,1.0,2020-09-08,Spinach,1,Vegetable,Spinach
+1878,130,4,4.0,2020-09-08,Parsley,1,Vegetables,Parsley
+1879,127,6,2.0,2020-09-09,Ice cream (caramel coffee),1,Dessert,Ice cream 
+1880,127,6,2.0,2020-09-09,Ice cream (salted caramel),1,Dessert,Ice cream 
+1881,127,6,2.0,2020-09-09,Pecan pie,1,Dessert,Pecan pie
+1882,127,6,2.0,2020-09-09,Peach tea Snapple,1,Drink,Peach tea Snapple
+1883,127,6,2.0,2020-09-09,Sandwich/deli lunch,1,Sandwich,Sandwich/deli lunch
+1884,127,6,2.0,2020-09-09,Corn,2,Vegetables,Corn
+1885,145,4,2.0,2020-09-10,Olive oil,1,Baking,Olive oil
+1886,141,4,1.0,2020-09-10,Breakfast pita,1,Breakfast,Breakfast pita
+1887,141,4,1.0,2020-09-10,Egg thins,1,Breakfast,Egg thins
+1888,141,4,1.0,2020-09-10,Eggs,1,Breakfast,Eggs
+1889,145,4,2.0,2020-09-10,Cheese blend (parmesan and romano),1,Dairy,Cheese blend 
+1890,141,4,1.0,2020-09-10,Colby jack cheese (sliced),1,Dairy,Colby jack cheese 
+1891,141,4,1.0,2020-09-10,Cream cheese,1,Dairy,Cream cheese
+1892,145,4,2.0,2020-09-10,Kefir (whole),1,Dairy,Kefir 
+1893,141,4,1.0,2020-09-10,Monterey Pepper jack cheese,1,Dairy,Monterey Pepper jack cheese
+1894,145,4,2.0,2020-09-10,Swiss cheese,1,Dairy,Swiss cheese
+1895,141,4,1.0,2020-09-10,Whole and skim milk (lactose free),1,Dairy,Whole and skim milk 
+1896,145,4,2.0,2020-09-10,Yogurt (nonfat),2,Dairy,Yogurt 
+1897,145,4,2.0,2020-09-10,Tzatziki dip,1,Dip,Tzatziki dip
+1898,145,4,2.0,2020-09-10,Macaroni and Cheese,1,Dish,Macaroni and Cheese
+1899,145,4,2.0,2020-09-10,Chamomile Mint Tea bags,1,Drink,Chamomile Mint Tea bags
+1900,145,4,2.0,2020-09-10,Chamomile tea bags,1,Drink,Chamomile tea bags
+1901,145,4,2.0,2020-09-10,Coffee (ground),1,Drink,Coffee 
+1902,141,4,1.0,2020-09-10,Prosecco,1,Drink,Prosecco
+1903,145,4,2.0,2020-09-10,Prune juice,1,Drink,Prune juice
+1904,145,4,2.0,2020-09-10,unsweetened vanilla plant milk?,1,Drink,unsweetened vanilla plant milk?
+1905,145,4,2.0,2020-09-10,Bananas,1,Fruit,Bananas
+1906,145,4,2.0,2020-09-10,Blueberries,1,Fruit,Blueberries
+1907,141,4,1.0,2020-09-10,Pineapple spears,1,Fruit,Pineapple spears
+1908,145,4,2.0,2020-09-10,Stuffed olives,1,Fruit,Stuffed olives
+1909,145,4,2.0,2020-09-10,Tomatoes (plum),1,Fruit,Tomatoes 
+1911,145,4,2.0,2020-09-10,Salad greens blend,1,Salad,Salad greens blend
+1912,141,4,1.0,2020-09-10,Salmon,1,Seafood,Salmon
+1913,141,4,1.0,2020-09-10,Cauliflower crackers,2,Snack,Cauliflower crackers
+1914,141,4,1.0,2020-09-10,Cheese puffs,1,Snack,Cheese puffs
+1915,141,4,1.0,2020-09-10,Club crackers,1,Snack,Club crackers
+1916,145,4,2.0,2020-09-10,nuts (unsalted),1,Snack,nuts 
+1917,145,4,2.0,2020-09-10,Broccoli slaw,1,Vegetable,Broccoli slaw
+1918,145,4,2.0,2020-09-10,Cucumbers,1,Vegetable,Cucumbers
+1919,145,4,2.0,2020-09-10,Green peppers,1,Vegetable,Green peppers
+1920,145,4,2.0,2020-09-10,Onions,1,Vegetable,Onions
+1921,145,4,2.0,2020-09-10,Peas (frozen),1,Vegetable,Peas 
+1922,141,4,1.0,2020-09-10,Peas,2,Vegetables,Peas
+1923,139,4,1.0,2020-09-11,Whiskey,1,Drink,Whiskey
+1924,139,4,1.0,2020-09-11,Dried plums,1,Fruit,Dried plums
+1925,139,4,1.0,2020-09-11,"Shrimp (pre-cooked, cilantro lime)",1,Seafood,Shrimp 
+1926,139,4,1.0,2020-09-11,Mixed nuts (unsalted),1,Snack,Mixed nuts 
+1927,139,4,1.0,2020-09-11,Mushrooms,1,Vegetable,Mushrooms
+1928,149,4,2.0,2020-09-14,Thai lemongrass bowl,1,Asianfood,Thai lemongrass bowl
+1929,137,4,1.0,2020-09-14,"Chicken alfredo with chicken, broccoli",2,Dish,"Chicken alfredo with chicken, broccoli"
+1930,137,4,1.0,2020-09-14,Chicken fettuccine,1,Dish,Chicken fettuccine
+1931,149,4,2.0,2020-09-14,Chicken hotdish,1,Dish,Chicken hotdish
+1932,149,4,2.0,2020-09-14,Chicken livorno,1,Dish,Chicken livorno
+1933,149,4,2.0,2020-09-14,Pork chop,1,Dish,Pork chop
+1934,149,4,2.0,2020-09-14,Truffle mushroom steak,1,Dish,Truffle mushroom steak
+1935,149,4,2.0,2020-09-14,Turkey meatloaf,1,Dish,Turkey meatloaf
+1936,137,4,1.0,2020-09-14,Club soda,1,Drink,Club soda
+1937,137,4,1.0,2020-09-14,Tonic water,1,Drink,Tonic water
+1938,137,4,1.0,2020-09-14,Pierogies,3,Europeanfood,Pierogies
+1939,130,5,1.0,2020-09-14,Bananas,1,Fruit,Bananas
+1940,130,5,1.0,2020-09-14,Blueberries,2,Fruit,Blueberries
+1941,130,5,1.0,2020-09-14,Oranges,1,Fruit,Oranges
+1942,130,5,1.0,2020-09-14,Peaches,1,Fruit,Peaches
+1943,130,5,1.0,2020-09-14,Plums,1,Fruit,Plums
+1944,137,4,1.0,2020-09-14,Bread (wheat),1,Grain,Bread 
+1945,137,4,1.0,2020-09-14,Crescent rolls (dough),3,Grain,Crescent rolls 
+1946,130,5,1.0,2020-09-14,Corvina,1,Seafood,Corvina
+1947,137,4,1.0,2020-09-14,Green peppers,1,Vegetable,Green peppers
+1948,137,4,1.0,2020-09-14,Potatoes,1,Vegetable,Potatoes
+1949,130,5,1.0,2020-09-14,Carrots,1,Vegetables,Carrots
+1950,130,5,1.0,2020-09-14,Iceberg lettuce,1,Vegetables,Iceberg lettuce
+1951,130,5,1.0,2020-09-14,Radishes,1,Vegetables,Radishes
+1956,130,5,2.0,2020-09-15,Dark chocolate syrup,1,Condiment,Dark chocolate syrup
+1957,130,5,2.0,2020-09-15,Italian salad dressing,1,Condiment,Italian salad dressing
+1958,130,5,2.0,2020-09-15,Sweet relish,1,Condiment,Sweet relish
+1959,131,4,1.0,2020-09-15,Cheese (imported),1,Dairy,Cheese 
+1960,131,5,1.0,2020-09-15,Cheese (imported),1,Dairy,Cheese 
+1961,145,4,1.0,2020-09-15,Greek yogurt (vanilla),1,Dairy,Greek yogurt 
+1962,131,4,1.0,2020-09-15,Half and Half,1,Dairy,Half and Half
+1963,131,5,1.0,2020-09-15,Half and Half,1,Dairy,Half and Half
+1964,145,4,1.0,2020-09-15,Kefir (lowfat),1,Dairy,Kefir 
+1965,130,5,2.0,2020-09-15,"Milk (2%, lactose free)",1,Dairy,Milk 
+1966,131,4,1.0,2020-09-15,Carrot Cake,1,Dessert,Carrot Cake
+1967,131,5,1.0,2020-09-15,Carrot Cake,1,Dessert,Carrot Cake
+1968,152,3,1.0,2020-09-15,Cookies,2,Dessert,Cookies
+1969,130,5,2.0,2020-09-15,Ice cream,1,Dessert,Ice cream
+1970,130,5,2.0,2020-09-15,Oreos,1,Dessert,Oreos
+1971,131,4,1.0,2020-09-15,Hot foods entrée,1,Dish,Hot foods entrée
+1972,131,5,1.0,2020-09-15,Hot foods entrée,1,Dish,Hot foods entrée
+1973,152,3,1.0,2020-09-15,Soda (diet cola),1,Drink,Soda 
+1974,152,3,1.0,2020-09-15,Soda (lemon-lime),2,Drink,Soda 
+1975,131,4,1.0,2020-09-15,Olives,1,Fruit,Olives
+1976,131,5,1.0,2020-09-15,Olives,1,Fruit,Olives
+1977,145,4,1.0,2020-09-15,Raisins,1,Fruit,Raisins
+1978,131,4,1.0,2020-09-15,Bread,1,Grain,Bread
+1979,131,5,1.0,2020-09-15,Bread,1,Grain,Bread
+1980,130,5,2.0,2020-09-15,Chicken (canned),1,Meat,Chicken 
+1981,130,5,2.0,2020-09-15,Chicken tenders,1,Meat,Chicken tenders
+1982,130,5,2.0,2020-09-15,Maple bacon,1,Meat,Maple bacon
+1983,130,5,2.0,2020-09-15,Roast turkey breast,1,Meat,Roast turkey breast
+1993,145,4,1.0,2020-09-15,Black beans,2,Vegetable,Black beans
+1994,145,4,1.0,2020-09-15,Broccoli slaw,1,Vegetable,Broccoli slaw
+1995,145,4,1.0,2020-09-15,Cucumbers,1,Vegetable,Cucumbers
+1996,145,4,1.0,2020-09-15,Garlic,1,Vegetable,Garlic
+1997,145,4,1.0,2020-09-15,Lima beans (frozen),1,Vegetable,Lima beans 
+1998,145,4,1.0,2020-09-15,Peppers (tabasco),1,Vegetable,Peppers 
+1999,145,4,1.0,2020-09-15,Pickles (kosher dill),1,Vegetable,Pickles 
+2000,130,5,2.0,2020-09-15,Corn,1,Vegetables,Corn
+2001,130,5,2.0,2020-09-15,Green beans,2,Vegetables,Green beans
+2007,137,5,1.0,2020-09-16,Milk,1,Dairy,Milk
+2008,137,5,1.0,2020-09-16,Parmesan cheese,2,Dairy,Parmesan cheese
+2009,137,5,1.0,2020-09-16,Macaroni and Cheese ,1,Dish,Macaroni and Cheese 
+2011,137,5,1.0,2020-09-16,Apples (gala),1,Fruit,Apples 
+2012,137,5,1.0,2020-09-16,Puff pastry,1,Grain,Puff pastry
+2013,137,5,1.0,2020-09-16,Chicken strips,1,Meat,Chicken strips
+2014,137,5,1.0,2020-09-16,Chicken thighs,1,Meat,Chicken thighs
+2015,137,5,1.0,2020-09-16,Caesar salad,1,Salad,Caesar salad
+2016,137,5,1.0,2020-09-16,Tuna (canned),1,Seafood,Tuna 
+2017,137,5,1.0,2020-09-16,Mozzarella Pepperoni stick,1,Snack,Mozzarella Pepperoni stick
+2018,137,5,1.0,2020-09-16,Peanuts,1,Snack,Peanuts
+2019,137,5,1.0,2020-09-16,Plantain chips,1,Snack,Plantain chips
+2020,137,5,1.0,2020-09-16,Onion (yellow),1,Vegetables,Onion 
+2021,137,5,1.0,2020-09-16,Red peppers (roasted),1,Vegetables,Red peppers 
+2034,153,3,1.0,2020-09-19,Cereal (high fiber),1,Breakfast,Cereal 
+2035,153,3,1.0,2020-09-19,Cereal (oatmeal flakes),1,Breakfast,Cereal 
+2036,153,3,1.0,2020-09-19,Eggs,1,Breakfast,Eggs
+2037,153,3,1.0,2020-09-19,Instant oatmeal,1,Breakfast,Instant oatmeal
+2039,153,3,1.0,2020-09-19,Cheddar cheese (sharp),1,Dairy,Cheddar cheese 
+2040,153,3,1.0,2020-09-19,"Milk (low fat, gallon)",2,Dairy,Milk 
+2041,153,3,1.0,2020-09-19,Coffee (beans),1,Drink,Coffee 
+2042,153,3,1.0,2020-09-19,Black olives,1,Fruit,Black olives
+2043,153,3,1.0,2020-09-19,Bread (wheat sourdough),1,Grain,Bread 
+2044,153,3,1.0,2020-09-19,Jasmine rice (brown),1,Grain,Jasmine rice 
+2045,153,3,1.0,2020-09-19,Alaskan cod,1,Seafood,Alaskan cod
+2046,153,3,1.0,2020-09-19,Albacore tuna,4,Seafood,Albacore tuna
+2047,153,3,1.0,2020-09-19,Tilapia,1,Seafood,Tilapia
+2048,153,3,1.0,2020-09-19,Garbanzo beans,4,Side,Garbanzo beans
+2049,153,3,1.0,2020-09-19,Chicken broth,2,Soup,Chicken broth
+2050,153,3,1.0,2020-09-19,Peanut butter,2,Spread,Peanut butter
+2051,149,4,3.0,2020-09-21,Chinese noodles and veggies (frozen),1,Asianfood,Chinese noodles and veggies 
+2052,149,4,3.0,2020-09-21,Baking soda,1,Baking,Baking soda
+2053,149,4,3.0,2020-09-21,Salt,1,Baking,Salt
+2054,152,3,1.0,2020-09-21,Cheerios,1,Breakfast,Cheerios
+2056,152,3,1.0,2020-09-21,Cream cheese,1,Dairy,Cream cheese
+2057,148,4,1.0,2020-09-21,Half and half,1,Dairy,Half and half
+2058,148,4,1.0,2020-09-21,Milk (reduced fat),1,Dairy,Milk 
+2059,149,4,3.0,2020-09-21,Skyr,2,Dairy,Skyr
+2060,148,4,1.0,2020-09-21,Yogurt,8,Dairy,Yogurt
+2061,130,5,3.0,2020-09-21,Apple cinnamon bread,1,Dessert,Apple cinnamon bread
+2062,152,3,1.0,2020-09-21,Candy (Butterfingers),1,Dessert,Candy 
+2063,152,3,1.0,2020-09-21,Chocolate,2,Dessert,Chocolate
+2064,141,5,2.0,2020-09-21,Cookies,1,Dessert,Cookies
+2065,149,4,3.0,2020-09-21,Dairy-free Ice cream (vanilla),1,Dessert,Dairy-free Ice cream 
+2066,148,4,1.0,2020-09-21,Ice cream (sea salt caramel),6,Dessert,Ice cream 
+2067,149,4,1.0,2020-09-21,BBQ Beef,1,Dish,BBQ Beef
+2068,149,4,1.0,2020-09-21,Buffalo chicken,1,Dish,Buffalo chicken
+2069,130,5,3.0,2020-09-21,Macaroni salad,1,Dish,Macaroni salad
+2070,149,4,3.0,2020-09-21,Meal bowl (frozen),4,Dish,Meal bowl 
+2071,149,4,1.0,2020-09-21,Pork chop,1,Dish,Pork chop
+2072,148,4,1.0,2020-09-21,Pot pie (frozen),3,Dish,Pot pie 
+2073,141,5,2.0,2020-09-21,Stuffed potato,1,Dish,Stuffed potato
+2074,149,4,1.0,2020-09-21,Truffle mushroom steak,1,Dish,Truffle mushroom steak
+2075,149,4,1.0,2020-09-21,Turkey meatloaf,1,Dish,Turkey meatloaf
+2076,152,3,1.0,2020-09-21,Flavored milk,1,Drink,Flavored milk
+2077,148,4,1.0,2020-09-21,Kombucha,4,Drink,Kombucha
+2078,148,4,1.0,2020-09-21,Lemonade,1,Drink,Lemonade
+2079,149,4,3.0,2020-09-21,Vegetable juice,3,Drink,Vegetable juice
+2080,149,4,1.0,2020-09-21,Swedish meatballs,1,Europeanfood,Swedish meatballs
+2081,149,4,3.0,2020-09-21,Pepperoni pizza (frozen),1,Fastfood,Pepperoni pizza 
+2082,149,4,3.0,2020-09-21,Apples (McIntosh),1,Fruit,Apples 
+2083,148,4,1.0,2020-09-21,Avocados,4,Fruit,Avocados
+2084,149,4,3.0,2020-09-21,Bananas,1,Fruit,Bananas
+2085,152,3,1.0,2020-09-21,Bananas,1,Fruit,Bananas
+2086,130,5,3.0,2020-09-21,Bananas,1,Fruit,Bananas
+2087,148,4,1.0,2020-09-21,Bananas,1,Fruit,Bananas
+2088,149,4,3.0,2020-09-21,Blueberries,1,Fruit,Blueberries
+2089,130,5,3.0,2020-09-21,Blueberries,2,Fruit,Blueberries
+2090,130,5,3.0,2020-09-21,Lemons,3,Fruit,Lemons
+2091,130,5,3.0,2020-09-21,Oranges,1,Fruit,Oranges
+2092,130,5,3.0,2020-09-21,Peaches,1,Fruit,Peaches
+2093,130,5,3.0,2020-09-21,Pears (bartlett),2,Fruit,Pears 
+2094,130,5,3.0,2020-09-21,Pears (red),1,Fruit,Pears 
+2095,141,5,2.0,2020-09-21,Pineapple,1,Fruit,Pineapple
+2096,152,3,1.0,2020-09-21,Bagels,1,Grain,Bagels
+2097,130,5,3.0,2020-09-21,Hot dog buns,1,Grain,Hot dog buns
+2098,130,5,3.0,2020-09-21,Beef franks,1,Meat,Beef franks
+2099,148,4,1.0,2020-09-21,Veggie sausage/ground beef,1,Meat,Veggie sausage/ground beef
+2101,141,5,2.0,2020-09-21,Seafood salad,1,Salad,Seafood salad
+2102,152,3,1.0,2020-09-21,Brown gravy,1,Side,Brown gravy
+2103,152,3,1.0,2020-09-21,Gravy,1,Side,Gravy
+2104,141,5,2.0,2020-09-21,Diet caramel chocolate granola bar,1,Snack,Diet caramel chocolate granola bar
+2105,141,5,2.0,2020-09-21,Diet Chocolate peanut butter granola bar,1,Snack,Diet Chocolate peanut butter granola bar
+2106,149,4,3.0,2020-09-21,Plantain chips?,14,Snack,Plantain chips?
+2107,141,5,2.0,2020-09-21,Seafood spread,1,Spread,Seafood spread
+2108,152,3,1.0,2020-09-21,Corn,1,Vegetable,Corn
+2109,152,3,1.0,2020-09-21,Mashed vegetables?,1,Vegetable,Mashed vegetables?
+2110,152,3,1.0,2020-09-21,Mushrooms,1,Vegetable,Mushrooms
+2111,130,5,3.0,2020-09-21,Carrots,1,Vegetables,Carrots
+2112,148,4,1.0,2020-09-21,Cauliflower,1,Vegetables,Cauliflower
+2113,130,5,3.0,2020-09-21,Celery,2,Vegetables,Celery
+2114,130,5,3.0,2020-09-21,Cole slaw,1,Vegetables,Cole slaw
+2115,130,5,3.0,2020-09-21,Cucumbers,3,Vegetables,Cucumbers
+2116,148,4,1.0,2020-09-21,Green beans,12,Vegetables,Green beans
+2117,130,5,3.0,2020-09-21,Radishes,1,Vegetables,Radishes
+2120,148,4,1.0,2020-09-22,Eggs,1,Breakfast,Eggs
+2130,148,4,1.0,2020-09-22,Butter,1,Dairy,Butter
+2131,148,4,1.0,2020-09-22,Butter,1,Dairy,Butter
+2132,148,4,1.0,2020-09-22,Cheddar cheese (shredded),1,Dairy,Cheddar cheese 
+2133,148,4,1.0,2020-09-22,Gouda cheese,1,Dairy,Gouda cheese
+2134,148,4,1.0,2020-09-22,Half and half,1,Dairy,Half and half
+2135,148,4,1.0,2020-09-22,Merlot cheese,1,Dairy,Merlot cheese
+2136,148,4,1.0,2020-09-22,Parmesan cheese (shredded),1,Dairy,Parmesan cheese 
+2137,148,4,1.0,2020-09-22,Sour cream,1,Dairy,Sour cream
+2138,148,4,1.0,2020-09-22,Chocolate cake,1,Dessert,Chocolate cake
+2139,148,4,1.0,2020-09-22,Peanut butter chocolate candy,2,Dessert,Peanut butter chocolate candy
+2140,148,4,1.0,2020-09-22,Pizza (frozen),1,Dish,Pizza 
+2141,148,4,1.0,2020-09-22,Coffee (beans),1,Drink,Coffee 
+2142,148,4,1.0,2020-09-22,Orange juice,1,Drink,Orange juice
+2143,148,4,1.0,2020-09-22,Soda (cola),1,Drink,Soda 
+2144,148,4,1.0,2020-09-22,Blueberries,1,Fruit,Blueberries
+2145,148,4,1.0,2020-09-22,Mango,1,Fruit,Mango
+2146,148,4,1.0,2020-09-22,Bacon,1,Meat,Bacon
+2148,148,4,1.0,2020-09-22,Potato chips,2,Snack,Potato chips
+2149,148,4,1.0,2020-09-22,Tomato soup,1,Soup,Tomato soup
+2150,148,4,1.0,2020-09-22,Artichokes,1,Vegetables,Artichokes
+2151,148,4,1.0,2020-09-22,Squash,1,Vegetables,Squash
+2152,130,5,4.0,2020-09-23,Dijon mustard,1,Condiment,Dijon mustard
+2153,131,5,4.0,2020-09-23,Half and Half,1,Dairy,Half and Half
+2154,131,5,4.0,2020-09-23,Carrot Cake,1,Dessert,Carrot Cake
+2155,131,5,4.0,2020-09-23,Ice cream,1,Dessert,Ice cream
+2156,131,5,4.0,2020-09-23,Hot foods entrée,1,Dish,Hot foods entrée
+2157,130,5,4.0,2020-09-23,Club soda,1,Drink,Club soda
+2158,130,5,4.0,2020-09-23,"Soda (cola, zero)",1,Drink,Soda 
+2159,131,5,4.0,2020-09-23,Sparkling drink (grapefruit),1,Drink,Sparkling drink 
+2160,131,5,4.0,2020-09-23,Sparkling drink (orange),1,Drink,Sparkling drink 
+2161,130,5,4.0,2020-09-23,Biscuits,1,Grain,Biscuits
+2162,130,5,4.0,2020-09-23,Beef,1,Meat,Beef
+2163,130,5,4.0,2020-09-23,Roast beef,1,Meat,Roast beef
+2164,131,5,4.0,2020-09-23,Chicken Caesar Wrap,1,Sandwich,Chicken Caesar Wrap
+2165,130,5,4.0,2020-09-23,Pretzels,1,Snack,Pretzels
+2166,130,5,4.0,2020-09-23,French onion soup (canned),2,Soup,French onion soup 
+2167,130,5,4.0,2020-09-23,Golden mushroom soup (canned),2,Soup,Golden mushroom soup 
+2169,130,5,4.0,2020-09-23,Parsley,1,Vegetables,Parsley
+2170,137,6,1.0,2020-09-25,Oil/shortening,2,Baking,Oil/shortening
+2171,137,6,1.0,2020-09-25,Breakfast products,1,Breakfast,Breakfast products
+2172,137,5,1.0,2020-09-25,Eggs,1,Breakfast,Eggs
+2175,141,5,2.0,2020-09-25,Cream cheese,2,Dairy,Cream cheese
+2176,137,5,1.0,2020-09-25,Cream cheese (light),2,Dairy,Cream cheese 
+2177,137,6,1.0,2020-09-25,Dairy,4,Dairy,Dairy
+2178,141,5,2.0,2020-09-25,Dairy topping,1,Dairy,Dairy topping
+2179,137,6,1.0,2020-09-25,Milk,3,Dairy,Milk
+2180,137,6,1.0,2020-09-25,Bakery items?,1,Dessert,Bakery items?
+2181,141,5,2.0,2020-09-25,Pumpkin pie,1,Dessert,Pumpkin pie
+2182,137,6,1.0,2020-09-25,Tomato product,1,Fruit,Tomato product
+2183,137,6,1.0,2020-09-25,Canned fruit/vegetable,1,Fruit/Vegetable,Canned fruit/vegetable
+2184,137,5,1.0,2020-09-25,Bread (whole wheat),3,Grain,Bread 
+2185,141,5,2.0,2020-09-25,Bacon,2,Meat,Bacon
+2186,137,6,1.0,2020-09-25,Meat (fresh),1,Meat,Meat 
+2187,137,6,1.0,2020-09-25,Meat (prepackaged),2,Meat,Meat 
+2188,141,5,2.0,2020-09-25,Tenderloin,1,Meat,Tenderloin
+2192,137,6,1.0,2020-09-25,Canned fish/meat,2,Seafood,Canned fish/meat
+2193,141,5,2.0,2020-09-25,Salmon,1,Seafood,Salmon
+2194,141,5,2.0,2020-09-25,Seasoning blend,1,Seasoning,Seasoning blend
+2195,137,5,1.0,2020-09-25,Kidney beans,2,Side,Kidney beans
+2196,137,5,1.0,2020-09-25,Pinto beans,2,Side,Pinto beans
+2197,137,5,1.0,2020-09-25,Red beans,2,Side,Red beans
+2198,137,6,1.0,2020-09-25,Candy/nut,1,Snack,Candy/nut
+2199,141,5,2.0,2020-09-25,Club crackers,1,Snack,Club crackers
+2200,137,6,1.0,2020-09-25,Crackers,2,Snack,Crackers
+2201,141,5,2.0,2020-09-25,Diet Chocolate peanut butter granola bar,1,Snack,Diet Chocolate peanut butter granola bar
+2202,141,5,2.0,2020-09-25,Diet peanut fudge granola bar,1,Snack,Diet peanut fudge granola bar
+2203,137,6,1.0,2020-09-25,Snacks,4,Snack,Snacks
+2204,137,5,1.0,2020-09-25,Peanut butter,1,Spread,Peanut butter
+2205,141,5,2.0,2020-09-25,Bell peppers,1,Vegetables,Bell peppers
+2206,137,5,1.0,2020-09-25,Creamed corn,2,Vegetables,Creamed corn
+2210,131,5,2.0,2020-09-26,Carrot Cake,1,Dessert,Carrot Cake
+2211,131,5,2.0,2020-09-26,Cheesecake (white chocolate raspberry),1,Dessert,Cheesecake 
+2212,131,5,2.0,2020-09-26,Peaches,1,Fruit,Peaches
+2213,131,5,2.0,2020-09-26,Chicken salad,1,Salad,Chicken salad
+2214,131,5,2.0,2020-09-26,Greek salad,1,Salad,Greek salad
+2215,131,5,2.0,2020-09-26,Sandwich (turkey and avocado),1,Sandwich,Sandwich 
+2216,139,5,1.0,2020-09-27,Chow mein stir fry (frozen),1,Asianfood,Chow mein stir fry 
+2217,139,5,1.0,2020-09-27,Eggs,1,Breakfast,Eggs
+2218,139,5,1.0,2020-09-27,BBQ Sauce,1,Condiment,BBQ Sauce
+2219,139,5,1.0,2020-09-27,Salad dressing (light),1,Condiment,Salad dressing 
+2220,139,5,1.0,2020-09-27,Cheese,1,Dairy,Cheese
+2221,139,5,1.0,2020-09-27,Coffee creamer,1,Dairy,Coffee creamer
+2222,139,5,1.0,2020-09-27,Cottage cheese (low fat),1,Dairy,Cottage cheese 
+2223,139,5,1.0,2020-09-27,Greek yogurt,4,Dairy,Greek yogurt
+2224,139,5,1.0,2020-09-27,Yogurt,2,Dairy,Yogurt
+2225,139,5,1.0,2020-09-27,Yogurt (coffee and cream),1,Dairy,Yogurt 
+2226,139,5,1.0,2020-09-27,Yogurt (mixed berry),1,Dairy,Yogurt 
+2227,139,5,1.0,2020-09-27,Yogurt (strawberry),1,Dairy,Yogurt 
+2228,139,5,1.0,2020-09-27,Cranberry juice,1,Drink,Cranberry juice
+2229,139,5,1.0,2020-09-27,Orange juice,1,Drink,Orange juice
+2230,139,5,1.0,2020-09-27,Apples (granny smith),1,Fruit,Apples 
+2231,139,5,1.0,2020-09-27,Apples (jazz),1,Fruit,Apples 
+2232,139,5,1.0,2020-09-27,Bananas,1,Fruit,Bananas
+2233,139,5,1.0,2020-09-27,"Mandarin oranges (canned, in syrup)",1,Fruit,Mandarin oranges 
+2234,139,5,1.0,2020-09-27,Olives (black),1,Fruit,Olives 
+2235,139,5,1.0,2020-09-27,Sliced fruit?,5,Fruit,Sliced fruit?
+2236,139,5,1.0,2020-09-27,Tomatoes (diced),1,Fruit,Tomatoes 
+2237,139,5,1.0,2020-09-27,Croutons (Texas Toast),2,Grain,Croutons 
+2238,139,5,1.0,2020-09-27,Turkey,1,Meat,Turkey
+2240,139,5,1.0,2020-09-27,Tortillas (flour),1,Spanishfood,Tortillas 
+2241,139,5,1.0,2020-09-27,Tortillas (street taco),1,Spanishfood,Tortillas 
+2242,139,5,1.0,2020-09-27,Asparagus (frozen),1,Vegetable,Asparagus 
+2243,139,5,1.0,2020-09-27,Corn (canned),1,Vegetable,Corn 
+2244,139,5,1.0,2020-09-27,Cucumbers,1,Vegetable,Cucumbers
+2245,139,5,1.0,2020-09-27,Green beans,1,Vegetable,Green beans
+2246,139,5,1.0,2020-09-27,Iceberg lettuce,1,Vegetable,Iceberg lettuce
+2247,139,5,1.0,2020-09-27,Mushrooms,1,Vegetable,Mushrooms
+2248,139,5,1.0,2020-09-27,Onions (yellow),1,Vegetable,Onions 
+2249,139,5,1.0,2020-09-27,Peas,1,Vegetable,Peas
+2250,139,5,1.0,2020-09-27,Pepperoncini (mezzata),1,Vegetable,Pepperoncini 
+2251,139,5,1.0,2020-09-27,Red leaf lettuce,1,Vegetable,Red leaf lettuce
+2252,139,5,1.0,2020-09-27,Spinach,1,Vegetable,Spinach
+2260,152,4,1.0,2020-09-28,Milk (2%),1,Dairy,Milk 
+2261,149,5,2.0,2020-09-28,BBQ Beef,1,Dish,BBQ Beef
+2262,149,5,2.0,2020-09-28,Chicken and Mash,1,Dish,Chicken and Mash
+2263,149,5,1.0,2020-09-28,Meal bowl (frozen),5,Dish,Meal bowl 
+2264,149,5,2.0,2020-09-28,Pork chop,1,Dish,Pork chop
+2265,149,5,2.0,2020-09-28,Truffle mushroom steak,1,Dish,Truffle mushroom steak
+2266,141,5,1.0,2020-09-28,"Veggie ""meat""",1,Dish,"Veggie ""meat"""
+2267,149,5,1.0,2020-09-28,Vegetable juice,2,Drink,Vegetable juice
+2268,149,5,1.0,2020-09-28,Water,1,Drink,Water
+2269,141,5,1.0,2020-09-28,Pizza bites,1,Fastfood,Pizza bites
+2270,149,5,1.0,2020-09-28,Avocados,1,Fruit,Avocados
+2271,149,5,1.0,2020-09-28,Bananas,1,Fruit,Bananas
+2272,149,5,1.0,2020-09-28,Blueberries,1,Fruit,Blueberries
+2273,152,4,1.0,2020-09-28,Blueberries,1,Fruit,Blueberries
+2274,141,5,1.0,2020-09-28,Grapes,1,Fruit,Grapes
+2275,141,5,1.0,2020-09-28,Pineapple,1,Fruit,Pineapple
+2276,152,4,1.0,2020-09-28,Strawberries,1,Fruit,Strawberries
+2277,152,4,1.0,2020-09-28,Slider buns (Hawaiian),1,Grain,Slider buns 
+2278,141,5,1.0,2020-09-28,Sausage,1,Meat,Sausage
+2283,152,4,1.0,2020-09-28,Salad,2,Salad,Salad
+2284,149,5,1.0,2020-09-28,Plantain chips?,14,Snak,Plantain chips?
+2285,141,5,1.0,2020-09-28,Split pea ham soup,2,Soup,Split pea ham soup
+2286,149,5,1.0,2020-09-28,Burrito (frozen),1,Spanishfood,Burrito 
+2287,149,5,2.0,2020-09-28,Mexican chicken and rice,1,Spanishfood,Mexican chicken and rice
+2288,141,5,1.0,2020-09-28,Quesadilla,1,Spanishfood,Quesadilla
+2289,141,5,1.0,2020-09-28,Chipotle aioli,3,Spread,Chipotle aioli
+2290,152,4,1.0,2020-09-28,Margarine,1,Spread,Margarine
+2296,141,5,1.0,2020-09-28,Onions (chopped),2,Vegetables,Onions 
+2303,145,5,1.0,2020-09-29,Tomato sauce,3,Condiment,Tomato sauce
+2304,145,5,1.0,2020-09-29,Kefir (lowfat),1,Dairy,Kefir 
+2305,145,5,1.0,2020-09-29,Swiss cheese,1,Dairy,Swiss cheese
+2306,145,5,1.0,2020-09-29,Yogurt (nonfat),2,Dairy,Yogurt 
+2307,145,5,1.0,2020-09-29,Dark chocolate,1,Dessert,Dark chocolate
+2308,145,5,1.0,2020-09-29,Hummus (garlic),1,Dip,Hummus 
+2310,145,5,1.0,2020-09-29,Pasta (elbow),2,Pasta,Pasta 
+2311,145,5,1.0,2020-09-29,Walnuts (shelled),1,Snack,Walnuts 
+2312,145,5,1.0,2020-09-29,Garbanzo beans (canned),3,Vegetable,Garbanzo beans 
+2313,145,5,1.0,2020-09-29,Spinach (canned),3,Vegetable,Spinach 
+2314,152,4,1.0,2020-10-02,Cookie dough,1,Dessert,Cookie dough
+2315,152,4,1.0,2020-10-02,Pie (frozen),2,Dessert,Pie 
+2316,152,4,1.0,2020-10-02,Bananas,1,Fruit,Bananas
+2317,152,4,1.0,2020-10-02,Grapes,1,Fruit,Grapes
+2318,152,4,1.0,2020-10-02,Bread (Hawaiian),2,Grain,Bread 
+2319,152,4,1.0,2020-10-02,Bread mix,1,Grain,Bread mix
+2320,152,4,1.0,2020-10-02,Buns (Hawaiian),2,Grain,Buns 
+2321,152,4,1.0,2020-10-02,Chicken breast,1,Meat,Chicken breast
+2322,152,4,1.0,2020-10-02,Vienna sausages,1,Meat,Vienna sausages
+2323,152,4,1.0,2020-10-02,Tuna salad,1,Seafood,Tuna salad
+2324,152,4,1.0,2020-10-02,Corn chips,1,Snack,Corn chips
+2325,152,4,1.0,2020-10-02,Onion rings (frozen),1,Snack,Onion rings 
+2326,152,4,1.0,2020-10-02,Pretzels,1,Snack,Pretzels
+2327,152,4,1.0,2020-10-02,Mixed vegetables (frozen),1,Vegetable,Mixed vegetables 
+2328,153,4,1.0,2020-10-03,Eggs,3,Breakfast,Eggs
+2329,153,4,1.0,2020-10-03,Ranch dressing,1,Condiment,Ranch dressing
+2330,153,4,1.0,2020-10-03,Cheddar cheese (sharp),1,Dairy,Cheddar cheese 
+2331,153,4,1.0,2020-10-03,Milk (1/2 gallon),1,Dairy,Milk 
+2332,153,4,1.0,2020-10-03,Milk (gallon),1,Dairy,Milk 
+2333,153,4,1.0,2020-10-03,Coffee (beans),1,Drink,Coffee 
+2334,153,4,1.0,2020-10-03,Gin,1,Drink,Gin
+2335,153,4,1.0,2020-10-03,Wine (charo),1,Drink,Wine 
+2336,153,4,1.0,2020-10-03,Wine (shiraz),1,Drink,Wine 
+2337,153,4,1.0,2020-10-03,Apples (honeycrisp),1,Fruit,Apples 
+2338,153,4,1.0,2020-10-03,Apples (kanzi),1,Fruit,Apples 
+2339,153,4,1.0,2020-10-03,Bananas,3,Fruit,Bananas
+2340,153,4,1.0,2020-10-03,Blueberries,1,Fruit,Blueberries
+2341,153,4,1.0,2020-10-03,Mandarin oranges,1,Fruit,Mandarin oranges
+2342,153,4,1.0,2020-10-03,Tomatoes,1,Fruit,Tomatoes
+2343,153,4,1.0,2020-10-03,Bread (wheat sourdough),2,Grain,Bread 
+2344,153,4,1.0,2020-10-03,Tilapia,1,Meat,Tilapia
+2345,153,4,1.0,2020-10-03,Spring mix,1,Salad,Spring mix
+2346,153,4,1.0,2020-10-03,Salmon,3,Seafood,Salmon
+2347,153,4,1.0,2020-10-03,Walnuts,1,Snack,Walnuts
+2348,153,4,1.0,2020-10-03,Baby spinach,1,Vegetables,Baby spinach
+2349,153,4,1.0,2020-10-03,Baby spinach,1,Vegetables,Baby spinach
+2350,153,4,1.0,2020-10-03,Broccoli,1,Vegetables,Broccoli
+2351,153,4,1.0,2020-10-03,Carrots,1,Vegetables,Carrots
+2352,153,4,1.0,2020-10-03,Celery heart,1,Vegetables,Celery heart
+2353,153,4,1.0,2020-10-03,Corn,1,Vegetables,Corn
+2354,153,4,1.0,2020-10-03,Onion (yellow),1,Vegetables,Onion 
+2355,153,4,1.0,2020-10-03,Vegetable melange,1,Vegetables,Vegetable melange
+2358,148,6,1.0,2020-10-07,Breakfast patty (frozen),1,Breakfast,Breakfast patty 
+2360,148,6,1.0,2020-10-07,Cheese,1,Dairy,Cheese
+2361,148,6,1.0,2020-10-07,Cottage cheese,1,Dairy,Cottage cheese
+2362,148,6,1.0,2020-10-07,Cream cheese,1,Dairy,Cream cheese
+2363,148,6,1.0,2020-10-07,Half and half,1,Dairy,Half and half
+2364,148,6,1.0,2020-10-07,Yogurt,1,Dairy,Yogurt
+2365,148,6,1.0,2020-10-07,Frozen meal,1,Dish,Frozen meal
+2366,148,6,1.0,2020-10-07,Pizza bites (frozen),1,Dish,Pizza bites 
+2367,148,6,1.0,2020-10-07,Pot pie (frozen),1,Dish,Pot pie 
+2368,148,6,1.0,2020-10-07,Kombucha,1,Drink,Kombucha
+2369,148,6,1.0,2020-10-07,Lemonade,1,Drink,Lemonade
+2370,148,6,1.0,2020-10-07,Bananas,1,Fruit,Bananas
+2371,148,6,1.0,2020-10-07,Hamburger buns,1,Grain,Hamburger buns
+2372,148,6,1.0,2020-10-07,Chicken nuggets (frozen),1,Meat,Chicken nuggets 
+2373,148,6,1.0,2020-10-07,Sausage (frozen),1,Meat,Sausage 
+2374,148,6,1.0,2020-10-07,Sausage (frozen),1,Meat,Sausage 
+2375,148,6,1.0,2020-10-07,Tortillas,1,Mexicanfood,Tortillas
+2376,148,6,1.0,2020-10-07,Salt,1,Seasoning,Salt
+2377,148,6,1.0,2020-10-07,Crackers,1,Snack,Crackers
+2379,148,6,1.0,2020-10-07,Brussel sprouts,1,Vegetables,Brussel sprouts
+2380,149,6,1.0,2020-10-08,Yogurt (2% fat),1,Dairy,Yogurt 
+2381,149,6,1.0,2020-10-08,"Yogurt (coconut, 2% fat)",1,Dairy,Yogurt 
+2382,149,6,1.0,2020-10-08,Burrito (frozen),1,Dish,Burrito 
+2383,149,6,1.0,2020-10-08,Meal bowl (frozen),5,Dish,Meal bowl 
+2384,149,6,1.0,2020-10-08,Pepperoni pizza (frozen),1,Dish,Pepperoni pizza 
+2385,149,6,1.0,2020-10-08,Kombucha,1,Drink,Kombucha
+2386,149,6,1.0,2020-10-08,Vegetable juice,3,Drink,Vegetable juice
+2387,149,6,1.0,2020-10-08,Bananas,1,Fruit,Bananas
+2388,149,6,1.0,2020-10-08,Blackberries,1,Fruit,Blackberries
+2389,149,6,1.0,2020-10-08,Plantain chips?,12,Snack,Plantain chips?
+2390,149,6,1.0,2020-10-08,Snap pea crisps,1,Snack,Snap pea crisps
+2391,149,6,1.0,2020-10-08,Baby spinach,1,Vegetable,Baby spinach
+2392,131,6,1.0,2020-10-09,Gum,1,Candy,Gum
+2393,131,6,1.0,2020-10-09,Cheese,2,Dairy,Cheese
+2394,131,6,1.0,2020-10-09,Swiss Cheese (Sliced),2,Dairy,Swiss Cheese 
+2395,131,6,1.0,2020-10-09,Cookies,1,Dessert,Cookies
+2396,131,6,1.0,2020-10-09,Cookies,1,Dessert,Cookies
+2397,131,6,1.0,2020-10-09,Cookies (butter),3,Dessert,Cookies 
+2398,149,6,2.0,2020-10-09,BBQ Beef,1,Dish,BBQ Beef
+2399,149,6,2.0,2020-10-09,Chicken livorno,1,Dish,Chicken livorno
+2400,149,6,2.0,2020-10-09,Chicken pilaf,1,Dish,Chicken pilaf
+2401,149,6,2.0,2020-10-09,Herb pork chop,1,Dish,Herb pork chop
+2402,149,6,2.0,2020-10-09,Truffle mushroom steak,1,Dish,Truffle mushroom steak
+2403,149,6,2.0,2020-10-09,Turkey,1,Dish,Turkey
+2404,148,6,1.0,2020-10-14,Cereal,1,Breakfast,Cereal
+2405,148,6,1.0,2020-10-14,Cereal (cheerios),1,Breakfast,Cereal 
+2406,148,6,1.0,2020-10-14,Cereal (cinnamon toast crunch),1,Breakfast,Cereal 
+2407,148,6,1.0,2020-10-14,Eggs,1,Breakfast,Eggs
+2408,148,6,1.0,2020-10-14,Cottage cheese,1,Dairy,Cottage cheese
+2409,148,6,1.0,2020-10-14,Greek yogurt,1,Dairy,Greek yogurt
+2410,148,6,1.0,2020-10-14,Ice cream,1,Dairy,Ice cream
+2411,148,6,1.0,2020-10-14,Milk (reduced fat),1,Dairy,Milk 
+2412,148,6,1.0,2020-10-14,Yogurt,1,Dairy,Yogurt
+2413,148,6,1.0,2020-10-14,Caramel,1,Dessert,Caramel
+2414,148,6,1.0,2020-10-14,Donut,1,Dessert,Donut
+2415,148,6,1.0,2020-10-14,Frozen meal,1,Dish,Frozen meal
+2416,148,6,1.0,2020-10-14,Pot pie (frozen),1,Dish,Pot pie 
+2417,148,6,1.0,2020-10-14,Apple juice,1,Drink,Apple juice
+2418,148,6,1.0,2020-10-14,Kombucha,1,Drink,Kombucha
+2419,148,6,1.0,2020-10-14,Lemonade,1,Drink,Lemonade
+2420,148,6,1.0,2020-10-14,Orange juice,1,Drink,Orange juice
+2421,148,6,1.0,2020-10-14,Apple (gala),1,Fruit,Apple 
+2422,148,6,1.0,2020-10-14,Bananas,1,Fruit,Bananas
+2423,148,6,1.0,2020-10-14,Grapes,1,Fruit,Grapes
+2424,148,6,1.0,2020-10-14,Cinnamon swirl bread,1,Grain,Cinnamon swirl bread
+2425,148,6,1.0,2020-10-14,English muffin,1,Grain,English muffin
+2426,148,6,1.0,2020-10-14,Hamburger buns,1,Grain,Hamburger buns
+2427,148,6,1.0,2020-10-14,Chicken nuggets,1,Meat,Chicken nuggets
+2428,148,6,1.0,2020-10-14,Vegetarian chicken,1,Meat,Vegetarian chicken
+2429,148,6,1.0,2020-10-14,Crackers (saltine),1,Snack,Crackers 
+2430,148,6,1.0,2020-10-14,Soup,1,Soup,Soup
+2431,148,6,1.0,2020-10-14,Broccoli,1,Vegetables,Broccoli
+2432,148,6,1.0,2020-10-14,Mushrooms,1,Vegetables,Mushrooms
+2433,153,5,1.0,2020-10-17,Cereal (high fiber),1,Breakfast,Cereal 
+2434,153,5,1.0,2020-10-17,Cereal (peanut butter),1,Breakfast,Cereal 
+2435,153,5,2.0,2020-10-17,Eggs,1,Breakfast,Eggs
+2437,153,5,2.0,2020-10-17,Salad dressing (caesar),1,Condiment,Salad dressing 
+2438,153,5,2.0,2020-10-17,Salad dressing (green goddess),1,Condiment,Salad dressing 
+2439,153,5,2.0,2020-10-17,Blue cheese,1,Dairy,Blue cheese
+2440,153,5,2.0,2020-10-17,Cheddar cheese (sharp),1,Dairy,Cheddar cheese 
+2441,153,5,1.0,2020-10-17,Havarti Cheese,1,Dairy,Havarti Cheese
+2442,153,5,1.0,2020-10-17,Milk (1/2 gallon),1,Dairy,Milk 
+2443,153,5,2.0,2020-10-17,Milk (gallon),2,Dairy,Milk 
+2444,153,5,1.0,2020-10-17,Swiss cheese,1,Dairy,Swiss cheese
+2445,153,5,2.0,2020-10-17,Yogurt (low fat),1,Dairy,Yogurt 
+2446,153,5,1.0,2020-10-17,Sparking water (lime),1,Drink,Sparking water 
+2447,153,5,1.0,2020-10-17,Sparkling water,1,Drink,Sparkling water
+2448,153,5,1.0,2020-10-17,Sparkling water (grapefruit),1,Drink,Sparkling water 
+2449,153,5,1.0,2020-10-17,Apples (honeycrisp),1,Fruit,Apples 
+2450,153,5,1.0,2020-10-17,Apples (jazz),1,Fruit,Apples 
+2451,153,5,1.0,2020-10-17,Pear,6,Fruit,Pear
+2452,153,5,1.0,2020-10-17,Tomatoes,1,Fruit,Tomatoes
+2453,153,5,1.0,2020-10-17,Tomatoes ,1,Fruit,Tomatoes 
+2454,153,5,1.0,2020-10-17,Lavash (flatbread),1,Grain,Lavash 
+2455,153,5,1.0,2020-10-17,Herb salad,1,Salad,Herb salad
+2456,153,5,1.0,2020-10-17,Spring mix,1,Salad,Spring mix
+2457,153,5,2.0,2020-10-17,Tilapia,1,Seafood,Tilapia
+2458,153,5,2.0,2020-10-17,Kidney beans,4,Side,Kidney beans
+2459,153,5,1.0,2020-10-17,Arugula,1,Vegetables,Arugula
+2460,153,5,1.0,2020-10-17,Baby spinach,2,Vegetables,Baby spinach
+2461,153,5,1.0,2020-10-17,Garlic,3,Vegetables,Garlic
+2462,153,5,2.0,2020-10-17,Spinach (chopped),1,Vegetables,Spinach 
+2464,149,6,3.0,2020-10-18,BBQ Beef,1,Dish,BBQ Beef
+2465,149,6,3.0,2020-10-18,Buffalo chicken,1,Dish,Buffalo chicken
+2466,149,6,3.0,2020-10-18,Chicken livorno,1,Dish,Chicken livorno
+2467,149,6,3.0,2020-10-18,Herb pork chop,1,Dish,Herb pork chop
+2468,149,6,3.0,2020-10-18,Truffle mushroom steak,1,Dish,Truffle mushroom steak
+2469,149,6,3.0,2020-10-18,Turkey,1,Dish,Turkey
+2470,153,6,1.0,2020-11-01,Cheddar cheese (sharp),1,Dairy,Cheddar cheese 
+2471,153,6,1.0,2020-11-01,"Coffee (beans, dark roast)",1,Drink,Coffee 
+2472,153,6,1.0,2020-11-01,"Coffee (beans, french roast)",1,Drink,Coffee 
+2473,153,6,1.0,2020-11-01,Bananas,3,Fruit,Bananas
+2474,153,6,1.0,2020-11-01,Walnuts,2,Snack,Walnuts
+2475,153,6,1.0,2020-11-01,Baby spinach,1,Vegetables,Baby spinach
+2476,153,6,1.0,2020-11-01,Bell peppers,2,Vegetables,Bell peppers
+2480,152,6,1.0,2020-11-05,Candy,4,Dessert,Candy
+2481,152,6,1.0,2020-11-05,Cookies,1,Dessert,Cookies
+2482,152,6,1.0,2020-11-05,Donut,2,Dessert,Donut
+2483,152,6,1.0,2020-11-05,Pastry dough,1,Dessert,Pastry dough
+2484,152,6,1.0,2020-11-05,Bananas,1,Fruit,Bananas
+2485,152,6,1.0,2020-11-05,Bread (Hawaiian),2,Grain,Bread 
+2487,152,6,1.0,2020-11-05,Salad,2,Salad,Salad
+2490,152,6,1.0,2020-11-05,Mixed vegetables (frozen),1,Vegetable,Mixed vegetables 
+2494,152,6,1.0,2020-11-08,Cereal (cheerios),2,Breakfast,Cereal 
+2495,152,6,1.0,2020-11-08,Cheese (lowfat),1,Dairy,Cheese 
+2496,152,6,1.0,2020-11-08,Flavored milk,2,Dairy,Flavored milk
+2497,152,6,1.0,2020-11-08,Milk (2%),1,Dairy,Milk 
+2498,152,6,1.0,2020-11-08,Orange juice,1,Drink,Orange juice
+2499,152,6,1.0,2020-11-08,Buns,1,Grain,Buns
+2501,152,6,1.0,2020-11-08,Soup (chicken noodle),1,Soup,Soup 
+2502,152,6,1.0,2020-11-08,Soup (pot roast),1,Soup,Soup 
+2503,152,6,1.0,2020-11-08,Soup (vegetable),1,Soup,Soup 
+2508,135,6,1.0,,Egg noodles,1,Asianfood,Egg noodles
+2509,145,3,4.0,,Apple cider vinegar,1,Baking,Apple cider vinegar
+2510,127,5,2.0,,Baking soda,2,Baking,Baking soda
+2511,130,4,2.0,,Baking soda,1,Baking,Baking soda
+2512,148,1,1.0,,Canola oil spray,1,Baking,Canola oil spray
+2513,113,5,2.0,2020-06-12,Coconut oil,1,Baking,Coconut oil
+2514,130,4,2.0,,Dry yeast,1,Baking,Dry yeast
+2515,145,3,4.0,,Olive oil,1,Baking,Olive oil
+2516,135,2,6.0,,Stevia sweetener,1,Baking,Stevia sweetener
+2517,148,6,1.0,,Sugar,1,Baking,Sugar
+2518,130,4,2.0,,Yeast,1,Baking,Yeast
+2519,148,1,1.0,,Yeast,1,Baking,Yeast
+2520,148,1,1.0,,Cereal,2,Breakfast,Cereal
+2521,126,3,1.0,,Cereal (cheerios),1,Breakfast,Cereal 
+2522,135,6,2.0,,Cereal (cheerios),2,Breakfast,Cereal 
+2523,153,1,1.0,,Cereal (maple shredded wheat),1,Breakfast,Cereal 
+2524,153,2,1.0,,Cereal (maple shredded wheat),1,Breakfast,Cereal 
+2525,114,1,3.0,,"Cereal (oats, honey)",1,Breakfast,Cereal 
+2526,118,1,3.0,,"Cereal (strawberry, Special K)",1,Breakfast,Cereal 
+2527,135,1,4.0,,Cheerios,1,Breakfast,Cheerios
+2528,135,2,2.0,,Cheerios,1,Breakfast,Cheerios
+2529,139,1,2.0,,Eggs,1,Breakfast,Eggs
+2530,113,5,2.0,2020-06-12,Eggs,2,Breakfast,Eggs
+2531,113,6,2.0,2020-06-12,Eggs,2,Breakfast,Eggs
+2532,126,3,1.0,,Eggs,1,Breakfast,Eggs
+2533,121,6,1.0,,Eggs,2,Breakfast,Eggs
+2534,114,1,3.0,,Eggs,1,Breakfast,Eggs
+2535,153,1,1.0,,Eggs,1,Breakfast,Eggs
+2536,153,2,1.0,,Eggs,1,Breakfast,Eggs
+2537,153,6,2.0,,Eggs,1,Breakfast,Eggs
+2538,135,4,1.0,,Eggs,1,Breakfast,Eggs
+2539,135,6,1.0,,Eggs,1,Breakfast,Eggs
+2540,148,1,1.0,,Eggs,1,Breakfast,Eggs
+2541,153,1,1.0,,Granola (ginger almond),1,Breakfast,Granola 
+2542,153,2,1.0,,Granola (ginger almond),1,Breakfast,Granola 
+2543,114,1,3.0,,"Granola (vanilla, pecan)",1,Breakfast,Granola 
+2544,153,6,2.0,,Oatmeal,2,Breakfast,Oatmeal
+2569,135,5,1.0,,Caesar salad dressing,1,Condiment,Caesar salad dressing
+2570,135,1,1.0,,Curry cooking sauce,1,Condiment,Curry cooking sauce
+2571,135,6,2.0,,Curry cooking sauce,1,Condiment,Curry cooking sauce
+2572,148,5,1.0,,Flavored syrup,1,Condiment,Flavored syrup
+2573,145,3,4.0,,Hot sauce,1,Condiment,Hot sauce
+2574,135,4,1.0,,Mayo,1,Condiment,Mayo
+2575,135,5,1.0,,Mayo,1,Condiment,Mayo
+2576,135,5,1.0,,Pasta sauce (mushroom),1,Condiment,Pasta sauce 
+2577,135,5,1.0,,Pasta sauce (sausage/pepper),1,Condiment,Pasta sauce 
+2578,148,1,1.0,,Pesto,1,Condiment,Pesto
+2579,139,1,2.0,,Red wine vinegar,1,Condiment,Red wine vinegar
+2580,139,1,2.0,,Salad dressing,2,Condiment,Salad dressing
+2581,135,1,3.0,,Salad dressing,1,Condiment,Salad dressing
+2582,135,6,2.0,,Tartar sauce,1,Condiment,Tartar sauce
+2583,135,4,1.0,,Tomato sauce,1,Condiment,Tomato sauce
+2584,135,5,1.0,,Blue cheese,1,Dairy,Blue cheese
+2585,113,5,2.0,2020-06-12,Butter,1,Dairy,Butter
+2586,113,6,2.0,2020-06-12,Butter,1,Dairy,Butter
+2587,148,1,1.0,,Butter,1,Dairy,Butter
+2588,148,6,1.0,,Butter,1,Dairy,Butter
+2589,113,5,2.0,2020-06-12,Cheddar cheese,2,Dairy,Cheddar cheese
+2590,113,6,2.0,2020-06-12,Cheddar cheese,1,Dairy,Cheddar cheese
+2591,114,1,3.0,,Cheddar cheese,1,Dairy,Cheddar cheese
+2592,135,5,1.0,,Cheddar cheese,1,Dairy,Cheddar cheese
+2593,153,1,1.0,,Cheddar cheese (sharp),1,Dairy,Cheddar cheese 
+2594,153,2,1.0,,Cheddar cheese (sharp),1,Dairy,Cheddar cheese 
+2595,148,1,1.0,,Cheddar cheese (shredded),1,Dairy,Cheddar cheese 
+2596,148,6,1.0,,Cheddar cheese (shredded),1,Dairy,Cheddar cheese 
+2597,139,1,2.0,,Cheese,1,Dairy,Cheese
+2598,121,6,1.0,,Cheese,2,Dairy,Cheese
+2599,135,2,3.0,,Cheese,1,Dairy,Cheese
+2600,135,4,1.0,,Cheese,1,Dairy,Cheese
+2601,135,1,1.0,,Cheese (block),2,Dairy,Cheese 
+2602,135,2,1.0,,Cheese (block),1,Dairy,Cheese 
+2603,121,6,1.0,,Cheese (marbled),1,Dairy,Cheese 
+2604,118,1,3.0,,Cheese (mexican blend),1,Dairy,Cheese 
+2605,148,5,1.0,,Cheese (shredded),1,Dairy,Cheese 
+2606,148,1,1.0,,Cheese (variety pack),1,Dairy,Cheese 
+2607,139,1,2.0,,Coffee creamer,1,Dairy,Coffee creamer
+2608,118,1,3.0,,Colby Jack Cheese,1,Dairy,Colby Jack Cheese
+2609,148,6,1.0,,Condensed milk,1,Dairy,Condensed milk
+2610,135,4,1.0,,Cottage cheese,1,Dairy,Cottage cheese
+2611,139,1,2.0,,Cottage cheese (reduced fat),1,Dairy,Cottage cheese 
+2612,135,2,4.0,,Cream cheese,1,Dairy,Cream cheese
+2613,130,4,2.0,,Evaporated milk,2,Dairy,Evaporated milk
+2614,135,2,3.0,,Feta cheese,1,Dairy,Feta cheese
+2615,135,5,1.0,,Feta cheese,1,Dairy,Feta cheese
+2616,148,6,1.0,,Goat cheese,1,Dairy,Goat cheese
+2617,135,1,4.0,,Gouda cheese,1,Dairy,Gouda cheese
+2618,148,1,1.0,,Gouda cheese,1,Dairy,Gouda cheese
+2619,135,5,1.0,,Gouda cheese (sliced),1,Dairy,Gouda cheese 
+2620,135,6,1.0,,Gouda cheese (sliced),1,Dairy,Gouda cheese 
+2621,135,6,1.0,,Gouda cheese (with bacon),1,Dairy,Gouda cheese 
+2622,139,1,2.0,,Greek yogurt,3,Dairy,Greek yogurt
+2623,135,1,1.0,,Half and half,1,Dairy,Half and half
+2624,135,2,6.0,,Half and half,1,Dairy,Half and half
+2625,135,5,1.0,,Half and half,1,Dairy,Half and half
+2626,148,1,1.0,,Half and half,2,Dairy,Half and half
+2627,148,1,1.0,,Half and half,2,Dairy,Half and half
+2628,148,6,1.0,,Half and half,1,Dairy,Half and half
+2629,135,5,1.0,,Harvarti cheese (sliced),1,Dairy,Harvarti cheese 
+2630,135,6,1.0,,Havarti cheese,1,Dairy,Havarti cheese
+2631,113,6,2.0,2020-06-12,Heavy cream,1,Dairy,Heavy cream
+2632,121,6,1.0,,Heavy cream,1,Dairy,Heavy cream
+2633,113,5,2.0,2020-06-12,Heavy whipping cream,1,Dairy,Heavy whipping cream
+2634,139,1,2.0,,Lactose-free milk (low fat),1,Dairy,Lactose-free milk 
+2635,135,6,1.0,,Manchego cheese,1,Dairy,Manchego cheese
+2636,135,5,1.0,,Milk,1,Dairy,Milk
+2637,153,1,1.0,,"Milk (1%, 1/2 gallon)",1,Dairy,Milk 
+2638,153,2,1.0,,"Milk (1%, 1/2 gallon)",1,Dairy,Milk 
+2639,153,1,1.0,,"Milk (1%, gallon)",1,Dairy,Milk 
+2640,153,2,1.0,,"Milk (1%, gallon)",1,Dairy,Milk 
+2641,126,3,1.0,,Milk (1%),1,Dairy,Milk 
+2642,130,4,2.0,,"Milk (2%, lactose free)",1,Dairy,Milk 
+2643,148,1,1.0,,Milk (2%),1,Dairy,Milk 
+2644,148,6,1.0,,Milk (2%),1,Dairy,Milk 
+2645,114,1,3.0,,Milk (fat free),1,Dairy,Milk 
+2646,153,6,2.0,,Milk (gallon),2,Dairy,Milk 
+2647,153,6,2.0,,Milk (half gallon),1,Dairy,Milk 
+2648,148,1,1.0,,Milk (reduced fat),1,Dairy,Milk 
+2649,148,5,1.0,,Milk (reduced fat),1,Dairy,Milk 
+2650,113,6,2.0,2020-06-12,Milk (whole),2,Dairy,Milk 
+2651,135,6,1.0,,Monterey Jack jalapeno cheese,1,Dairy,Monterey Jack jalapeno cheese
+2652,148,6,1.0,,Mozzarella cheese (shredded),1,Dairy,Mozzarella cheese 
+2653,135,1,1.0,,Parmesan cheese (shredded),1,Dairy,Parmesan cheese 
+2654,135,5,1.0,,Parmesan cheese (shredded),2,Dairy,Parmesan cheese 
+2655,135,2,1.0,,Ricotta cheese,1,Dairy,Ricotta cheese
+2656,135,5,1.0,,Sour cream,1,Dairy,Sour cream
+2657,148,1,1.0,,Sour cream,2,Dairy,Sour cream
+2658,148,6,1.0,,Sour cream,1,Dairy,Sour cream
+2659,135,5,1.0,,Vanilla yogurt,1,Dairy,Vanilla yogurt
+2660,130,4,2.0,,Whipped topping,1,Dairy,Whipped topping
+2661,145,3,4.0,,White cheddar cheese,1,Dairy,White cheddar cheese
+2662,121,6,1.0,,Yogurt,1,Dairy,Yogurt
+2663,148,1,1.0,,Yogurt,10,Dairy,Yogurt
+2664,148,5,1.0,,Yogurt,8,Dairy,Yogurt
+2665,145,3,3.0,,Yogurt (blueberry),3,Dairy,Yogurt 
+2666,145,3,4.0,,Yogurt (blueberry),2,Dairy,Yogurt 
+2667,153,1,1.0,,Yogurt (low fat),1,Dairy,Yogurt 
+2668,153,2,1.0,,Yogurt (low fat),1,Dairy,Yogurt 
+2669,145,3,4.0,,Yogurt (nonfat),2,Dairy,Yogurt 
+2670,145,3,4.0,,Yogurt (plain),2,Dairy,Yogurt 
+2671,139,1,2.0,,Yogurt (strawberry),1,Dairy,Yogurt 
+2672,126,3,1.0,,Yogurt (vanilla),3,Dairy,Yogurt 
+2673,130,4,2.0,,Apple fritter,1,Dessert,Apple fritter
+2674,148,5,1.0,,Candy (mentos),1,Dessert,Candy 
+2675,135,2,6.0,,Caramels,1,Dessert,Caramels
+2676,148,6,1.0,,Chocolate,1,Dessert,Chocolate
+2677,145,3,3.0,,Dark chocolate,2,Dessert,Dark chocolate
+2678,145,4,2.0,,Dark chocolate,1,Dessert,Dark chocolate
+2679,127,5,4.0,,Greek yogurt frozen bars (butter pecan),1,Dessert,Greek yogurt frozen bars 
+2680,127,5,4.0,,Greek yogurt frozen bars (peanut butter),1,Dessert,Greek yogurt frozen bars 
+2681,121,6,1.0,,Ice cream,1,Dessert,Ice cream
+2682,130,4,2.0,,Ice cream,1,Dessert,Ice cream
+2683,148,1,1.0,,Ice cream,5,Dessert,Ice cream
+2684,148,5,1.0,,Ice cream,2,Dessert,Ice cream
+2685,114,1,3.0,,Ice cream (almond fudge),1,Dessert,Ice cream 
+2686,118,1,3.0,,Ice cream (butter pecan),1,Dessert,Ice cream 
+2687,153,1,1.0,,Ice cream (caramel),1,Dessert,Ice cream 
+2688,153,2,1.0,,Ice cream (caramel),1,Dessert,Ice cream 
+2689,127,5,4.0,,Ice cream (caramel),1,Dessert,Ice cream 
+2690,127,5,4.0,,Ice cream (chocolate),1,Dessert,Ice cream 
+2691,148,1,1.0,,Ice cream (sea salt caramel),5,Dessert,Ice cream 
+2692,148,5,1.0,,Ice cream (sea salt caramel),6,Dessert,Ice cream 
+2693,148,5,1.0,,Ice cream topping,1,Dessert,Ice cream topping
+2694,127,5,2.0,,Marshmallows,2,Dessert,Marshmallows
+2695,130,4,2.0,,Milano cookies,1,Dessert,Milano cookies
+2696,148,1,1.0,,Pie crust,1,Dessert,Pie crust
+2697,118,1,3.0,,Popsicles,1,Dessert,Popsicles
+2698,118,1,3.0,,Shortcake,1,Dessert,Shortcake
+2699,121,6,1.0,,Tiramisu,1,Dessert,Tiramisu
+2700,145,3,4.0,,Guacamole,1,Dip,Guacamole
+2701,135,1,4.0,,Guacamole,1,Dip,Guacamole
+2702,135,2,7.0,,Guacamole,1,Dip,Guacamole
+2703,135,5,1.0,,Guacamole,1,Dip,Guacamole
+2704,135,2,1.0,,Hummus,2,Dip,Hummus
+2705,135,5,1.0,,"Hummus (artichoke, spinach)",1,Dip,Hummus 
+2706,135,5,1.0,,Hummus (jalapeno),1,Dip,Hummus 
+2707,148,5,1.0,,Salsa,3,Dip,Salsa
+2708,121,6,1.0,,Tex Mex dip,1,Dip,Tex Mex dip
+2709,145,3,3.0,,Tzatziki dip,1,Dip,Tzatziki dip
+2710,126,3,1.0,,Chicken Parmesan,4,Dish,Chicken Parmesan
+2711,148,5,1.0,,Frozen meal,4,Dish,Frozen meal
+2712,130,4,2.0,,Julienne potatoes,1,Dish,Julienne potatoes
+2713,148,1,1.0,,Macaroni and cheese,1,Dish,Macaroni and cheese
+2714,135,1,1.0,,Macaroni and cheese cups,2,Dish,Macaroni and cheese cups
+2715,126,3,1.0,,Macaroni and Cheese with Broccoli,8,Dish,Macaroni and Cheese with Broccoli
+2716,135,1,1.0,,Mashed potato,1,Dish,Mashed potato
+2717,135,2,3.0,,Mashed potato,1,Dish,Mashed potato
+2718,148,1,1.0,,Pizza (frozen),1,Dish,Pizza 
+2719,148,6,1.0,,Pizza (frozen),1,Dish,Pizza 
+2720,135,5,1.0,,Potato salad,1,Dish,Potato salad
+2722,121,6,1.0,,Almond milk,1,Drink,Almond milk
+2723,135,1,1.0,,Almond milk,1,Drink,Almond milk
+2724,135,2,3.0,,Almond milk,1,Drink,Almond milk
+2725,135,1,1.0,,Coconut milk,1,Drink,Coconut milk
+2726,135,2,8.0,,Coconut milk,1,Drink,Coconut milk
+2727,148,6,1.0,,Coffee (beans),1,Drink,Coffee 
+2728,135,1,1.0,,Coffee (cups?),2,Drink,Coffee 
+2729,118,1,3.0,,Coffee drink,1,Drink,Coffee drink
+2730,148,4,1.0,,Dry ice,1,Drink,Dry ice
+2731,148,1,1.0,,Fruit juice concentrate,4,Drink,Fruit juice concentrate
+2732,135,1,2.0,,Gatorade,2,Drink,Gatorade
+2733,135,2,6.0,,Gatorade,2,Drink,Gatorade
+2734,153,6,2.0,,Gin,1,Drink,Gin
+2735,135,1,3.0,,Ginger ale,1,Drink,Ginger ale
+2736,135,4,1.0,,Ice,1,Drink,Ice
+2737,148,4,1.0,,Ice,1,Drink,Ice
+2738,148,4,1.0,,Ice,1,Drink,Ice
+2739,148,6,1.0,,Ice,1,Drink,Ice
+2740,148,1,1.0,,Kombucha,5,Drink,Kombucha
+2741,148,5,1.0,,Kombucha,4,Drink,Kombucha
+2742,148,6,1.0,,Kombucha,1,Drink,Kombucha
+2743,148,5,1.0,,Lemonade mix,3,Drink,Lemonade mix
+2744,135,1,1.0,,Orange juice,1,Drink,Orange juice
+2745,135,1,3.0,,Orange juice,1,Drink,Orange juice
+2746,135,2,1.0,,Orange juice,1,Drink,Orange juice
+2747,135,2,4.0,,Orange juice,1,Drink,Orange juice
+2748,135,6,1.0,,Orange juice,1,Drink,Orange juice
+2749,148,1,1.0,,Orange juice,1,Drink,Orange juice
+2750,148,5,1.0,,Orange juice,2,Drink,Orange juice
+2751,148,1,1.0,,Pomegranate juice,1,Drink,Pomegranate juice
+2752,148,6,1.0,,Pomegranate juice,1,Drink,Pomegranate juice
+2754,114,1,3.0,,"Soda (cola, diet)",4,Drink,Soda 
+2755,139,1,2.0,,"Soda (ginger ale, diet)",1,Drink,Soda 
+2756,118,1,3.0,,"Soda (lemon-lime, diet)",1,Drink,Soda 
+2757,153,6,2.0,,Sparking water (lime),1,Drink,Sparking water 
+2758,153,6,2.0,,Sparkling water,1,Drink,Sparkling water
+2759,153,1,1.0,,Sparkling water (lemon),1,Drink,Sparkling water 
+2760,153,2,1.0,,Sparkling water (lemon),1,Drink,Sparkling water 
+2761,127,5,2.0,,Sparkling water (lime),1,Drink,Sparkling water 
+2762,153,1,1.0,,Sparkling water (orange),1,Drink,Sparkling water 
+2763,153,2,1.0,,Sparkling water (orange),1,Drink,Sparkling water 
+2764,139,1,2.0,,Tomato juice,1,Drink,Tomato juice
+2765,135,5,1.0,,Tomato juice,1,Drink,Tomato juice
+2766,135,6,2.0,,Tomato juice,1,Drink,Tomato juice
+2767,145,3,3.0,,Unsweetened vanilla plant milk?,1,Drink,Unsweetened vanilla plant milk?
+2768,145,3,3.0,,Vegetable juice (low sodium),1,Drink,Vegetable juice 
+2769,145,4,2.0,,Wine (cabernet),1,Drink,Wine 
+2770,145,4,2.0,,Wine (merlot),1,Drink,Wine 
+2771,145,4,2.0,,Wine (shiraz),1,Drink,Wine 
+2772,148,6,1.0,,Stroopwafel,1,Europeanfood,Stroopwafel
+2773,118,1,3.0,,Chicken tenders,1,Fastfood,Chicken tenders
+2774,118,1,3.0,,Slider,1,Fastfood,Slider
+2776,153,6,2.0,,Apple (fuji),1,Fruit,Apple 
+2777,153,6,2.0,,Apple (jazz),1,Fruit,Apple 
+2778,118,1,3.0,,Avocado,2,Fruit,Avocado
+2779,139,1,2.0,,Bananas,1,Fruit,Bananas
+2780,145,3,3.0,,Bananas,1,Fruit,Bananas
+2781,145,4,2.0,,Bananas,1,Fruit,Bananas
+2782,126,3,1.0,,Bananas,1,Fruit,Bananas
+2783,114,1,3.0,,Bananas,1,Fruit,Bananas
+2784,135,1,2.0,,Bananas,1,Fruit,Bananas
+2785,135,2,2.0,,Bananas,1,Fruit,Bananas
+2786,135,4,1.0,,Bananas,1,Fruit,Bananas
+2787,148,1,1.0,,Bananas,1,Fruit,Bananas
+2788,148,1,1.0,,Bananas,1,Fruit,Bananas
+2789,148,5,1.0,,Bananas,1,Fruit,Bananas
+2790,148,6,1.0,,Bananas,1,Fruit,Bananas
+2791,121,6,1.0,,Berry medley (frozen),1,Fruit,Berry medley 
+2792,135,5,1.0,,Blackberries,1,Fruit,Blackberries
+2793,135,6,1.0,,Blackberries,1,Fruit,Blackberries
+2794,145,3,3.0,,Blueberries,1,Fruit,Blueberries
+2795,145,3,4.0,,Blueberries,1,Fruit,Blueberries
+2796,153,1,1.0,,Blueberries,1,Fruit,Blueberries
+2797,153,2,1.0,,Blueberries,1,Fruit,Blueberries
+2798,135,4,1.0,,Clementines,1,Fruit,Clementines
+2799,130,4,2.0,,Corn,1,Fruit,Corn
+2800,148,6,1.0,,Cranberries,1,Fruit,Cranberries
+2801,121,6,1.0,,Fruit blend (frozen),1,Fruit,Fruit blend 
+2802,135,5,1.0,,Fruit blend (frozen),1,Fruit,Fruit blend 
+2803,135,6,1.0,,Grapes (red),1,Fruit,Grapes 
+2804,135,6,1.0,,Grapes (white),1,Fruit,Grapes 
+2805,118,1,3.0,,Kiwi,2,Fruit,Kiwi
+2806,153,6,2.0,,Mandarin oranges,1,Fruit,Mandarin oranges
+2807,135,2,2.0,,Mangoes,1,Fruit,Mangoes
+2808,139,1,2.0,,Nectarines,1,Fruit,Nectarines
+2809,126,3,1.0,,Nectarines,1,Fruit,Nectarines
+2810,135,1,1.0,,Olives,1,Fruit,Olives
+2811,135,5,1.0,,Olives,1,Fruit,Olives
+2812,148,1,1.0,,Olives,1,Fruit,Olives
+2813,145,3,4.0,,Olives (black),1,Fruit,Olives 
+2814,145,3,3.0,,Olives (sliced),1,Fruit,Olives 
+2815,139,1,2.0,,Peaches,1,Fruit,Peaches
+2816,135,2,7.0,,Pears,3,Fruit,Pears
+2817,135,5,1.0,,Pineapple (canned),1,Fruit,Pineapple 
+2818,135,6,2.0,,Pineapple (canned),1,Fruit,Pineapple 
+2819,145,3,4.0,,Raisins,1,Fruit,Raisins
+2820,118,1,3.0,,Raspberries,1,Fruit,Raspberries
+2821,148,1,1.0,,Raspberries,1,Fruit,Raspberries
+2822,153,1,1.0,,Strawberries,1,Fruit,Strawberries
+2823,153,2,1.0,,Strawberries,1,Fruit,Strawberries
+2824,148,5,1.0,,Tomato,1,Fruit,Tomato
+2825,153,1,1.0,,Tomatoes,2,Fruit,Tomatoes
+2826,153,2,1.0,,Tomatoes,2,Fruit,Tomatoes
+2827,139,1,2.0,,Tomatoes (diced),3,Fruit,Tomatoes 
+2828,153,1,1.0,,Tomatoes (diced),1,Fruit,Tomatoes 
+2829,153,2,1.0,,Tomatoes (diced),1,Fruit,Tomatoes 
+2830,145,3,3.0,,Tomatoes (plum),1,Fruit,Tomatoes 
+2831,145,3,4.0,,Tomatoes (plum),1,Fruit,Tomatoes 
+2832,135,4,1.0,,Watermelon,1,Fruit,Watermelon
+2833,135,2,6.0,,Basmati rice,1,Grain,Basmati rice
+2834,148,5,1.0,,Biscuit dough,2,Grain,Biscuit dough
+2835,135,1,2.0,,Bread (12 grain),2,Grain,Bread 
+2836,153,6,2.0,,Bread (multigrain sourdough),1,Grain,Bread 
+2837,135,5,1.0,,Bread (multigrain),2,Grain,Bread 
+2838,114,1,3.0,,Bread (walnut multigrain),1,Grain,Bread 
+2839,153,6,2.0,,Bread (wheat sourdough),1,Grain,Bread 
+2840,139,1,2.0,,Brown rice,1,Grain,Brown rice
+2841,148,5,1.0,,Cinnamon roll dough,2,Grain,Cinnamon roll dough
+2842,114,1,3.0,,Croissants,1,Grain,Croissants
+2843,139,1,2.0,,Croutons,1,Grain,Croutons
+2844,135,5,1.0,,Croutons,2,Grain,Croutons
+2845,135,6,1.0,,Croutons,2,Grain,Croutons
+2846,135,2,2.0,,English muffin,1,Grain,English muffin
+2847,135,2,4.0,,English muffin,1,Grain,English muffin
+2848,135,2,7.0,,English muffins,1,Grain,English muffins
+2849,135,1,3.0,,Garlic toast,1,Grain,Garlic toast
+2850,148,1,1.0,,Hamburger buns,1,Grain,Hamburger buns
+2851,148,5,1.0,,Hamburger buns,1,Grain,Hamburger buns
+2852,148,1,1.0,,Hot dog buns,1,Grain,Hot dog buns
+2853,148,5,1.0,,Hotdog,1,Grain,Hotdog
+2854,148,5,1.0,,Hotdog buns,1,Grain,Hotdog buns
+2855,135,5,1.0,,Jasmine rice,1,Grain,Jasmine rice
+2856,153,1,1.0,,Jasmine rice (brown),1,Grain,Jasmine rice 
+2857,153,2,1.0,,Jasmine rice (brown),1,Grain,Jasmine rice 
+2858,135,2,4.0,,Oat bread,1,Grain,Oat bread
+2859,118,1,3.0,,Oats,1,Grain,Oats
+2860,145,3,3.0,,Oats (steel cut),1,Grain,Oats 
+2861,139,1,2.0,,Pasta,1,Grain,Pasta
+2862,135,5,1.0,,Pizza crust,1,Grain,Pizza crust
+2863,135,6,1.0,,Pizza crust,1,Grain,Pizza crust
+2864,135,2,6.0,,Quiona ,1,Grain,Quiona 
+2865,145,4,2.0,,Sourdough bread,2,Grain,Sourdough bread
+2866,145,3,3.0,,Wheat bran?,1,Grain,Wheat bran?
+2867,135,2,6.0,,Whole grain rice,1,Grain,Whole grain rice
+2868,113,5,2.0,2020-06-12,Bacon,1,Meat,Bacon
+2869,121,6,1.0,,Bacon,1,Meat,Bacon
+2870,135,1,1.0,,Bacon,1,Meat,Bacon
+2871,135,4,1.0,,Bacon,1,Meat,Bacon
+2872,135,5,1.0,,Bacon,1,Meat,Bacon
+2873,135,1,3.0,,Bacon pieces,1,Meat,Bacon pieces
+2874,135,2,7.0,,Bacon pieces,1,Meat,Bacon pieces
+2875,135,5,1.0,,Bacon pieces,2,Meat,Bacon pieces
+2876,148,6,1.0,,Beef patties,1,Meat,Beef patties
+2877,113,6,2.0,2020-06-12,Beef patties?,1,Meat,Beef patties?
+2878,135,1,2.0,,Chicken breasts,2,Meat,Chicken breasts
+2879,135,1,4.0,,Chicken breasts,1,Meat,Chicken breasts
+2880,148,5,1.0,,Chicken strips (frozen),1,Meat,Chicken strips 
+2881,135,2,5.0,,Crab meat,5,Meat,Crab meat
+2882,113,5,2.0,2020-06-12,Ground beef,1,Meat,Ground beef
+2883,126,3,1.0,,Ground beef,1,Meat,Ground beef
+2884,153,6,2.0,,Ground beef,3,Meat,Ground beef
+2885,135,1,2.0,,Ground beef,1,Meat,Ground beef
+2886,148,1,1.0,,Hot dog,1,Meat,Hot dog
+2887,113,5,2.0,2020-06-12,Pepperoni stick,2,Meat,Pepperoni stick
+2888,113,6,2.0,2020-06-12,Pepperoni stick,2,Meat,Pepperoni stick
+2889,135,5,1.0,,Pork,1,Meat,Pork
+2890,135,1,3.0,,Sausage,1,Meat,Sausage
+2891,135,2,4.0,,Sausage,1,Meat,Sausage
+2892,135,4,1.0,,Sausage,1,Meat,Sausage
+2893,135,5,1.0,,Sausage,1,Meat,Sausage
+2894,135,5,1.0,,Sausage,2,Meat,Sausage
+2895,113,5,2.0,2020-06-12,Sausage (kielbasa),1,Meat,Sausage 
+2896,135,2,4.0,,Sausage roll,1,Meat,Sausage roll
+2897,153,1,1.0,,Tilapia,1,Meat,Tilapia
+2910,118,1,3.0,,Pasta (shells),1,Pasta,Pasta 
+2915,148,6,1.0,,Caesar salad,1,Salad,Caesar salad
+2916,114,1,3.0,,Cobb salad,1,Salad,Cobb salad
+2917,135,6,1.0,,Salad,2,Salad,Salad
+2918,148,1,1.0,,Salad,1,Salad,Salad
+2919,145,3,3.0,,Salad greens blend,1,Salad,Salad greens blend
+2920,145,3,4.0,,Salad greens blend,1,Salad,Salad greens blend
+2921,153,6,2.0,,Salad mix,2,Salad,Salad mix
+2922,130,4,2.0,,Haddock fillets,1,Seafood,Haddock fillets
+2923,135,5,1.0,,Surimi (fake crab),1,Seafood,Surimi 
+2924,153,2,1.0,,Tilapia,1,Seafood,Tilapia
+2925,135,5,1.0,,Capers,1,Seasoning,Capers
+2926,135,1,3.0,,Ginger,1,Seasoning,Ginger
+2927,148,1,1.0,,Ginger,1,Seasoning,Ginger
+2928,135,2,5.0,,Rosemary sea salt,1,Seasoning,Rosemary sea salt
+2929,153,1,1.0,,Black beans,1,Side,Black beans
+2930,153,2,1.0,,Black beans,1,Side,Black beans
+2931,135,2,7.0,,Cranberry sauce,1,Side,Cranberry sauce
+2932,130,4,2.0,,Kidney beans,1,Side,Kidney beans
+2933,148,6,1.0,,Aussie bites,1,Snack,Aussie bites
+2934,121,6,1.0,,Cashews,2,Snack,Cashews
+2935,148,1,1.0,,Cashews,1,Snack,Cashews
+2936,148,1,1.0,,Cheez-it,2,Snack,Cheez-it
+2937,135,1,2.0,,Crackers,1,Snack,Crackers
+2938,135,2,1.0,,Crackers,1,Snack,Crackers
+2939,135,5,1.0,,Crackers,2,Snack,Crackers
+2940,135,6,2.0,,Crackers,1,Snack,Crackers
+2941,126,3,1.0,,Crackers (avocado cilantro lime),1,Snack,Crackers 
+2942,145,4,2.0,,Crackers (everything),1,Snack,Crackers 
+2943,126,3,1.0,,Crackers (garden herb),1,Snack,Crackers 
+2944,126,3,1.0,,Crackers (salt and olive),1,Snack,Crackers 
+2945,127,5,2.0,,Graham crackers,1,Snack,Graham crackers
+2946,145,4,2.0,,Granola bars (chocolate chip),1,Snack,Granola bars 
+2947,145,4,2.0,,"Granola bars (dark chocolate, raisin)",1,Snack,Granola bars 
+2948,118,1,3.0,,Jello,2,Snack,Jello
+2949,135,6,2.0,,Pecan pralines,1,Snack,Pecan pralines
+2950,135,5,1.0,,Pecans,1,Snack,Pecans
+2951,135,5,1.0,,Pita chips,1,Snack,Pita chips
+2952,135,1,3.0,,Potato chips,1,Snack,Potato chips
+2953,135,2,6.0,,Potato chips,2,Snack,Potato chips
+2954,135,4,1.0,,Potato chips,1,Snack,Potato chips
+2955,135,5,1.0,,Potato chips (cheddar),1,Snack,Potato chips 
+2956,135,1,3.0,,Potato chips (jalapeno),1,Snack,Potato chips 
+2957,135,5,1.0,,Potato chips (jalapeno),1,Snack,Potato chips 
+2958,135,6,2.0,,Potato chips (jalapeno),1,Snack,Potato chips 
+2959,135,6,2.0,,Potato chips (sweet bbq),1,Snack,Potato chips 
+2960,145,3,4.0,,Sunflower seeds?,1,Snack,Sunflower seeds?
+2961,135,6,1.0,,Tortillas,1,Snack,Tortillas
+2962,153,1,1.0,,Walnuts,1,Snack,Walnuts
+2963,153,2,1.0,,Walnuts,1,Snack,Walnuts
+2964,135,5,1.0,,Walnuts,1,Snack,Walnuts
+2965,130,4,2.0,,Barley soup,1,Soup,Barley soup
+2966,135,2,7.0,,Broth,1,Soup,Broth
+2967,148,1,1.0,,Soup,2,Soup,Soup
+2968,135,2,3.0,,Soup (canned),3,Soup,Soup 
+2969,130,4,2.0,,Tomato soup,2,Soup,Tomato soup
+2970,135,2,6.0,,Tomato soup,4,Soup,Tomato soup
+2972,135,1,2.0,,Soft tortillas,1,Spanishfood,Soft tortillas
+2973,148,1,1.0,,Tortilla,1,Spanishfood,Tortilla
+2974,135,5,1.0,,Tortilla chips,1,Spanishfood,Tortilla chips
+2975,153,1,1.0,,Tortilla chips (nacho cheese),1,Spanishfood,Tortilla chips 
+2976,153,2,1.0,,Tortilla chips (nacho cheese),1,Spanishfood,Tortilla chips 
+2977,135,5,1.0,,Whole wheat tortilla,1,Spanishfood,Whole wheat tortilla
+2978,135,6,2.0,,Cherry preserves,1,Spread,Cherry preserves
+2979,153,1,1.0,,Margarine,1,Spread,Margarine
+2980,153,2,1.0,,Margarine,1,Spread,Margarine
+2981,153,6,2.0,,Margarine,1,Spread,Margarine
+2982,148,1,1.0,,Mayonnaise,1,Spread,Mayonnaise
+2983,135,5,1.0,,Peach preserves,1,Spread,Peach preserves
+2984,135,6,2.0,,Peach preserves,1,Spread,Peach preserves
+2985,135,6,2.0,,Peanut butter,1,Spread,Peanut butter
+2986,153,6,2.0,,Preserves (strawberry),1,Spread,Preserves 
+2999,113,6,2.0,2020-06-12,Asparagus (frozen),1,Vegetable,Asparagus 
+3001,145,3,4.0,,Black beans,2,Vegetable,Black beans
+3002,126,3,1.0,,Broccoli,1,Vegetable,Broccoli
+3003,145,3,3.0,,Broccoli slaw,1,Vegetable,Broccoli slaw
+3004,113,6,2.0,2020-06-12,Brussel sprouts,1,Vegetable,Brussel sprouts
+3005,139,1,2.0,,Carrots,1,Vegetable,Carrots
+3006,145,3,4.0,,Carrots (sliced),2,Vegetable,Carrots 
+3007,121,6,1.0,,Cauliflower rice,1,Vegetable,Cauliflower rice
+3008,139,1,2.0,,Celery,1,Vegetable,Celery
+3009,145,3,4.0,,Corn (canned),2,Vegetable,Corn 
+3010,145,3,3.0,,Corn (frozen),1,Vegetable,Corn 
+3011,139,1,2.0,,Garlic,1,Vegetable,Garlic
+3012,145,3,3.0,,Green peppers,1,Vegetable,Green peppers
+3013,145,3,4.0,,Green peppers,1,Vegetable,Green peppers
+3014,121,6,1.0,,Iceberg lettuce,1,Vegetable,Iceberg lettuce
+3015,139,1,2.0,,Lettuce,2,Vegetable,Lettuce
+3017,145,3,3.0,,Olives (stuffed),1,Vegetable,Olives 
+3018,126,3,1.0,,Onion (sweet),1,Vegetable,Onion 
+3019,145,3,3.0,,Onions,1,Vegetable,Onions
+3020,145,3,4.0,,Peas (frozen),2,Vegetable,Peas 
+3021,121,6,1.0,,Pepper,1,Vegetable,Pepper
+3022,126,3,1.0,,Peppers (mixed),1,Vegetable,Peppers 
+3023,139,1,2.0,,Red onions,1,Vegetable,Red onions
+3024,113,6,2.0,2020-06-12,Vegetable medley,1,Vegetable,Vegetable medley
+3025,135,1,3.0,,Baby spring mix,1,Vegetables,Baby spring mix
+3026,148,5,1.0,,Bell peppers,1,Vegetables,Bell peppers
+3027,135,1,3.0,,Bell peppers (red),1,Vegetables,Bell peppers 
+3028,135,1,3.0,,Bell peppers (yellow),1,Vegetables,Bell peppers 
+3029,153,1,1.0,,Broccoli,1,Vegetables,Broccoli
+3030,153,2,1.0,,Broccoli,1,Vegetables,Broccoli
+3031,148,5,1.0,,Broccoli,1,Vegetables,Broccoli
+3032,153,1,1.0,,Brussel sprouts,1,Vegetables,Brussel sprouts
+3033,153,2,1.0,,Brussel sprouts,1,Vegetables,Brussel sprouts
+3034,135,5,1.0,,Brussel sprouts (frozen),1,Vegetables,Brussel sprouts 
+3035,148,1,1.0,,Carrot,1,Vegetables,Carrot
+3036,148,1,1.0,,Carrots,1,Vegetables,Carrots
+3037,148,1,1.0,,Cucumber,1,Vegetables,Cucumber
+3038,135,2,7.0,,Cucumbers,1,Vegetables,Cucumbers
+3039,153,1,1.0,,Eggplant,2,Vegetables,Eggplant
+3040,153,2,1.0,,Eggplant,2,Vegetables,Eggplant
+3041,148,6,1.0,,Garlic,1,Vegetables,Garlic
+3042,153,1,1.0,,Green beans,1,Vegetables,Green beans
+3043,153,2,1.0,,Green beans,1,Vegetables,Green beans
+3044,130,4,2.0,,Green beans,1,Vegetables,Green beans
+3045,148,1,1.0,,Green beans,1,Vegetables,Green beans
+3046,148,1,1.0,,Green beans,12,Vegetables,Green beans
+3047,148,5,1.0,,Green beans,12,Vegetables,Green beans
+3048,148,6,1.0,,Green beans,1,Vegetables,Green beans
+3049,135,2,4.0,,Green onions,1,Vegetables,Green onions
+3050,135,4,1.0,,Green onions,2,Vegetables,Green onions
+3051,135,1,2.0,,Greens blend,1,Vegetables,Greens blend
+3052,135,2,1.0,,Greens blend,1,Vegetables,Greens blend
+3053,135,4,1.0,,Iceberg lettuce,1,Vegetables,Iceberg lettuce
+3054,135,1,2.0,,Lettuce,1,Vegetables,Lettuce
+3055,148,5,1.0,,Lettuce,1,Vegetables,Lettuce
+3056,135,2,8.0,,Mushrooms,1,Vegetables,Mushrooms
+3057,148,1,1.0,,Mushrooms,1,Vegetables,Mushrooms
+3058,148,5,1.0,,Mushrooms,1,Vegetables,Mushrooms
+3059,135,2,2.0,,Onions,1,Vegetables,Onions
+3060,135,5,1.0,,Onions,1,Vegetables,Onions
+3061,153,6,2.0,,Onions (yellow),1,Vegetables,Onions 
+3062,135,5,1.0,,Peppers,1,Vegetables,Peppers
+3063,135,5,1.0,,Peppers (mezetta),1,Vegetables,Peppers 
+3064,135,5,1.0,,Pickle bites,1,Vegetables,Pickle bites
+3065,135,1,1.0,,Pickles,1,Vegetables,Pickles
+3066,135,5,1.0,,Pickles,1,Vegetables,Pickles
+3067,153,6,2.0,,Potato,3,Vegetables,Potato
+3068,148,1,1.0,,Potato,1,Vegetables,Potato
+3069,148,5,1.0,,Potato,1,Vegetables,Potato
+3070,135,2,2.0,,Potatoes,1,Vegetables,Potatoes
+3071,135,5,1.0,,Potatoes,1,Vegetables,Potatoes
+3072,135,2,2.0,,Potatoes (red),1,Vegetables,Potatoes 
+3073,135,5,1.0,,Red onions,1,Vegetables,Red onions
+3074,135,1,3.0,,Romaine hearts,1,Vegetables,Romaine hearts
+3075,135,2,3.0,,Romaine hearts,1,Vegetables,Romaine hearts
+3076,135,5,1.0,,Romaine hearts,2,Vegetables,Romaine hearts
+3077,135,6,1.0,,Romaine hearts,1,Vegetables,Romaine hearts
+3078,135,5,1.0,,Spinach,1,Vegetables,Spinach
+3079,153,6,2.0,,Spinach (chopped),2,Vegetables,Spinach 
+3080,153,6,2.0,,Sweet potato,1,Vegetables,Sweet potato
+3081,135,6,1.0,,Tomato,1,Vegetables,Tomato
+3082,135,1,3.0,,Tomatoes,1,Vegetables,Tomatoes
+3083,135,2,1.0,,Tomatoes,1,Vegetables,Tomatoes
+3084,135,5,1.0,,Tomatoes,1,Vegetables,Tomatoes
+3085,130,4,2.0,,Tomatoes (canned),2,Vegetables,Tomatoes 
+3086,135,2,2.0,,Tomatoes (cherub),1,Vegetables,Tomatoes 
+3087,135,2,2.0,,Tomatoes (roma),1,Vegetables,Tomatoes 
+3088,135,2,1.0,,Vegetables (frozen),1,Vegetables,Vegetables 
+3089,135,5,1.0,,Vegetables (frozen),1,Vegetables,Vegetables 
+3090,135,5,1.0,,Vegetables (frozen),1,Vegetables,Vegetables 
+3091,135,5,1.0,,Yellow squash,1,Vegetables,Yellow squash
+3092,135,5,1.0,,Zucchini squash,1,Vegetables,Zucchini squash
+3108,152,1,1.0,,Cereal,1,Breakfast,Cereal
+3109,152,1,1.0,,Cereal,1,Breakfast,Cereal
+3110,152,1,1.0,,Eggs,1,Breakfast,Eggs
+3114,152,1,1.0,,Syrup,1,Condiment,Syrup
+3115,152,1,1.0,,Milk?,1,Dairy,Milk?
+3116,152,1,1.0,,Pie crust,1,Dessert,Pie crust
+3117,152,1,1.0,,Twizzlers,2,Dessert,Twizzlers
+3118,152,1,1.0,,Flavored milk,1,Drink,Flavored milk
+3119,152,1,1.0,,French vanilla coffee?,1,Drink,French vanilla coffee?
+3120,152,1,1.0,,Bagels,1,Grain,Bagels
+3121,152,1,1.0,,Crescent rolls,1,Grain,Crescent rolls
+3122,152,1,1.0,,Chicken breast?,1,Meat,Chicken breast?
+3123,152,1,1.0,,Chicken tenders,1,Meat,Chicken tenders
+3124,152,1,1.0,,Brown gravy,2,Side,Brown gravy
+3125,152,1,1.0,,Gravy,1,Side,Gravy
+3126,152,1,1.0,,Snack pack ??,1,Snack,Snack pack ??
