@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 scratch_pad.txt
+Data/
 
 # C extensions
 *.so
