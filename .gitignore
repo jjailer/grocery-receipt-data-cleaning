@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+jjc_scratch_pad.txt
+
 # C extensions
 *.so
 
