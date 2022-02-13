@@ -5,6 +5,7 @@ __pycache__/
 
 scratch_pad.txt
 /Data/
+/Papers/
 
 # C extensions
 *.so
