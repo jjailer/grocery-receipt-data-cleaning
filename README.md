@@ -1,16 +1,8 @@
 # cookies-cognition
 Cookies and Cognition Analytics for Austerweil Lab
 
-data_validation.ipynb
+Main file is merge.ipynb, which aligns and merges grocery data via a word vector language model implementing Word Mover's Distance.
 
-Examines overlap between transcription data sets. Work in progress.
+explore.ipynb shows basic EDA.
 
-
-Old Files: 'Data cleaning.ipynb' & 'LDA.ipynb'
-
-These were created as first attempts at using pandas and LDA. They will probably be cannibalized for code snippets and I'm not sure anything here is correct.
-
-
-'advanced cleaning and binning.ipynb'
-
-Improvised attempt at primitive lemmatization before I knew what that was. Probably useless.
+clean.ipynb preprocesses data for merge.ipynb.
