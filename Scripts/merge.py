@@ -1,22 +1,29 @@
 import itertools
 
-from tqdm.auto import tqdm
+from tqdm.notebook import tqdm
 import pandas as pd
 
 
 def equalize_length(df1, df2):
-    df1_length, df2_length = len(df1), len(df2)
+    # df1 must point to larger df
+    # align function searches for matches from df1 into df2
+    # filling with the empty string in df1 would cause surpious matches 
+    if df1.shape[0] == df2.shape[0]:
+        return df1, df2
+    elif df2.shape[0] > df1.shape[0]:
+        df1, df2 = df2, df1
     
-    if df1_length > df2_length:    
-        df2 = df2.reindex(list(range(df1_length))).fillna('')
-    elif df2_length > df1_length:
-        df1 = df1.reindex(list(range(df2_length))).fillna('')
+    df2 = df2.reindex(list(range(df1.shape[0])))
+    df2.ID = df2.ID.fillna(method='ffill')
+    df2.Session = df2.Session.fillna(method='ffill')
+    df2.Receipt = df2.Receipt.fillna(method='ffill')
+    df2.Item = df2.Item.fillna('')
 
-    assert len(df1) == len(df2)
+    assert df1.shape[0] == df2.shape[0]
     return df1, df2
 
 
-def compare_naive(df_row):
+def compare_naive(df_row, word_vectors):
     result = []
     df_split = df_row.str.split()
     df_split = df_split.fillna('') # hack: somehow a NaN value can sneak in 
@@ -94,16 +101,17 @@ def compare_naive(df_row):
     else:
         df_row['WordVec'] = ' '.join(result)
         df_row['Distance'] = 0.999  
+        return df_row
 
 
-def align(df1, df2, count_only=False):
+def align(df1, df2, word_vectors, count_only=False):
     df1, df2 = equalize_length(df1, df2)
     
     # remove identical matches
     result_pairs = []
     df1_dropped, df2_dropped = df1.index, df2.index
-    for df1_idx, df1_word in df1.iteritems():
-        matches = df2[df2_dropped].str.fullmatch(df1_word)
+    for df1_idx, df1_word in df1.Item.iteritems():
+        matches = df2.loc[df2_dropped, 'Item'].str.fullmatch(df1_word, na=False)
         if any(matches):
             match_index = matches.idxmax() # return index of first match
             result_pairs.append((df1_idx, match_index))
@@ -111,10 +119,10 @@ def align(df1, df2, count_only=False):
             df2_dropped = df2_dropped.drop(match_index)
     
     # remove substring matches
-    df1_split = df1[df1_dropped].str.split()
+    df1_split = df1.loc[df1_dropped, 'Item'].str.split()
     for df1_idx, df1_words in df1_split.iteritems():
         for word in df1_words:
-            matches = df2[df2_dropped].str.contains(word, regex=False)
+            matches = df2.loc[df2_dropped, 'Item'].str.contains(word, regex=False)
             if any(matches):
                 match_index = matches.idxmax() # return index of first match
                 result_pairs.append((df1_idx, match_index))
@@ -123,10 +131,10 @@ def align(df1, df2, count_only=False):
                 break
     
     # remove substring matches in the other direction
-    df2_split = df2[df2_dropped].str.split()
+    df2_split = df2.loc[df2_dropped, 'Item'].str.split()
     for df2_idx, df2_words in df2_split.iteritems():
         for word in df2_words:
-            matches = df1[df1_dropped].str.contains(word, regex=False)
+            matches = df1.loc[df1_dropped, 'Item'].str.contains(word, regex=False)
             if any(matches):
                 match_index = matches.idxmax() # return index of first match
                 result_pairs.append((match_index, df2_idx))
@@ -135,9 +143,9 @@ def align(df1, df2, count_only=False):
                 break
     
     # remove additional unmatched empty items
-    df2_dropped = df2_dropped.drop(df2[df2_dropped][df2[df2_dropped] == ''].index)    
+    df2_dropped = df2_dropped.drop(df2.loc[df2_dropped.intersection(df2.Item == '')].index)    
 
-    ## short circut for debugging permutation counts
+    ## short circut for debugging permutation counts (divergence function)
     if count_only:
         print(f'{len(df2_dropped)}! {list(df2_dropped)}')
         return
@@ -148,12 +156,13 @@ def align(df1, df2, count_only=False):
     # generate word vectors and similarity
     if len(df2_dropped) > 1:
         total_distance = []
-        df1_reindexed = df1[df1_dropped].reset_index(drop=True)
-        for p in tqdm(perms, desc="Permutations", leave=False):
+        df1_reindexed = df1.loc[df1_dropped, :].reset_index(drop=True)
+        for p in perms:
             p = pd.Index(p)
             total_distance.append(
                 sum(pd.concat(
-                    [df1_reindexed, df2[p].reset_index(drop=True)], axis=1).apply(compare_naive, axis=1).Distance))        
+                    [df1_reindexed.Item, df2.loc[p, 'Item'].reset_index(drop=True)], axis=1).apply(compare_naive, 
+                                                                                  axis=1, args=(word_vectors,)).Distance))        
         # find max permutation
         perms_reset = itertools.permutations(df2_dropped) # reset generator
         result_index = pd.Index(next(itertools.islice(perms_reset, total_distance.index(min(total_distance)), None)))
@@ -168,41 +177,52 @@ def align(df1, df2, count_only=False):
         top_index_left, top_index_right = pd.Index([]), pd.Index([])
     bot_index_left, bot_index_right = df1_dropped, result_index
 
-    df_combined = pd.concat([pd.concat([df1[top_index_left].reset_index(drop=True), 
-                                        df2[top_index_right].reset_index(drop=True)], axis=1, ignore_index=True), 
-                             pd.concat([df1[bot_index_left].reset_index(drop=True), 
-                                        df2[bot_index_right].reset_index(drop=True)], axis=1, ignore_index=True)], 
+    df_combined = pd.concat([pd.concat([df1.loc[top_index_left, :].reset_index(drop=True), 
+                                        df2.loc[top_index_right, :].reset_index(drop=True)], axis=1, ignore_index=True), 
+                             pd.concat([df1.loc[bot_index_left, :].reset_index(drop=True), 
+                                        df2.loc[bot_index_right, :].reset_index(drop=True)], axis=1, ignore_index=True)], 
                             ignore_index=True)
     
     return df_combined
 
 
-def align_by_receipt(dfs, wv, count_only=False):
-    # align([dfs], word_vectors, comparison_function, count_only, dfwv)
-    # return(df, [dfwv])
-    global word_vectors 
-    word_vectors = wv
+def divergence(dfs, word_vectors):
     df_final = pd.DataFrame()
-    IDs = [130, 153, 135, 137, 141, 114, 121, 127]
-    for pid in tqdm(IDs, desc="IDs"):
-        for session in tqdm(dfs[0].loc[dfs[0].ID == pid, 'Session'].unique(), desc="Sessions"):
-            for receipt in tqdm(dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session), 'Receipt'].unique(), desc="Receipts"):
-                print(f'ID: {pid}, Session: {session}, Receipt: {receipt}')
-                if count_only:
-                    df_final = align(dfs[0].loc[(dfs[0].ID == pid) & 
-                                                (dfs[0].Session == session) & 
-                                                (dfs[0].Receipt == receipt), 'Item'].reset_index(drop=True), 
-                                     dfs[2].loc[(dfs[2].ID == pid) & 
-                                                (dfs[2].Session == session) & 
-                                                (dfs[2].Receipt == receipt), 'Item'].reset_index(drop=True),
-                                     count_only)
-                else:
-                    df_final = pd.concat([df_final, align(dfs[0].loc[(dfs[0].ID == pid) & 
-                                                                     (dfs[0].Session == session) & 
-                                                                     (dfs[0].Receipt == receipt), 'Item'].reset_index(drop=True),
-                                                          dfs[2].loc[(dfs[2].ID == pid) & 
-                                                                     (dfs[2].Session == session) & 
-                                                                     (dfs[2].Receipt == receipt), 'Item'].reset_index(drop=True), 
-                                                          count_only).apply(compare_naive, axis=1)],
-                                         ignore_index=True)
-    return df_final
+    for pid in dfs[0].ID.unique():
+        for session in dfs[0].loc[dfs[0].ID == pid, 'Session'].unique():
+            for receipt in dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session), 'Receipt'].unique():
+                print(f'ID: {pid}, Session: {session}, Receipt: {receipt}, Div:', end=' ')
+                align(dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session) & 
+                                 (dfs[0].Receipt == receipt)].reset_index(drop=True), 
+                      dfs[1].loc[(dfs[1].ID == pid) & (dfs[1].Session == session) & 
+                                 (dfs[1].Receipt == receipt)].reset_index(drop=True), 
+                      word_vectors, count_only=True)
+        print()
+    return
+
+
+def merge(dfs, word_vectors):
+    # TODO is final .apply(compare) necessary?
+    for df in dfs:
+        df.Item.fillna('')
+    df_large = pd.DataFrame()
+    
+    for pid in tqdm(dfs[0].ID.unique(), desc="ID"):
+        for session in tqdm(dfs[0].loc[dfs[0].ID == pid, 'Session'].unique(), desc="Session"):
+            for receipt in dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session), 'Receipt'].unique():
+                df_large = pd.concat([df_large, align(dfs[0].loc[(dfs[0].ID == pid) & 
+                                                                 (dfs[0].Session == session) & 
+                                                                 (dfs[0].Receipt == receipt)].reset_index(drop=True),
+                                                      dfs[1].loc[(dfs[1].ID == pid) & 
+                                                                 (dfs[1].Session == session) & 
+                                                                 (dfs[1].Receipt == receipt)].reset_index(drop=True), 
+                                                      word_vectors)],
+                                     ignore_index=True)
+    
+    df_large = df_large.rename({0: 'ID', 1: 'Session', 2: 'Receipt'}, axis=1)
+    df_items = pd.DataFrame(df_large.iloc[:, [3, 7]])
+    df_items.columns = ['0', '1']
+    
+    df_final = pd.concat([df_large.iloc[:, [0, 1, 2]], df_items.apply(compare_naive, axis=1, args=(word_vectors,))], axis=1)
+    df_final = df_final.rename({'0': 'Item1', '1': 'Item2', 'WordVec': 'Item'}, axis=1)
+    return df_final[['ID', 'Session', 'Receipt', 'Item']], df_final.loc[df_final.Distance > 1]
