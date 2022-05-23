@@ -26,7 +26,7 @@ def equalize_length(df1, df2):
 def compare_naive(df_row, word_vectors):
     result = []
     df_split = df_row.str.split()
-    df_split = df_split.fillna('') # hack: somehow a NaN value can sneak in 
+    # df_split = df_split.fillna('') # hack: somehow a NaN value can sneak in 
     
     shared_words = set.intersection(*map(set, df_split))
     unshared_words = set.symmetric_difference(*map(set, df_split))
@@ -40,9 +40,10 @@ def compare_naive(df_row, word_vectors):
                 subword_matches.extend([word1, word2])
     unmatched_words = unshared_words.difference(set(subword_matches))
     
-    unmatched_words_in_voc = [word for word in unmatched_words if word in word_vectors.vocab]     
     shared_words_in_voc = [word for word in shared_words if word in word_vectors.vocab]
     unshared_words_in_voc = [word for word in unshared_words if word in word_vectors.vocab]
+    unmatched_words_in_voc = [word for word in unmatched_words if word in word_vectors.vocab]     
+    # words_in_voc = [word for item in df_split for word in item if word in word_vectors.vocab]
     words_in_voc = shared_words_in_voc + unshared_words_in_voc
     
     # Matching Case Flow
@@ -50,9 +51,10 @@ def compare_naive(df_row, word_vectors):
     # 1. complete identical match
     # 2. one contains all the words of the other
     # 3. one contains all the words of the other as substrings
-    # 4. one unmatched word
-    # 5. unmatched words in vocabulary
-    # 6. unmatched words but out of vocabulary
+    # 4. result contains two or more words
+    # 5. one unmatched word in vocabulary
+    # 6. multiple unmatched words in vocabulary
+    # 7. unmatched words but out of vocabulary
     
     # always return identical matches
     result.extend(shared_words)
@@ -73,18 +75,24 @@ def compare_naive(df_row, word_vectors):
     result.extend(shared_subwords)
     if not unmatched_words:   
         df_row['WordVec'] = ' '.join(result)
+        df_row['Distance'] = 0.16180
+        return df_row    
+    
+    # 4. result contains two or more words
+    if len(result) >= 2:
+        df_row['WordVec'] = ' '.join(result)
         df_row['Distance'] = 0.271828  
-        return df_row            
-    # 4. one unmatched word
-    elif len(unmatched_words) == 1:
-        result.append(*unmatched_words)
+        return df_row    
+    
+    # 5. one unmatched word in vocabulary
+    if len(unmatched_words_in_voc) == 1:
+        result.append(*unmatched_words_in_voc)
         df_row['WordVec'] = ' '.join(result)
         df_row['Distance'] = 0.314159       
         return df_row
-  
-    # 5. unmatched words in vocabulary
-    if unmatched_words_in_voc:
-        most_similar_key, _ = word_vectors.most_similar(positive=[*shared_words_in_voc, *unmatched_words_in_voc], topn=1)[0]  
+    # 6. multiple unmatched words in vocabulary
+    elif len(unmatched_words_in_voc) > 1:
+        most_similar_key, _ = word_vectors.most_similar(positive=[*words_in_voc], topn=1)[0]  
         
         # don't append word vector if it repeats a word or subword
         for res in result: 
@@ -97,7 +105,7 @@ def compare_naive(df_row, word_vectors):
         df_row['WordVec'] = ' '.join(result)
         df_row['Distance'] = word_vectors.wmdistance(df_split[0], df_split[1]) # wmdistance handles oov
         return df_row
-    # 6. unmatched words but out of vocabulary
+    # 7. unmatched words but out of vocabulary
     else:
         df_row['WordVec'] = ' '.join(result)
         df_row['Distance'] = 0.999  
