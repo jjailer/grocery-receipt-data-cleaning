@@ -1,10 +1,14 @@
-import itertools
+import itertools as it
 
 from tqdm.notebook import tqdm
 import pandas as pd
 
 
-def equalize_length(df1, df2):
+def _equalize_length(df1, df2):
+    """Extend the length of one DataFrame to match the length of the other.
+    
+    Additional rows contain the empty string.
+    Return the (initially) larger DataFrame first. """
     # df1 must point to larger df
     # align function searches for matches from df1 into df2
     # filling with the empty string in df1 would cause surpious matches 
@@ -113,7 +117,7 @@ def compare_naive(df_row, word_vectors):
 
 
 def align(df1, df2, word_vectors, count_only=False):
-    df1, df2 = equalize_length(df1, df2)
+    df1, df2 = _equalize_length(df1, df2)
     
     # remove identical matches
     result_pairs = []
@@ -159,7 +163,7 @@ def align(df1, df2, word_vectors, count_only=False):
         return
     
     # all permutations of remaining indices
-    perms = itertools.permutations(df2_dropped)
+    perms = it.permutations(df2_dropped)
 
     # generate word vectors and similarity
     if len(df2_dropped) > 1:
@@ -172,11 +176,11 @@ def align(df1, df2, word_vectors, count_only=False):
                     [df1_reindexed.Item, df2.loc[p, 'Item'].reset_index(drop=True)], axis=1).apply(compare_naive, 
                                                                                   axis=1, args=(word_vectors,)).Distance))        
         # find max permutation
-        perms_reset = itertools.permutations(df2_dropped) # reset generator
-        result_index = pd.Index(next(itertools.islice(perms_reset, total_distance.index(min(total_distance)), None)))
+        perms_reset = it.permutations(df2_dropped) # reset generator
+        result_index = pd.Index(next(it.islice(perms_reset, total_distance.index(min(total_distance)), None)))
     else:
-        perms_reset = itertools.permutations(df2_dropped) # reset generator
-        result_index = pd.Index(next(itertools.islice(perms_reset, 0, None)))
+        perms_reset = it.permutations(df2_dropped) # reset generator
+        result_index = pd.Index(next(it.islice(perms_reset, 0, None)))
     
     # return concatendated dataframe with word vectors
     if result_pairs:
@@ -195,7 +199,25 @@ def align(df1, df2, word_vectors, count_only=False):
 
 
 def divergence(dfs, word_vectors):
+    if len(dfs) != 2:
+        raise TypeError("Expected list of length 2")
+    
+    for df in dfs:
+        if not isinstance(df, pd.DataFrame):
+            raise TypeError("Expected pandas DataFrame")
+        if df.columns.values.tolist() != ["ID", "Session", "Receipt", "Item"]:
+            raise ValueError('Expected columns "ID", "Session", "Receipt", "Item"')
+        df.Item.fillna('')
+        
+    if set(dfs[0].ID.unique()) != set(dfs[1].ID.unique()):
+        raise ValueError("Expected identical ID values")
+    if set(dfs[0].Session.unique()) != set(dfs[1].Session.unique()):
+        raise ValueError("Expected identical Session values")
+    if set(dfs[0].Receipt.unique()) != set(dfs[1].Receipt.unique()):
+        raise ValueError("Expected identical Receipt values")
+        
     df_final = pd.DataFrame()
+    
     for pid in dfs[0].ID.unique():
         for session in dfs[0].loc[dfs[0].ID == pid, 'Session'].unique():
             for receipt in dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session), 'Receipt'].unique():
@@ -210,9 +232,23 @@ def divergence(dfs, word_vectors):
 
 
 def merge(dfs, word_vectors):
-    # TODO is final .apply(compare) necessary?
+    if len(dfs) != 2:
+        raise TypeError("Expected list of length 2")
+    
     for df in dfs:
+        if not isinstance(df, pd.DataFrame):
+            raise TypeError("Expected pandas DataFrame")
+        if df.columns.values.tolist() != ["ID", "Session", "Receipt", "Item"]:
+            raise ValueError('Expected columns "ID", "Session", "Receipt", "Item"')
         df.Item.fillna('')
+        
+    if set(dfs[0].ID.unique()) != set(dfs[1].ID.unique()):
+        raise ValueError("Expected identical ID values")
+    if set(dfs[0].Session.unique()) != set(dfs[1].Session.unique()):
+        raise ValueError("Expected identical Session values")
+    if set(dfs[0].Receipt.unique()) != set(dfs[1].Receipt.unique()):
+        raise ValueError("Expected identical Receipt values")
+        
     df_large = pd.DataFrame()
     
     for pid in tqdm(dfs[0].ID.unique(), desc="ID"):
