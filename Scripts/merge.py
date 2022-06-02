@@ -252,7 +252,7 @@ def merge(dfs, word_vectors):
     df_large = pd.DataFrame()
     
     for pid in tqdm(dfs[0].ID.unique(), desc="ID"):
-        for session in tqdm(dfs[0].loc[dfs[0].ID == pid, 'Session'].unique(), desc="Session"):
+        for session in dfs[0].loc[dfs[0].ID == pid, 'Session'].unique():
             for receipt in dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session), 'Receipt'].unique():
                 df_large = pd.concat([df_large, align(dfs[0].loc[(dfs[0].ID == pid) & 
                                                                  (dfs[0].Session == session) & 
