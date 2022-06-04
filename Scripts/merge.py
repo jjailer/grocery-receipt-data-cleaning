@@ -5,10 +5,9 @@ import pandas as pd
 
 
 def _equalize_length(df1, df2):
-    """Extend the length of one DataFrame to match the length of the other.
-    
-    Additional rows contain the empty string.
-    Return the (initially) larger DataFrame first. """
+    """Return two pandas DataFrames of equal length. 
+    The larger is returned first and the smaller is padded with the empty string.
+    """
     # df1 must point to larger df
     # align function searches for matches from df1 into df2
     # filling with the empty string in df1 would cause surpious matches 
@@ -27,10 +26,11 @@ def _equalize_length(df1, df2):
     return df1, df2
 
 
-def compare_naive(df_row, word_vectors):
+def _compare_naive(df_row, word_vectors):
+    """Extend a row of a pandas DataFrame with a similar word and a measure of their similarity.
+    """
     result = []
     df_split = df_row.str.split()
-    # df_split = df_split.fillna('') # hack: somehow a NaN value can sneak in 
     
     shared_words = set.intersection(*map(set, df_split))
     unshared_words = set.symmetric_difference(*map(set, df_split))
@@ -116,7 +116,11 @@ def compare_naive(df_row, word_vectors):
         return df_row
 
 
-def align(df1, df2, word_vectors, count_only=False):
+def _align(df1, df2, word_vectors, count_only=False):
+    """Extend a pandas DataFrame with a column called 'WordVec' containing a similar word
+    and a column called 'Distance' containing a measure of their similarity. The rows of
+    the DataFrame are reorder to create the highest similarity among input words.
+    """
     df1, df2 = _equalize_length(df1, df2)
     
     # remove identical matches
@@ -173,7 +177,7 @@ def align(df1, df2, word_vectors, count_only=False):
             p = pd.Index(p)
             total_distance.append(
                 sum(pd.concat(
-                    [df1_reindexed.Item, df2.loc[p, 'Item'].reset_index(drop=True)], axis=1).apply(compare_naive, 
+                    [df1_reindexed.Item, df2.loc[p, 'Item'].reset_index(drop=True)], axis=1).apply(_compare_naive, 
                                                                                   axis=1, args=(word_vectors,)).Distance))        
         # find max permutation
         perms_reset = it.permutations(df2_dropped) # reset generator
@@ -199,6 +203,7 @@ def align(df1, df2, word_vectors, count_only=False):
 
 
 def divergence(dfs, word_vectors):
+    """Return a measure of the computational complexity for each receipt."""
     if len(dfs) != 2:
         raise TypeError("Expected list of length 2")
     
@@ -222,7 +227,7 @@ def divergence(dfs, word_vectors):
         for session in dfs[0].loc[dfs[0].ID == pid, 'Session'].unique():
             for receipt in dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session), 'Receipt'].unique():
                 print(f'ID: {pid}, Session: {session}, Receipt: {receipt}, Div:', end=' ')
-                align(dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session) & 
+                _align(dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session) & 
                                  (dfs[0].Receipt == receipt)].reset_index(drop=True), 
                       dfs[1].loc[(dfs[1].ID == pid) & (dfs[1].Session == session) & 
                                  (dfs[1].Receipt == receipt)].reset_index(drop=True), 
@@ -232,6 +237,10 @@ def divergence(dfs, word_vectors):
 
 
 def merge(dfs, word_vectors):
+    """Return a pandas DataFrame containing an average of the two input. A second DataFrame
+       is returned with the item where heavy use of word vectors was required. These rows
+       should be examined by hand for errors.
+    """
     if len(dfs) != 2:
         raise TypeError("Expected list of length 2")
     
@@ -254,7 +263,7 @@ def merge(dfs, word_vectors):
     for pid in tqdm(dfs[0].ID.unique(), desc="ID"):
         for session in dfs[0].loc[dfs[0].ID == pid, 'Session'].unique():
             for receipt in dfs[0].loc[(dfs[0].ID == pid) & (dfs[0].Session == session), 'Receipt'].unique():
-                df_large = pd.concat([df_large, align(dfs[0].loc[(dfs[0].ID == pid) & 
+                df_large = pd.concat([df_large, _align(dfs[0].loc[(dfs[0].ID == pid) & 
                                                                  (dfs[0].Session == session) & 
                                                                  (dfs[0].Receipt == receipt)].reset_index(drop=True),
                                                       dfs[1].loc[(dfs[1].ID == pid) & 
@@ -267,6 +276,6 @@ def merge(dfs, word_vectors):
     df_items = pd.DataFrame(df_large.iloc[:, [3, 7]])
     df_items.columns = ['0', '1']
     
-    df_final = pd.concat([df_large.iloc[:, [0, 1, 2]], df_items.apply(compare_naive, axis=1, args=(word_vectors,))], axis=1)
+    df_final = pd.concat([df_large.iloc[:, [0, 1, 2]], df_items.apply(_compare_naive, axis=1, args=(word_vectors,))], axis=1)
     df_final = df_final.rename({'0': 'Item1', '1': 'Item2', 'WordVec': 'Item'}, axis=1)
     return df_final[['ID', 'Session', 'Receipt', 'Item']], df_final.loc[df_final.Distance > 1]
