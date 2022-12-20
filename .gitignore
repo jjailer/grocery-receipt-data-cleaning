@@ -1,11 +1,12 @@
+# Not code
+scratch_pad.txt
+/Data/
+/Papers/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-scratch_pad.txt
-/Data/
-/Papers/
 
 # C extensions
 *.so
