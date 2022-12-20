@@ -44,10 +44,10 @@ def _compare_naive(df_row, word_vectors):
                 subword_matches.extend([word1, word2])
     unmatched_words = unshared_words.difference(set(subword_matches))
     
-    shared_words_in_voc = [word for word in shared_words if word in word_vectors.vocab]
-    unshared_words_in_voc = [word for word in unshared_words if word in word_vectors.vocab]
-    unmatched_words_in_voc = [word for word in unmatched_words if word in word_vectors.vocab]     
-    # words_in_voc = [word for item in df_split for word in item if word in word_vectors.vocab]
+    shared_words_in_voc = [word for word in shared_words if word in word_vectors.key_to_index]
+    unshared_words_in_voc = [word for word in unshared_words if word in word_vectors.key_to_index]
+    unmatched_words_in_voc = [word for word in unmatched_words if word in word_vectors.key_to_index]     
+    # words_in_voc = [word for item in df_split for word in item if word in word_vectors.key_to_index]
     words_in_voc = shared_words_in_voc + unshared_words_in_voc
     
     # Matching Case Flow
