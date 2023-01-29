@@ -1,12 +1,13 @@
-# cookies-cognition
-Cookies and Cognition Analytics for Austerweil Lab
+The overall goal of the project was to clean, process, and unify, three partially repeated sets of grocery receipts, so that they may be used in modeling. The cleaning and processing was straightforward, but there proved to be substantial variations in the repeated transcriptions. I explored the efficacy of automating the unification, in order to avoid adding another layer of human subjectivity to the data, as well as provide transparency and reproducibility. The tools used in the project are Python, Pandas, Gensim, and Jupyter notebooks.
 
-clean_x.ipynb shows basic cleaning of the three data sets
+The cleaning of the three data sets is documented in three Jupyter notebooks titled "clean_NAME.ipynb". Assigned participants are validated, typos are discovered and fixed in receipt enumeration, date, and grocery item data. In all three data sets almost half of the data points are dropped primarily due to missing receipt numbers. One data set also exhibits a large amount of participant data missing altogether.
 
-transcription_variations.ipynb examines differences between the transcription results of shared participants
+The repeated transcription data contains many variations that make it more difficult for a machine to recognize identical grocery items. For example, there are alternate spellings, like "mangos'' vs "mangoes." But also synonyms, "beef patty" vs "hamburger." Furthermore, the grocery items frequently appear out of order, so each item may need to be compared against all the other items on the receipt. I created an algorithm detailed in [merge.py](https://github.com/jjailer/cookies-cognition/blob/679a38025c02698099cb9ed5d83074969bf9b92c/Scripts/merge.py#L53) that measures the similarity of grocery items across two receipts, and then reorders and merges them based on lexical similarity. Regular expressions are used to identify alternate spellings and word vectors are used to identify synonyms. Difficult comparisons like synonyms are flagged and potentially merged by hand. This results in a single cleaned data set ready for modeling (not currently on GitHub for privacy). The number of comparisons done by hand is reduced by two orders of magnitude and is fully documented and reproducible. Unfortunately, the O(n!) algorithm is not scalable and requires preprocessing ("preprocess_*.ipynb") to compute.
 
-preprocess_merge_x.ipynb modifies the data so that receipts are sufficiently similar for the merge algorithm to be feasible
+Here are my takeaways:
+1. I produced a single, clean data set.
+2. The cleaning process can be automated, documented, and reproducible.
+3. The O(n!) algorithm is not scalable and therefore not generalizable.
+4. The algorithm would become O(n) if the transcription data were aligned.
 
-merge.py contains the algorithm that aligns and merges grocery data via a word vector language model implementing Word Mover's Distance. 
-
-merge.ipynb executes the merge algorithm on our data sets and analyzes the results
+Transcription by hand produces a large number of simple mistakes and inconsistencies. I believe it is reasonable to expect an additional and similar introduction of error when merging data sets by hand. By reducing the amount of human intervention in the process, data quality should be significantly improved. However, without a merged-by-hand data set for comparison, this is only speculation.
